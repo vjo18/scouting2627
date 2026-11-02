@@ -51,7 +51,7 @@ const unique=new Map();
 for(const p of missing){const key=p.team.toLocaleLowerCase()+"|"+p.name.toLocaleLowerCase();if(!unique.has(key))unique.set(key,p)}
 const quote=v=>String(v??"").includes(";")||String(v??"").includes('"')?'"'+String(v).replaceAll('"','""')+'"':String(v??"");
 const rows=[["ClubRBFA","Naam","Geboortejaar"],...[...unique.values()].map(p=>[p.team,p.name,""])];
-const text="\\uFEFF"+rows.map(row=>row.map(quote).join(";")).join("\\r\\n");
+const text="\uFEFF"+rows.map(row=>row.map(quote).join(";")).join("\r\n");
 const blob=new Blob([text],{type:"text/csv;charset=utf-8"});
 const url=URL.createObjectURL(blob);const link=document.createElement("a");link.href=url;link.download="ontbrekende_geboortejaren.csv";link.click();setTimeout(()=>URL.revokeObjectURL(url),1000)
 }
