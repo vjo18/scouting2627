@@ -18,6 +18,7 @@ const split = (line) => line.split(";");
 const original = fs.existsSync(path)?fs.readFileSync(path, "utf8").trim().split(/\r?\n/).slice(1).map(split):[];
 const entries = new Map(original.map(([team, club, id, number]) => [team, { team, club, id, number }]));
 for(const match of calendar)for(const team of [match.homeTeam,match.awayTeam])if(team&&!entries.has(team))entries.set(team,{team,club:"",id:"",number:""});
+console.log(`Discovering official RBFA names for ${entries.size} teams across ${calendar.length} fixtures`);
 const browser = await puppeteer.launch({ headless: false, args: ["--no-sandbox", "--disable-setuid-sandbox"] });
 const page = await browser.newPage();
 page.setDefaultNavigationTimeout(60000);
