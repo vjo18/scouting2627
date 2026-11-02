@@ -4,7 +4,7 @@ on:
     branches: [main]
   workflow_dispatch:
   workflow_run:
-    workflows: ["Update scouting data"]
+    workflows: ["Update scouting data", "Rebuild scouting birth years"]
     types: [completed]
 permissions:
   contents: read
