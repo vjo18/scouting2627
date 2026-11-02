@@ -11,6 +11,7 @@ def number(value):
     try:return float(value or 0)
     except:return 0.0
 def yes(value):return str(value).strip().lower() in ('true','1','yes')
+mapping={r.get('TeamRepo','').strip().casefold():r.get('ClubRBFA','').strip() for r in readcsv(ROOT/'data_raw/team_club_mapping.csv',';') if r.get('ClubRBFA')}
 births=defaultdict(set)
 team_births=defaultdict(set)
 for row in readcsv(ROOT/'data_raw/birthyears.csv',';'):
@@ -52,7 +53,8 @@ for comp in COMPS:
         for src,dst in [('Minutes Played','minutes'),('Goals Scored','goals'),('Penalties Scored','penalties'),('Own Goals Scored','ownGoals'),('Yellow Cards','yellows'),('Red Cards','reds'),('YellowRed Cards','yellowReds')]:
             p[dst]+=number(row.get(src))
     for p in groups.values():
-        years=team_births.get((p['team'].casefold(),p['name'].casefold()),set()) or births.get(p['name'].casefold(),set())
+        official=mapping.get(p['team'].casefold(),p['team'])
+        years=team_births.get((official.casefold(),p['name'].casefold()),set()) or team_births.get((p['team'].casefold(),p['name'].casefold()),set()) or births.get(p['name'].casefold(),set())
         if len(years)==1:
             p['birthYear']=next(iter(years))
             p['age']=datetime.now(timezone.utc).year-p['birthYear']
@@ -64,6 +66,6 @@ for comp in COMPS:
         p['goalsPer90']=round(p['goals']*90/p['minutes'],2) if p['minutes'] else 0
         p['minutesShare']=round(p['minutes']/(len(done)/16*90)*100,1) if done else 0
         output.append(p)
-out=dict(players=sorted(output,key=lambda p:(-p['minutes'],p['name'])),competitions=[dict(id=c['id'],name=c['name'],played=sum(m.get('homeScore') is not None and m.get('awayScore') is not None for m in json.loads((ROOT/'data_raw'/c['id']/'match_calendar.json').read_text())) if (ROOT/'data_raw'/c['id']/'match_calendar.json').exists() else 0) for c in COMPS if c.get('enabled',True)],updatedAt=datetime.now(timezone.utc).isoformat())
+out=dict(teamClubMapping={r.get('TeamRepo'):r.get('ClubRBFA') for r in readcsv(ROOT/'data_raw/team_club_mapping.csv',';') if r.get('TeamRepo') and r.get('ClubRBFA')},players=sorted(output,key=lambda p:(-p['minutes'],p['name'])),competitions=[dict(id=c['id'],name=c['name'],played=sum(m.get('homeScore') is not None and m.get('awayScore') is not None for m in json.loads((ROOT/'data_raw'/c['id']/'match_calendar.json').read_text())) if (ROOT/'data_raw'/c['id']/'match_calendar.json').exists() else 0) for c in COMPS if c.get('enabled',True)],updatedAt=datetime.now(timezone.utc).isoformat())
 dst=ROOT/'public/data/players.json';dst.parent.mkdir(parents=True,exist_ok=True);dst.write_text(json.dumps(out,ensure_ascii=False,separators=(',',':')))
 print(f"Saved {len(output)} players to {dst}")
