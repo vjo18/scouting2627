@@ -4,5 +4,11 @@
     "name": "1e Provinciale West-Vlaanderen 2026–27",
     "calendar_url": "https://www.rbfa.be/nl/competitie/CHP_136334/kalender",
     "enabled": true
+  },
+  {
+    "id": "chp-136064-2627",
+    "name": "RBFA competitie CHP_136064 · 2026–27",
+    "calendar_url": "https://www.rbfa.be/nl/competitie/CHP_136064/kalender",
+    "enabled": true
   }
 ]
