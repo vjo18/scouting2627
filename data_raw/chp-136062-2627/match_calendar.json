@@ -896,19 +896,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514481",
-    "date": "ZATERDAG, 5 DECEMBER 2026",
-    "homeTeam": "VK Ninove A",
-    "homeScore": null,
-    "awayTeam": "KSK.Londerzeel",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514480",
     "date": "ZATERDAG, 5 DECEMBER 2026",
     "homeTeam": "K.S.V. Oostkamp A",
     "homeScore": null,
     "awayTeam": "KFC Voorde-Appelterre A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514481",
+    "date": "ZATERDAG, 5 DECEMBER 2026",
+    "homeTeam": "VK Ninove A",
+    "homeScore": null,
+    "awayTeam": "KSK.Londerzeel",
     "awayScore": null
   },
   {
@@ -1304,19 +1304,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514532",
-    "date": "ZONDAG, 14 FEBRUARI 2027",
-    "homeTeam": "KM Torhout A",
-    "homeScore": null,
-    "awayTeam": "YRKV Mechelen B",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514530",
     "date": "ZONDAG, 14 FEBRUARI 2027",
     "homeTeam": "KSK.Londerzeel",
     "homeScore": null,
     "awayTeam": "SV Zulte-Waregem B",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514532",
+    "date": "ZONDAG, 14 FEBRUARI 2027",
+    "homeTeam": "KM Torhout A",
+    "homeScore": null,
+    "awayTeam": "YRKV Mechelen B",
     "awayScore": null
   },
   {
@@ -1424,6 +1424,14 @@
     "awayScore": null
   },
   {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514546",
+    "date": "ZONDAG, 28 FEBRUARI 2027",
+    "homeTeam": "KSK.Londerzeel",
+    "homeScore": null,
+    "awayTeam": "K.S.V. Oostkamp A",
+    "awayScore": null
+  },
+  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514551",
     "date": "ZONDAG, 28 FEBRUARI 2027",
     "homeTeam": "RFC Wetteren",
@@ -1445,14 +1453,6 @@
     "homeTeam": "KFCVW Hamme",
     "homeScore": null,
     "awayTeam": "K.V. Diksmuide Oostende A",
-    "awayScore": null
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514546",
-    "date": "ZONDAG, 28 FEBRUARI 2027",
-    "homeTeam": "KSK.Londerzeel",
-    "homeScore": null,
-    "awayTeam": "K.S.V. Oostkamp A",
     "awayScore": null
   },
   {
@@ -1880,6 +1880,22 @@
     "awayScore": null
   },
   {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514604",
+    "date": "ZONDAG, 25 APRIL 2027",
+    "homeTeam": "K.V. Diksmuide Oostende A",
+    "homeScore": null,
+    "awayTeam": "KSK.Londerzeel",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514600",
+    "date": "ZONDAG, 25 APRIL 2027",
+    "homeTeam": "YRKV Mechelen B",
+    "homeScore": null,
+    "awayTeam": "KFC Voorde-Appelterre A",
+    "awayScore": null
+  },
+  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514605",
     "date": "ZONDAG, 25 APRIL 2027",
     "homeTeam": "KSV Oudenaarde",
@@ -1901,22 +1917,6 @@
     "homeTeam": "RFC Wetteren",
     "homeScore": null,
     "awayTeam": "KFCHO Kalken A",
-    "awayScore": null
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514604",
-    "date": "ZONDAG, 25 APRIL 2027",
-    "homeTeam": "K.V. Diksmuide Oostende A",
-    "homeScore": null,
-    "awayTeam": "KSK.Londerzeel",
-    "awayScore": null
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514600",
-    "date": "ZONDAG, 25 APRIL 2027",
-    "homeTeam": "YRKV Mechelen B",
-    "homeScore": null,
-    "awayTeam": "KFC Voorde-Appelterre A",
     "awayScore": null
   }
 ]
