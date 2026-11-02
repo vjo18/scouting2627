@@ -21,7 +21,7 @@ for(const match of calendar)for(const team of [match.homeTeam,match.awayTeam])if
 console.log(`Discovering official RBFA names for ${entries.size} teams across ${calendar.length} fixtures`);
 const browser = await puppeteer.launch({ headless: false, args: ["--no-sandbox", "--disable-setuid-sandbox"] });
 const page = await browser.newPage();
-page.setDefaultNavigationTimeout(60000);
+page.setDefaultNavigationTimeout(15000);
 const wait = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 try {
   const unresolved = () => [...entries.values()].filter(e => !e.id);
@@ -29,8 +29,12 @@ try {
   // A fixture is visited only as needed; do not crawl an entire league calendar.
   const remaining = [...new Map(calendar.filter(m=>m.url).map(m=>[m.url,m])).values()];
   let pagesVisited=0;
-  while (unresolved().length && remaining.length) {
-    const unknown = new Set(unresolved().map(e=>e.team));
+  const attempts=new Map();
+  const maxAttemptsPerTeam=3;
+  const maxFixturePages=Math.min(180,entries.size*2);
+  while (unresolved().length && remaining.length && pagesVisited<maxFixturePages) {
+    const unknown = new Set(unresolved().filter(e=>(attempts.get(e.team)||0)<maxAttemptsPerTeam).map(e=>e.team));
+    if (!unknown.size) break;
     let bestIndex=-1, bestScore=0;
     for (let i=0;i<remaining.length;i++) {
       const m=remaining[i];
@@ -40,6 +44,7 @@ try {
     if(bestIndex<0)break;
     const [match]=remaining.splice(bestIndex,1);
     pagesVisited++;
+    for(const team of [match.homeTeam,match.awayTeam])if(unknown.has(team))attempts.set(team,(attempts.get(team)||0)+1);
     if (pagesVisited===1 || pagesVisited%5===0) console.log(`Progress: ${pagesVisited} match pages visited; ${unresolved().length} club IDs missing`);
     if (!match.url) continue;
     try {
@@ -56,7 +61,7 @@ try {
       }
     } catch (error) { console.warn("Wedstrijd overgeslagen:", match.url, error.message); }
   }
-  console.log(`Visited ${pagesVisited} fixture pages for ${entries.size-unresolved().length}/${entries.size} club IDs; ${unresolved().length} unresolved.`);
+  console.log(`Visited ${pagesVisited} fixture pages for ${entries.size-unresolved().length}/${entries.size} club IDs; ${unresolved().length} unresolved. Attempts capped at ${maxAttemptsPerTeam} per club.`);
   for (const entry of entries.values()) {
     if (!entry.id || (entry.club && entry.number)) continue;
     try {
