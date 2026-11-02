@@ -12,10 +12,13 @@ def number(value):
     except:return 0.0
 def yes(value):return str(value).strip().lower() in ('true','1','yes')
 births=defaultdict(set)
+team_births=defaultdict(set)
 for row in readcsv(ROOT/'data_raw/birthyears.csv',';'):
     name=(row.get('Naam') or '').strip().casefold()
     year=(row.get('Geboortejaar') or '').strip()
-    if name and year.isdigit():births[name].add(int(year))
+    if name and year.isdigit():
+        births[name].add(int(year))
+        team_births[((row.get('ClubRBFA') or '').strip().casefold(),name)].add(int(year))
 output=[]
 for comp in COMPS:
     if not comp.get('enabled',True):continue
@@ -39,7 +42,7 @@ for comp in COMPS:
         for src,dst in [('Minutes Played','minutes'),('Goals Scored','goals'),('Penalties Scored','penalties'),('Own Goals Scored','ownGoals'),('Yellow Cards','yellows'),('Red Cards','reds'),('YellowRed Cards','yellowReds')]:
             p[dst]+=number(row.get(src))
     for p in groups.values():
-        years=births.get(p['name'].casefold(),set())
+        years=team_births.get((p['team'].casefold(),p['name'].casefold()),set()) or births.get(p['name'].casefold(),set())
         if len(years)==1:
             p['birthYear']=next(iter(years))
             p['age']=datetime.now(timezone.utc).year-p['birthYear']
