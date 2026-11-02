@@ -5,6 +5,8 @@ on:
     paths:
       - 'data_raw/birthyears.csv'
       - 'data_raw/birthyear_uploads/**'
+      - 'scripts/aggregate.py'
+      - '.github/workflows/birthyears.yml'
   workflow_dispatch:
 permissions:
   contents: write
