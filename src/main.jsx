@@ -43,47 +43,13 @@ const presets=[
 {id:"scorer",label:"Efficiënte doelpuntenmakers",description:"Spelers met een relatief hoge doelpuntenproductie, bij voldoende speelminuten.",criteria:"Minstens 450 minuten en minstens 0,5 goals per 90 minuten."}
 ];
 function App(){
-const[theme,setTheme]=useState(()=>{try{return localStorage.getItem("scouting-theme")||"dark"}catch{return "dark"}}),[data,setData]=useState({players:[],competitions:[]}),[birthOverrides,setBirthOverrides]=useState(()=>{try{return JSON.parse(localStorage.getItem("scouting-birthyears")||"{}")}catch{return {}}}),[birthNotice,setBirthNotice]=useState(""),[loading,setLoading]=useState(true),[query,setQuery]=useState(""),[competition,setCompetition]=useState(""),[team,setTeam]=useState(""),[ageMin,setAgeMin]=useState(""),[ageMax,setAgeMax]=useState(""),[minutesMin,setMinutesMin]=useState(""),[minutesMax,setMinutesMax]=useState(""),[ppwMin,setPpwMin]=useState(""),[ppwMax,setPpwMax]=useState(""),[position,setPosition]=useState("all"),[metric,setMetric]=useState(""),[metricMin,setMetricMin]=useState(""),[metricMax,setMetricMax]=useState(""),[preset,setPreset]=useState("all"),[sort,setSort]=useState("minutes"),[desc,setDesc]=useState(true),[selected,setSelected]=useState(null),[visibleColumns,setVisibleColumns]=useState(()=>storedColumns("all")),[columnPicker,setColumnPicker]=useState(false);
+const[theme,setTheme]=useState(()=>{try{return localStorage.getItem("scouting-theme")||"dark"}catch{return "dark"}}),[data,setData]=useState({players:[],competitions:[]}),[loading,setLoading]=useState(true),[query,setQuery]=useState(""),[competition,setCompetition]=useState(""),[team,setTeam]=useState(""),[ageMin,setAgeMin]=useState(""),[ageMax,setAgeMax]=useState(""),[minutesMin,setMinutesMin]=useState(""),[minutesMax,setMinutesMax]=useState(""),[ppwMin,setPpwMin]=useState(""),[ppwMax,setPpwMax]=useState(""),[position,setPosition]=useState("all"),[metric,setMetric]=useState(""),[metricMin,setMetricMin]=useState(""),[metricMax,setMetricMax]=useState(""),[preset,setPreset]=useState("all"),[sort,setSort]=useState("minutes"),[desc,setDesc]=useState(true),[selected,setSelected]=useState(null),[visibleColumns,setVisibleColumns]=useState(()=>storedColumns("all")),[columnPicker,setColumnPicker]=useState(false);
 useEffect(()=>{try{const saved=JSON.parse(localStorage.getItem("scouting-columns-by-position")||"{}");saved[position]=visibleColumns;localStorage.setItem("scouting-columns-by-position",JSON.stringify(saved))}catch{}},[visibleColumns,position]);
 function changePosition(next){setPosition(next);setVisibleColumns(storedColumns(next));setSort("minutes");setDesc(true)}
 
 useEffect(()=>{document.documentElement.dataset.theme=theme;localStorage.setItem("scouting-theme",theme)},[theme]);
 useEffect(()=>{fetch(import.meta.env.BASE_URL+"data/players.json").then(x=>{if(!x.ok)throw Error("Geen data");return x.json()}).then(setData).catch(console.error).finally(()=>setLoading(false))},[]);
-const players=useMemo(()=>(data.players||[]).map(p=>{const year=birthOverrides[birthKey(p.team,p.name)];return year?{...p,birthYear:year,age:new Date().getFullYear()-year}:p}),[data.players,birthOverrides]);
-useEffect(()=>{try{localStorage.setItem("scouting-birthyears",JSON.stringify(birthOverrides))}catch{}},[birthOverrides]);
-async function uploadBirthyears(event){
- const file=event.target.files?.[0];if(!file)return;
- try{
-  const rows=parseDelimited(await file.text());
-  if(!rows.length)throw Error("Geen rijen gevonden.");
-  const required=["Naam","Geboortejaar"];if(!required.every(k=>k in rows[0])||(!("Ploeg" in rows[0])&&!('ClubRBFA' in rows[0])))throw Error("Verwacht Ploeg;Naam;Geboortejaar;Gevonden of ClubRBFA;Naam;Geboortejaar.");
-  const valid=new Map(players.map(p=>[birthKey(p.team,p.name),p]));
-  const updates={};let added=0,skipped=0,conflicts=0;const yearNow=new Date().getFullYear();
-  for(const row of rows){
-   if(["false","nee","no","0","niet gevonden"].includes(norm(row.Gevonden))){skipped++;continue}
-   const team=row.Ploeg||row.ClubRBFA||"",name=row.Naam||"",key=birthKey(team,name);
-   const year=Number(row.Geboortejaar);
-   if(!valid.has(key)||!/^(19|20)\d{2}$/.test(row.Geboortejaar||"")||year>yearNow||year<1900){skipped++;continue}
-   const existing=valid.get(key).birthYear||birthOverrides[key]||updates[key];
-   if(existing&&Number(existing)!==year){conflicts++;continue}
-   if(!existing){updates[key]=year;added++}
-  }
-  if(added)setBirthOverrides(before=>({...before,...updates}));
-  setBirthNotice("Import: "+added+" geboortejaren toegevoegd, "+skipped+" overgeslagen, "+conflicts+" conflicten. "+(conflicts?"Bestaande geboortejaren werden niet overschreven. ":"")+"Sla de master-CSV op GitHub op voor blijvende synchronisatie.");
- }catch(e){setBirthNotice("CSV niet verwerkt: "+e.message)}
- event.target.value="";
-}
-function exportBirthyearDatabase(){
- const map=new Map();
- for(const p of players)if(p.birthYear){const key=birthKey(p.team,p.name);map.set(key,[p.team,p.name,p.birthYear])}
- downloadCsv("scouting_geboortejaren_master.csv",["ClubRBFA","Naam","Geboortejaar"],[...map.values()].sort((a,b)=>a[0].localeCompare(b[0],"nl")||a[1].localeCompare(b[1],"nl")));
-}
-function exportMacroMissing(){
- const map=new Map();
- for(const p of players)if(!p.birthYear)map.set(birthKey(p.team,p.name),[p.team,p.name]);
- downloadCsv("macrodroid_missing_birthyears.csv",["Ploeg","Naam"],[...map.values()].sort((a,b)=>a[0].localeCompare(b[0],"nl")||a[1].localeCompare(b[1],"nl")));
-}
-
+const players=data.players||[];
 const teams=useMemo(()=>[...new Set(players.filter(x=>!competition||x.competition===competition).map(x=>x.team))].sort(),[players,competition]);
 const matchesByCompetition=useMemo(()=>Object.fromEntries((data.competitions||[]).map(c=>[c.id,Number(c.played||0)])),[data.competitions]);
 const activePreset=presets.find(p=>p.id===preset)||presets[0];
