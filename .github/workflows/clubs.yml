@@ -1,0 +1,48 @@
+name: Discover official RBFA club names
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/scrape_club_names.js'
+permissions:
+  contents: write
+concurrency:
+  group: scouting-club-mapping
+  cancel-in-progress: false
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 110
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+      - run: sudo apt-get update && sudo apt-get install -y xvfb
+      - name: Install official RBFA scraper dependencies
+        run: |
+          git clone --quiet https://github.com/vjo18/RBFA2627.git /tmp/rbfa-source
+          cd /tmp/rbfa-source && npm ci --no-audit --no-fund
+      - name: Discover official club names from RBFA match and club pages
+        run: |
+          cp scripts/scrape_club_names.js /tmp/rbfa-source/scrapers/scouting_club_names.js
+          node /tmp/rbfa-source/scrapers/scouting_club_names.js
+      - name: Re-import birth years and rebuild player data
+        run: |
+          python3 scripts/import_birthyears.py
+          python3 scripts/aggregate.py
+      - name: Save official mapping and player ages
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data_raw/team_club_mapping.csv data_raw/birthyears.csv public/data
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update official RBFA club mapping and scouting ages'
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
+          fi
