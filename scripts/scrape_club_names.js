@@ -23,6 +23,7 @@ const browser = await puppeteer.launch({ headless: false, args: ["--no-sandbox",
 const page = await browser.newPage();
 page.setDefaultNavigationTimeout(15000);
 const wait = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+const validClubName=name=>!!name && !/^(royal belgian fa|rbfa|voetbal vlaanderen|home|club|info|welkom)$/i.test(name.trim());
 const normalize = s => String(s||"").trim().toLocaleLowerCase("nl").replace(/\s+/g," ");
 const byName = new Map([...entries.values()].map(e=>[normalize(e.team),e]));
 try {
@@ -67,7 +68,7 @@ try {
   console.log(`Visited ${pagesVisited} fixture pages for ${entries.size-unresolved().length}/${entries.size} club IDs; ${unresolved().length} unresolved.`);
   if (pagesVisited>5 && entries.size-unresolved().length<=original.filter(r=>r[2]).length) throw new Error("No new RBFA club IDs found. Check DEBUG link samples and selectors before scraping further.");
   for (const entry of entries.values()) {
-    if (!entry.id || (entry.club && entry.number)) continue;
+    if (!entry.id || (validClubName(entry.club) && entry.number)) continue;
     try {
       await page.goto(`https://www.rbfa.be/nl/club/${entry.id}/info`, { waitUntil: "domcontentloaded" });
       await wait(600);
@@ -90,8 +91,8 @@ try {
       );
       // The RBFA club info page shows the club name in its main h2.
       // Only accept an unambiguous heading; otherwise leave it for manual review.
-      if (info.nearby) entry.club = info.nearby;
-      else if (headings.length === 1) entry.club = headings[0];
+      if (validClubName(info.nearby)) entry.club = info.nearby;
+      else if (headings.length === 1 && validClubName(headings[0])) entry.club = headings[0];
       else {
         // Some RBFA club pages show the club title in an h1 or outside
         // the stamnummer container. Prefer a heading matching the team name.
@@ -105,13 +106,14 @@ try {
           const normalized = x.toUpperCase().replace(/[^A-Z0-9]/g, "").replace(/^K/, "");
           return normalized.includes(expected.replace(/A$/, "")) || expected.includes(normalized);
         });
-        if (matches.length === 1) entry.club = matches[0];
+        if (matches.length === 1 && validClubName(matches[0])) entry.club = matches[0];
         else {
           const names=[...new Set([...info.titles,...(info.og?[info.og]:[]),...(info.docTitle?[info.docTitle]:[])].map(v=>v.replace(/\s*[|–-]\s*(RBFA|Voetbal Vlaanderen).*$/i,"").trim()).filter(v=>v.length>4&&!/^(RBFA|Club|Info|Welkom)/i.test(v)))];
-          if(names.length===1)entry.club=names[0];
+          if(names.length===1 && validClubName(names[0]))entry.club=names[0];
           else console.warn("Clubnaam niet bevestigd:",entry.team,"clubId",entry.id,"candidates",JSON.stringify(names.slice(0,5)));
         }
       }
+      if (!validClubName(entry.club))entry.club="";
       if (info.number) entry.number = info.number;
       console.log(entry.team, "=>", entry.club || "(naam controleren)", entry.id);
     } catch (error) { console.warn("Club overgeslagen:", entry.team, error.message); }
