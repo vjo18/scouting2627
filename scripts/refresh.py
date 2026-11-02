@@ -62,7 +62,8 @@ def main():
             # The new scrape must still cover most existing fixtures to avoid accepting
             # a severely incomplete response as an update.
             if oldurls and len(newurls & oldurls)<max(8,int(len(oldurls)*0.85)):
-                raise RuntimeError(f'{cid}: only {len(newurls & oldurls)}/{len(oldurls)} previous fixtures returned; refusing update')
+                print(f'WARNING {cid}: only {len(newurls & oldurls)}/{len(oldurls)} previous fixtures returned; preserving existing competition data and continuing',flush=True)
+                continue
             missing=oldurls-newurls
             if missing:print(f'{cid}: RBFA omitted {len(missing)} old fixtures; preserving them',flush=True)
             # Preserve verified historical scores, but accept new results for unplayed games.
