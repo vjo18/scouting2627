@@ -1,0 +1,19 @@
+{
+  "name": "scouting2627",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview",
+    "refresh": "python3 scripts/refresh.py",
+    "aggregate": "python3 scripts/aggregate.py"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^5.0.0",
+    "vite": "^7.1.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
