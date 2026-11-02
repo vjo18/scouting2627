@@ -39,12 +39,37 @@ def main():
             run(['node',source/'scrapers/scrape_calendar.cjs'],cwd=stage,env=env)
             candidate=json.loads((stage/'data_raw/match_calendar.json').read_text())
             old=json.loads((dest/'match_calendar.json').read_text()) if (dest/'match_calendar.json').exists() else []
-            oldurls={m['url'] for m in old};newurls={m.get('url') for m in candidate}
-            if len(candidate)<8 or len(newurls)!=len(candidate) or None in newurls:raise RuntimeError(f'{cid}: incomplete/invalid calendar')
-            if not oldurls.issubset(newurls):raise RuntimeError(f'{cid}: existing fixtures vanished; refusing update')
-            oldplayed={m['url'] for m in old if m.get('homeScore') is not None and m.get('awayScore') is not None}
-            newplayed={m['url'] for m in candidate if m.get('homeScore') is not None and m.get('awayScore') is not None}
-            if not oldplayed.issubset(newplayed):raise RuntimeError(f'{cid}: played matches vanished; refusing update')
+            # RBFA calendar tabs sometimes repeat the same fixture in multiple views.
+            # Consolidate duplicate URLs *before* validation, preserving final scores.
+            def played(match):
+                return match.get('homeScore') is not None and match.get('awayScore') is not None
+            unique={}
+            for match in candidate:
+                matchurl=match.get('url')
+                if not matchurl:raise RuntimeError(f'{cid}: fixture without URL')
+                prior=unique.get(matchurl)
+                if prior is None or (played(match) and not played(prior)):
+                    unique[matchurl]=match
+                elif prior is not None and played(match) and played(prior):
+                    if (str(prior['homeScore']),str(prior['awayScore'])) != (str(match['homeScore']),str(match['awayScore'])):
+                        raise RuntimeError(f'{cid}: conflicting final scores for {matchurl}')
+            duplicate_count=len(candidate)-len(unique)
+            candidate=list(unique.values())
+            print(f'{cid}: calendar has {len(candidate)} unique fixtures ({duplicate_count} duplicate rows removed)',flush=True)
+            oldurls={m['url'] for m in old};newurls=set(unique)
+            if len(candidate)<8:raise RuntimeError(f'{cid}: incomplete calendar')
+            if not oldurls.issubset(newurls):
+                raise RuntimeError(f'{cid}: {len(oldurls-newurls)} existing fixtures vanished; refusing update')
+            oldplayed={m['url'] for m in old if played(m)}
+            newplayed={m['url'] for m in candidate if played(m)}
+            if not oldplayed.issubset(newplayed):
+                raise RuntimeError(f'{cid}: {len(oldplayed-newplayed)} played matches vanished; refusing update')
+            # Do not silently overwrite previously verified results with changed scores.
+            for match in old:
+                if match['url'] in unique and played(match) and played(unique[match['url']]):
+                    if (str(match['homeScore']),str(match['awayScore'])) != (str(unique[match['url']]['homeScore']),str(unique[match['url']]['awayScore'])):
+                        raise RuntimeError(f"{cid}: score changed for {match['url']}; manual review required")
+            (stage/'data_raw/match_calendar.json').write_text(json.dumps(candidate,ensure_ascii=False,indent=2),encoding='utf-8')
             run(['node',source/'scrapers/scrape_player_data.js'],cwd=stage,env=env)
             file=stage/'data_raw/player_matchdata.csv'
             if not file.exists():raise RuntimeError(f'{cid}: no player data')
