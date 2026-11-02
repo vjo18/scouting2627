@@ -89,8 +89,10 @@ def main():
             for fn in ('match_calendar.json','player_matchdata.csv'):shutil.copy2(stage/'data_raw'/fn,dest/fn)
             print(f'{cid}: validated {len(newplayed)} played matches, {len(current)} player rows')
         births=source/'data_raw/player_birthyears.csv'
-        if births.exists():
-            (ROOT/'data_raw').mkdir(exist_ok=True)
-            shutil.copy2(births,ROOT/'data_raw/birthyears.csv')
+        destination=ROOT/'data_raw/birthyears.csv'
+        # Keep user-maintained birth years across refreshes; seed only once.
+        if births.exists() and not destination.exists():
+            destination.parent.mkdir(exist_ok=True)
+            shutil.copy2(births,destination)
     run(['python3',ROOT/'scripts/aggregate.py'],cwd=ROOT)
 if __name__=='__main__':main()
