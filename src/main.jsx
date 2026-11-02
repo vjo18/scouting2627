@@ -72,11 +72,12 @@ if(preset==="supersub"&&(p.subIns<3||(p.subGoals||0)<1))return false;
 if(preset==="scorer"&&(p.minutes<450||p.goalsPer90<.5))return false;
 return true}).sort((a,b)=>{const x=a[sort],y=b[sort];const n=typeof x==="number"||typeof y==="number" ? (Number(x??-1)-Number(y??-1)) : String(x||"").localeCompare(String(y||""),"nl");return desc?-n:n}),[players,query,competition,team,ageMin,ageMax,minutesMin,minutesMax,ppwMin,ppwMax,metric,metricMin,metricMax,preset,sort,desc,matchesByCompetition,position]);
 function exportMissingBirthyears(){
-const missing=players.filter(p=>p.birthYear==null).sort((a,b)=>a.team.localeCompare(b.team,"nl")||a.name.localeCompare(b.name,"nl"));
+const clubNames=data.teamClubMapping||{};
+const missing=players.filter(p=>p.birthYear==null).sort((a,b)=>(clubNames[a.team]||a.team).localeCompare(clubNames[b.team]||b.team,"nl")||a.name.localeCompare(b.name,"nl"));
 const unique=new Map();
 for(const p of missing){const key=p.team.toLocaleLowerCase()+"|"+p.name.toLocaleLowerCase();if(!unique.has(key))unique.set(key,p)}
 const quote=v=>String(v??"").includes(";")||String(v??"").includes('"')?'"'+String(v).replaceAll('"','""')+'"':String(v??"");
-const rows=[["ClubRBFA","Naam","Geboortejaar"],...[...unique.values()].map(p=>[p.team,p.name,""])];
+const rows=[["ClubRBFA","Naam","Geboortejaar"],...[...unique.values()].map(p=>[clubNames[p.team]||p.team,p.name,""])];
 const text="\uFEFF"+rows.map(row=>row.map(quote).join(";")).join("\r\n");
 const blob=new Blob([text],{type:"text/csv;charset=utf-8"});
 const url=URL.createObjectURL(blob);const link=document.createElement("a");link.href=url;link.download="ontbrekende_geboortejaren.csv";link.click();setTimeout(()=>URL.revokeObjectURL(url),1000)
