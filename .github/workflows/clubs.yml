@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/scrape_club_names.js'
+      - 'scripts/merge_club_mapping.py'
       - '.github/workflows/clubs.yml'
 permissions:
   contents: write
