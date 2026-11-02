@@ -18,17 +18,20 @@ def read(path):
 def main():
     old=read(DEST)
     known={(norm(r.get("ClubRBFA")),norm(r.get("Naam"))):r for r in old if r.get("ClubRBFA") and r.get("Naam") and r.get("Geboortejaar")}
+    mapping={norm(r.get("TeamRepo")):r.get("ClubRBFA","").strip() for r in read(RAW/"team_club_mapping.csv") if r.get("ClubRBFA")}
+    aliases={norm(v):v for v in mapping.values()}
     allowed=set()
     for folder in RAW.iterdir():
         f=folder/"player_matchdata.csv"
         if f.exists():
-            allowed.update((norm(r.get("Team")),norm(r.get("Player Name"))) for r in read(f))
+            allowed.update((norm(mapping.get(norm(r.get("Team")),r.get("Team"))),norm(r.get("Player Name"))) for r in read(f))
     added=skipped=conflicts=0
     for file in sorted(UPLOADS.glob("*.csv")):
         for row in read(file):
             if not {"Naam","Geboortejaar"}.issubset(row):raise RuntimeError(f"{file}: missing Naam or Geboortejaar")
-            if norm(row.get("Gevonden")) in {"false","nee","no","0","niet gevonden"}:skipped+=1;continue
+            if norm(row.get("Gevonden")) in {"false","onwaar","nee","no","0","niet gevonden"}:skipped+=1;continue
             club=(row.get("Ploeg") or row.get("ClubRBFA") or "").strip()
+            club=mapping.get(norm(club),club)
             name=(row.get("Naam") or "").strip()
             year=(row.get("Geboortejaar") or "").strip()
             key=(norm(club),norm(name))
