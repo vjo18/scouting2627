@@ -1,0 +1,30 @@
+name: Rebuild scouting birth years
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data_raw/birthyears.csv'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Recalculate ages from uploaded CSV
+        run: python3 scripts/aggregate.py
+      - name: Commit refreshed dashboard data
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/data/players.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Recalculate scouting player ages'
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
+          fi
