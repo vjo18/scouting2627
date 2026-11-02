@@ -34,3 +34,10 @@
 :root[data-theme="light"] .close{color:#294457}
 :root[data-theme="light"] .empty{color:#526879}
 @media(max-width:800px){.header-actions{justify-content:flex-start}}
+
+.upload-button{display:inline-flex;align-items:center;justify-content:center;cursor:pointer;font-size:12px}
+.upload-button:hover{border-color:#8ddbb1}
+.birth-status{background:#172c27;border:1px solid #345a49;color:#cde3d6;border-radius:10px;padding:13px 17px;margin:-13px 0 22px;font-size:12px;line-height:1.7}
+.birth-status p{color:#a8f0c2;font-weight:600;margin:6px 0 0}
+:root[data-theme="light"] .birth-status{background:#edf7ee;color:#225034;border-color:#b8d9c2}
+:root[data-theme="light"] .birth-status p{color:#1d7242}
