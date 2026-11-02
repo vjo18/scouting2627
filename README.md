@@ -41,3 +41,14 @@ Klik bovenaan op **Licht thema** of **Donker thema**. De keuze blijft bewaard in
 5. Commit de wijziging op `main`. De workflow **Rebuild scouting birth years** berekent de leeftijden opnieuw zonder opnieuw te scrapen. Na een succesvolle run publiceert de deployworkflow de bijgewerkte website.
 
 Let op: voor `ClubRBFA` toont de export de ploegnaam zoals die in de wedstrijdgegevens staat. Pas waar nodig de clubaanduiding aan in de CSV. Geboortejaar-koppeling gebruikt op dit moment de unieke spelersnaam; meerdere spelers met exact dezelfde naam en verschillend geboortejaar blijven bewust onbekend. Er wordt geen leeftijd geraden.
+
+## MacroDroid geboortejaren – dezelfde cyclus als RBFA2627
+1. **Download MacroDroid-zoeklijst** in het dashboard (`Ploeg;Naam`). Deze export bevat alleen spelers zonder gekend geboortejaar.
+2. Zoek de geboortejaren op en maak een resultaten-CSV, bijvoorbeeld `Ploeg;Naam;Geboortejaar;Gevonden` met puntkomma's. `Gevonden=false` wordt overgeslagen.
+3. Klik **Upload resultaten CSV** in het dashboard. De spelersleeftijden en filters worden direct aangepast. Bestaande geboortejaren worden niet overschreven; conflicten en onbekende namen worden gemeld.
+4. Klik opnieuw **Download MacroDroid-zoeklijst** voor de resterende ontbrekende leeftijden. Of gebruik **Ontbrekende geboortejaren** voor een invulbare CSV.
+5. **Permanent bewaren in GitHub:** upload hetzelfde MacroDroid-resultatenbestand naar de map `data_raw/birthyear_uploads/` op branch `main` (maak deze map indien nodig met een willekeurige eerste CSV). De workflow **Rebuild scouting birth years** importeert de gegevens in `data_raw/birthyears.csv`, rekent de leeftijden opnieuw en publiceert de bijgewerkte website. De oorspronkelijke resultatenbestanden blijven bewaard. Gebruik bij volgende uploads een nieuwe bestandsnaam.
+
+De directe upload in de statische GitHub Pages-app werkt alleen **lokaal in die browser**. Een webpagina kan niet zonder GitHub-inloggegevens naar de repo schrijven. Daarom is voor blijvende, toesteloverstijgende synchronisatie stap 5 nodig. De knop **Master geboortejaren** maakt daarnaast een gecombineerde export voor controle; deze vervangt niet automatisch de centrale database.
+
+*Leeftijd* is een schatting: kalenderjaar minus geboortejaar. Om verkeerde matches te vermijden koppelt de directe upload op team én spelersnaam, waarbij de ploegnaam overeen moet komen met de naam in het dashboard. Voor de repo-import geldt dezelfde controle. Gegevens met ongeldige geboortejaren, onjuiste club/speler-combinaties of tegenstrijdige jaren worden niet stilzwijgend ingevoerd.
