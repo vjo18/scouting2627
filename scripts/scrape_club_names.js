@@ -23,6 +23,8 @@ const browser = await puppeteer.launch({ headless: false, args: ["--no-sandbox",
 const page = await browser.newPage();
 page.setDefaultNavigationTimeout(15000);
 const wait = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+const normalize = s => String(s||"").trim().toLocaleLowerCase("nl").replace(/\s+/g," ");
+const byName = new Map([...entries.values()].map(e=>[normalize(e.team),e]));
 try {
   const unresolved = () => [...entries.values()].filter(e => !e.id);
   // Greedy set-cover: prefer matches between TWO clubs whose IDs are still unknown.
@@ -49,19 +51,21 @@ try {
     if (!match.url) continue;
     try {
       await page.goto(match.url, { waitUntil: "domcontentloaded" });
-      await wait(350);
+      await page.waitForSelector('a[href*="/club/"]',{timeout:9000}).catch(()=>null);
       const links = await page.evaluate(() => [...document.querySelectorAll('a[href*="/club/"][href*="/ploeg/"]')].map(a => ({
         team: a.textContent.trim().replace(/\s+/g, " "),
         href: a.getAttribute("href")
       })));
+      if (pagesVisited<=3) console.log("DEBUG match",match.url,"links found",links.length,"samples",JSON.stringify(links.slice(0,4)));
       for (const link of links) {
         const id = link.href.match(/\/club\/(\d+)\/ploeg\//)?.[1];
-        const entry = entries.get(link.team);
+        const entry = byName.get(normalize(link.team));
         if (entry && id) entry.id = id;
       }
     } catch (error) { console.warn("Wedstrijd overgeslagen:", match.url, error.message); }
   }
-  console.log(`Visited ${pagesVisited} fixture pages for ${entries.size-unresolved().length}/${entries.size} club IDs; ${unresolved().length} unresolved. Attempts capped at ${maxAttemptsPerTeam} per club.`);
+  console.log(`Visited ${pagesVisited} fixture pages for ${entries.size-unresolved().length}/${entries.size} club IDs; ${unresolved().length} unresolved.`);
+  if (pagesVisited>5 && entries.size-unresolved().length<=original.filter(r=>r[2]).length) throw new Error("No new RBFA club IDs found. Check DEBUG link samples and selectors before scraping further.");
   for (const entry of entries.values()) {
     if (!entry.id || (entry.club && entry.number)) continue;
     try {
