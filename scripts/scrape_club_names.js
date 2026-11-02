@@ -25,12 +25,25 @@ page.setDefaultNavigationTimeout(60000);
 const wait = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 try {
   const unresolved = () => [...entries.values()].filter(e => !e.id);
-  for (const match of calendar) {
-    if (!unresolved().length) break;
+  // Greedy set-cover: prefer matches between TWO clubs whose IDs are still unknown.
+  // A fixture is visited only as needed; do not crawl an entire league calendar.
+  const remaining = [...new Map(calendar.filter(m=>m.url).map(m=>[m.url,m])).values()];
+  let pagesVisited=0;
+  while (unresolved().length && remaining.length) {
+    const unknown = new Set(unresolved().map(e=>e.team));
+    let bestIndex=-1, bestScore=0;
+    for (let i=0;i<remaining.length;i++) {
+      const m=remaining[i];
+      const score=Number(unknown.has(m.homeTeam))+Number(unknown.has(m.awayTeam));
+      if(score>bestScore){bestScore=score;bestIndex=i;if(score===2)break;}
+    }
+    if(bestIndex<0)break;
+    const [match]=remaining.splice(bestIndex,1);
+    pagesVisited++;
     if (!match.url) continue;
     try {
       await page.goto(match.url, { waitUntil: "domcontentloaded" });
-      await wait(1400);
+      await wait(350);
       const links = await page.evaluate(() => [...document.querySelectorAll('a[href*="/club/"][href*="/ploeg/"]')].map(a => ({
         team: a.textContent.trim().replace(/\s+/g, " "),
         href: a.getAttribute("href")
@@ -42,6 +55,7 @@ try {
       }
     } catch (error) { console.warn("Wedstrijd overgeslagen:", match.url, error.message); }
   }
+  console.log(`Visited ${pagesVisited} fixture pages for ${entries.size-unresolved().length}/${entries.size} club IDs; ${unresolved().length} unresolved.`);
   for (const entry of entries.values()) {
     if (!entry.id || (entry.club && entry.number)) continue;
     try {
