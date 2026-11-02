@@ -17,5 +17,23 @@
     "name": "2de Afdeling Voetb Vl A",
     "calendar_url": "https://www.rbfa.be/nl/competitie/CHP_136062/kalender",
     "enabled": true
+  },
+  {
+    "id": "chp-134760-2627",
+    "name": "1e Afdeling Voetb Vl",
+    "calendar_url": "https://www.rbfa.be/nl/competitie/CHP_134760/kalender",
+    "enabled": true
+  },
+  {
+    "id": "chp-134096-2627",
+    "name": "2 Provinciaal Wvl A",
+    "calendar_url": "https://www.rbfa.be/nl/competitie/CHP_134096/kalender",
+    "enabled": true
+  },
+  {
+    "id": "chp-134097-2627",
+    "name": "2 Provinciaal Wvl B",
+    "calendar_url": "https://www.rbfa.be/nl/competitie/CHP_134097/kalender",
+    "enabled": true
   }
 ]
