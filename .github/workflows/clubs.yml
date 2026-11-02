@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/scrape_club_names.js'
+      - '.github/workflows/clubs.yml'
 permissions:
   contents: write
 concurrency:
@@ -35,14 +36,32 @@ jobs:
         run: |
           python3 scripts/import_birthyears.py
           python3 scripts/aggregate.py
-      - name: Save official mapping and player ages
+      - name: Save official mapping and player ages safely
+        shell: bash
         run: |
+          set -euo pipefail
+          cp data_raw/team_club_mapping.csv /tmp/scouting_discovered_clubs.csv
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data_raw/team_club_mapping.csv data_raw/birthyears.csv public/data
-          if ! git diff --cached --quiet; then
-            git commit -m 'Update official RBFA club mapping and scouting ages'
+          for attempt in 1 2 3 4 5; do
+            # The scraper may take a while. Start from the latest main so commits
+            # by other workflows cannot create an unrecoverable rebase conflict.
             git fetch origin main
-            git rebase origin/main
-            git push origin HEAD:main
-          fi
+            git reset --hard origin/main
+            python3 scripts/merge_club_mapping.py /tmp/scouting_discovered_clubs.csv
+            python3 scripts/import_birthyears.py
+            python3 scripts/aggregate.py
+            git add data_raw/team_club_mapping.csv data_raw/birthyears.csv public/data/players.json
+            if git diff --cached --quiet; then
+              echo "No changes required"
+              exit 0
+            fi
+            git commit -m 'Update official RBFA club mapping and scouting ages'
+            if git push origin HEAD:main; then
+              echo "Official names and player ages saved successfully"
+              exit 0
+            fi
+            echo "Main changed while saving (attempt $attempt); retrying safely"
+          done
+          echo "Could not save after 5 attempts" >&2
+          exit 1
