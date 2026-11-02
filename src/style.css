@@ -2,3 +2,35 @@
 .table-actions{display:flex;gap:16px;align-items:center}.table-actions>span{color:#8295a6;font-size:11px}.columns-button{background:#20392e;border:1px solid #426d57;color:#baf1ce;border-radius:7px;padding:9px 12px;font-size:12px}.columns-button:hover{background:#2a4c3b}.column-picker{margin:0 20px 16px;background:#0d1821;border:1px solid #354a51;border-radius:10px;padding:16px}.column-picker-head{display:flex;gap:14px;align-items:center;margin-bottom:13px;font-size:13px}.column-picker-head button{background:transparent;border:0;color:#92d9ab;font-size:12px}.column-options{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px}.column-options label{display:flex;gap:8px;align-items:center;font-size:12px;color:#d1e0e7;cursor:pointer}.column-options input{accent-color:#80dba4;width:15px;height:15px}@media(max-width:650px){.table-actions>span{display:none}.column-picker{margin:0 10px 15px}}
 
 .sidebar nav button small{display:block;margin-top:5px;font-size:10px;line-height:1.5;color:#839f9f;white-space:normal}.sidebar nav button.active small{color:#b3ddc8}.preset-info{padding:16px 18px;border:1px solid #335345;background:#142920;border-radius:10px;margin-bottom:19px}.preset-info h2{margin:7px 0}.preset-info p{font-size:13px;color:#b8d0c2;margin:8px 0}.preset-info strong{display:block;font-size:12px;color:#a2e0b9;line-height:1.5}.preset-info>small{display:block;margin-top:9px;font-size:11px;color:#8fa99d;line-height:1.5}@media(max-width:650px){.sidebar nav button small{max-width:180px}}
+.header-actions{display:flex;gap:8px;align-items:center;flex-wrap:wrap;justify-content:flex-end}.header-actions .export{font-size:12px}.theme-button{background:#26333d;border:1px solid #41515c;color:#e5f2f7;padding:12px 15px;border-radius:8px;font-weight:650;white-space:nowrap}
+:root[data-theme="light"]{color:#172a38;background:#f2f6fa}
+:root[data-theme="light"] .sidebar{background:#e7eef4;border-color:#c7d4de}
+:root[data-theme="light"] .brand strong,:root[data-theme="light"] h1,:root[data-theme="light"] h2,:root[data-theme="light"] .detailgrid strong{color:#182d3c}
+:root[data-theme="light"] .brand small,:root[data-theme="light"] header p,:root[data-theme="light"] footer{color:#52687b}
+:root[data-theme="light"] nav button{color:#324c5b}
+:root[data-theme="light"] nav button.active,:root[data-theme="light"] nav button:hover{background:#d2e9db;color:#145631}
+:root[data-theme="light"] nav button small{color:#567568}
+:root[data-theme="light"] .stats>div,:root[data-theme="light"] .filters,:root[data-theme="light"] .results{background:#fff;border-color:#d7e1e9}
+:root[data-theme="light"] .stats strong,:root[data-theme="light"] td strong,:root[data-theme="light"] .empty h3{color:#172d3b}
+:root[data-theme="light"] .stats small,:root[data-theme="light"] .stats span,:root[data-theme="light"] .resultheading>span,:root[data-theme="light"] .table-actions>span{color:#547084}
+:root[data-theme="light"] .filtergrid label,:root[data-theme="light"] .column-options label{color:#365064}
+:root[data-theme="light"] .filtergrid input,:root[data-theme="light"] .filtergrid select{color:#182c3b;background:#fff;border-color:#bfced8}
+:root[data-theme="light"] .filtergrid input::placeholder{color:#8495a5}
+:root[data-theme="light"] .preset-info{background:#ecf7ee;border-color:#b5d8be}
+:root[data-theme="light"] .preset-info p,:root[data-theme="light"] .preset-info small{color:#426b50}
+:root[data-theme="light"] .preset-info strong{color:#175c32}
+:root[data-theme="light"] .columns-button{background:#e4f3e9;color:#16603c;border-color:#a3c6af}
+:root[data-theme="light"] .column-picker{background:#f7fafc;border-color:#d0dce4}
+:root[data-theme="light"] th{background:#eaf1f6;color:#314e61}
+:root[data-theme="light"] td{color:#283f50;border-color:#e5ebf0}
+:root[data-theme="light"] tbody tr:hover{background:#eaf6ed}
+:root[data-theme="light"] td small{color:#648093}
+:root[data-theme="light"] td.emphasis{color:#167443}
+:root[data-theme="light"] .theme-button{background:#fff;color:#1a3c51;border-color:#bfced8}
+:root[data-theme="light"] .drawer{background:#fff;color:#142d3b}
+:root[data-theme="light"] .drawer p{color:#476070}
+:root[data-theme="light"] .detailgrid>div{background:#eaf1f6}
+:root[data-theme="light"] .detailgrid small{color:#5b7485}
+:root[data-theme="light"] .close{color:#294457}
+:root[data-theme="light"] .empty{color:#526879}
+@media(max-width:800px){.header-actions{justify-content:flex-start}}
