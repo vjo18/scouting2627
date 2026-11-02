@@ -25,6 +25,16 @@ for comp in COMPS:
     base=ROOT/'data_raw'/comp['id']
     matches=json.loads((base/'match_calendar.json').read_text()) if (base/'match_calendar.json').exists() else []
     done={m['url'] for m in matches if m.get('homeScore') is not None and m.get('awayScore') is not None}
+    team_record=defaultdict(lambda: {'played':0,'points':0})
+    for m in matches:
+        try:
+            home=int(m['homeScore']); away=int(m['awayScore'])
+        except (ValueError,TypeError,KeyError):
+            continue
+        for side,opponent,team in [(home,away,m.get('homeTeam','')),(away,home,m.get('awayTeam',''))]:
+            if not team:continue
+            team_record[team]['played']+=1
+            team_record[team]['points']+=3 if side>opponent else (1 if side==opponent else 0)
     groups={}
     for row in readcsv(base/'player_matchdata.csv'):
         if row.get('Match URL') not in done:continue
@@ -46,6 +56,8 @@ for comp in COMPS:
         if len(years)==1:
             p['birthYear']=next(iter(years))
             p['age']=datetime.now(timezone.utc).year-p['birthYear']
+        record=team_record.get(p['team'],{})
+        p['teamPPW']=round(record['points']/record['played'],2) if record.get('played') else None
         p['minutes']=round(p['minutes'])
         for name in ('goals','subGoals','penalties','ownGoals','yellows','reds','yellowReds'):p[name]=int(p[name])
         p['minutesPerMatch']=round(p['minutes']/p['appearances'],1) if p['appearances'] else 0
