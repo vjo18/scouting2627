@@ -79,7 +79,10 @@ try {
         const nearby = subtitle?.parentElement?.querySelector("h2")?.textContent?.trim()
           || subtitle?.parentElement?.parentElement?.querySelector("h2")?.textContent?.trim()
           || "";
-        return { number, candidates, nearby };
+        const titles=[...document.querySelectorAll("h1,[class*=clubName],[class*=club-name],[class*=clubTitle]")].map(e=>e.textContent.trim()).filter(Boolean);
+        const og=document.querySelector('meta[property="og:title"]')?.content||"";
+        const docTitle=document.title||"";
+        return { number, candidates, nearby, titles, og, docTitle };
       });
       // Club headings may change: only accept when exactly one plausible heading exists.
       const headings = info.candidates.filter(x =>
@@ -103,7 +106,11 @@ try {
           return normalized.includes(expected.replace(/A$/, "")) || expected.includes(normalized);
         });
         if (matches.length === 1) entry.club = matches[0];
-        else console.warn("Alternatieve titels:", entry.team, fallback);
+        else {
+          const names=[...new Set([...info.titles,...(info.og?[info.og]:[]),...(info.docTitle?[info.docTitle]:[])].map(v=>v.replace(/\s*[|–-]\s*(RBFA|Voetbal Vlaanderen).*$/i,"").trim()).filter(v=>v.length>4&&!/^(RBFA|Club|Info|Welkom)/i.test(v)))];
+          if(names.length===1)entry.club=names[0];
+          else console.warn("Clubnaam niet bevestigd:",entry.team,"clubId",entry.id,"candidates",JSON.stringify(names.slice(0,5)));
+        }
       }
       if (info.number) entry.number = info.number;
       console.log(entry.team, "=>", entry.club || "(naam controleren)", entry.id);
