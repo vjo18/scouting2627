@@ -11,5 +11,11 @@
     "calendar_url": "https://www.rbfa.be/nl/competitie/CHP_136064/kalender",
     "enabled": true,
     "description": "3de Afdeling Voetb Vl A (RBFA CHP_136064)"
+  },
+  {
+    "id": "chp-136062-2627",
+    "name": "2de Afdeling Voetb Vl A",
+    "calendar_url": "https://www.rbfa.be/nl/competitie/CHP_136062/kalender",
+    "enabled": true
   }
 ]
