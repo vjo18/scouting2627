@@ -16,10 +16,18 @@ def read(path):
         f.seek(0)
         return list(csv.DictReader(f,delimiter=";" if first.count(";")>=first.count(",") else ","))
 def main():
-    old=read(DEST)
-    known={(norm(r.get("ClubRBFA")),norm(r.get("Naam"))):r for r in old if r.get("ClubRBFA") and r.get("Naam") and r.get("Geboortejaar")}
     mapping={norm(r.get("TeamRepo")):r.get("ClubRBFA","").strip() for r in read(RAW/"team_club_mapping.csv") if r.get("ClubRBFA")}
-    aliases={norm(v):v for v in mapping.values()}
+    old=read(DEST)
+    known={}
+    for r in old:
+        club=mapping.get(norm(r.get("ClubRBFA")),r.get("ClubRBFA","").strip())
+        name=r.get("Naam","").strip()
+        year=r.get("Geboortejaar","").strip()
+        if not (club and name and year):continue
+        key=(norm(club),norm(name))
+        if key in known and known[key]["Geboortejaar"]!=year:
+            raise RuntimeError(f"Existing birthyear conflict for {club} / {name}")
+        known[key]={"ClubRBFA":club,"Naam":name,"Geboortejaar":year}
     allowed=set()
     for folder in RAW.iterdir():
         f=folder/"player_matchdata.csv"
