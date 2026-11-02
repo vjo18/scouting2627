@@ -6,6 +6,8 @@ on:
       - 'data_raw/birthyears.csv'
       - 'data_raw/birthyear_uploads/**'
       - 'scripts/aggregate.py'
+      - 'scripts/import_birthyears.py'
+      - 'data_raw/team_club_mapping.csv'
       - '.github/workflows/birthyears.yml'
   workflow_dispatch:
 permissions:
