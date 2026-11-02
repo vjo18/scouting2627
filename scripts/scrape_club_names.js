@@ -40,6 +40,7 @@ try {
     if(bestIndex<0)break;
     const [match]=remaining.splice(bestIndex,1);
     pagesVisited++;
+    if (pagesVisited===1 || pagesVisited%5===0) console.log(`Progress: ${pagesVisited} match pages visited; ${unresolved().length} club IDs missing`);
     if (!match.url) continue;
     try {
       await page.goto(match.url, { waitUntil: "domcontentloaded" });
