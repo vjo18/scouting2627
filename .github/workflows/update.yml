@@ -1,6 +1,11 @@
 name: Update scouting data
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'config/competitions.json'
+      - '.github/workflows/update.yml'
   schedule:
     - cron: '20 7 * * 1'
 permissions:
