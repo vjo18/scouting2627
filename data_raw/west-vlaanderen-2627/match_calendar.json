@@ -32,20 +32,20 @@
     "awayScore": "0"
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7520920",
-    "date": "ZONDAG, 30 AUGUSTUS 2026",
-    "homeTeam": "K. FC Marke A",
-    "homeScore": "1",
-    "awayTeam": "K. RC Bissegem",
-    "awayScore": "3"
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7520918",
     "date": "ZONDAG, 30 AUGUSTUS 2026",
     "homeTeam": "K.S.C. Wielsbeke",
     "homeScore": "3",
     "awayTeam": "SV Ingelmunster A",
     "awayScore": "1"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7520920",
+    "date": "ZONDAG, 30 AUGUSTUS 2026",
+    "homeTeam": "K. FC Marke A",
+    "homeScore": "1",
+    "awayTeam": "K. RC Bissegem",
+    "awayScore": "3"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7520921",
@@ -128,20 +128,20 @@
     "awayScore": "3"
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7520931",
-    "date": "ZATERDAG, 12 SEPTEMBER 2026",
-    "homeTeam": "K. Eendr. Wervik A",
-    "homeScore": "0",
-    "awayTeam": "SV Ingelmunster A",
-    "awayScore": "4"
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7520930",
     "date": "ZATERDAG, 12 SEPTEMBER 2026",
     "homeTeam": "K. Sassp. Boezinge A",
     "homeScore": "4",
     "awayTeam": "K. SK Beveren-Leie A",
     "awayScore": "0"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7520931",
+    "date": "ZATERDAG, 12 SEPTEMBER 2026",
+    "homeTeam": "K. Eendr. Wervik A",
+    "homeScore": "0",
+    "awayTeam": "SV Ingelmunster A",
+    "awayScore": "4"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7520932",
@@ -176,20 +176,20 @@
     "awayScore": "0"
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7520936",
-    "date": "ZONDAG, 13 SEPTEMBER 2026",
-    "homeTeam": "K. VC Ardooie A",
-    "homeScore": "0",
-    "awayTeam": "K. RC Bissegem",
-    "awayScore": "1"
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7520935",
     "date": "ZONDAG, 13 SEPTEMBER 2026",
     "homeTeam": "Club Roeselare",
     "homeScore": "2",
     "awayTeam": "FC Sp. Heestert A",
     "awayScore": "0"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7520936",
+    "date": "ZONDAG, 13 SEPTEMBER 2026",
+    "homeTeam": "K. VC Ardooie A",
+    "homeScore": "0",
+    "awayTeam": "K. RC Bissegem",
+    "awayScore": "1"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7520938",
@@ -318,6 +318,70 @@
     "homeScore": "1",
     "awayTeam": "KFC Aalbeke Sport A",
     "awayScore": "1"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7520954",
+    "date": "ZATERDAG, 3 OKTOBER 2026",
+    "homeTeam": "KFC Aalbeke Sport A",
+    "homeScore": "1",
+    "awayTeam": "K. Sassp. Boezinge A",
+    "awayScore": "2"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7520956",
+    "date": "ZATERDAG, 3 OKTOBER 2026",
+    "homeTeam": "K. RC Bissegem",
+    "homeScore": "0",
+    "awayTeam": "K. FC Varsenare A",
+    "awayScore": "0"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7520957",
+    "date": "ZATERDAG, 3 OKTOBER 2026",
+    "homeTeam": "K. SK Beveren-Leie A",
+    "homeScore": "1",
+    "awayTeam": "FC Sp. Heestert A",
+    "awayScore": "4"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7520955",
+    "date": "ZATERDAG, 3 OKTOBER 2026",
+    "homeTeam": "SV Ingelmunster A",
+    "homeScore": "1",
+    "awayTeam": "Club Roeselare",
+    "awayScore": "1"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7520958",
+    "date": "ZONDAG, 4 OKTOBER 2026",
+    "homeTeam": "K.S.C. Wielsbeke",
+    "homeScore": "8",
+    "awayTeam": "K. SV Veurne A",
+    "awayScore": "2"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7520959",
+    "date": "ZONDAG, 4 OKTOBER 2026",
+    "homeTeam": "K.R.C. Waregem A",
+    "homeScore": "1",
+    "awayTeam": "S.V. Wevelgem City A",
+    "awayScore": "1"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7520960",
+    "date": "ZONDAG, 4 OKTOBER 2026",
+    "homeTeam": "K. FC Heist A",
+    "homeScore": "0",
+    "awayTeam": "K. Eendr. Wervik A",
+    "awayScore": "0"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7520961",
+    "date": "ZONDAG, 4 OKTOBER 2026",
+    "homeTeam": "K. FC Marke A",
+    "homeScore": "4",
+    "awayTeam": "K. VC Ardooie A",
+    "awayScore": "3"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7520962",
@@ -488,20 +552,20 @@
     "awayScore": "0"
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7520985",
-    "date": "ZONDAG, 25 OKTOBER 2026",
-    "homeTeam": "Club Roeselare",
-    "homeScore": "1",
-    "awayTeam": "K. SK Beveren-Leie A",
-    "awayScore": "0"
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7520984",
     "date": "ZONDAG, 25 OKTOBER 2026",
     "homeTeam": "K. FC Heist A",
     "homeScore": "0",
     "awayTeam": "K. SV Veurne A",
     "awayScore": "1"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7520985",
+    "date": "ZONDAG, 25 OKTOBER 2026",
+    "homeTeam": "Club Roeselare",
+    "homeScore": "1",
+    "awayTeam": "K. SK Beveren-Leie A",
+    "awayScore": "0"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7520980",
@@ -656,19 +720,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7521004",
-    "date": "ZATERDAG, 14 NOVEMBER 2026",
-    "homeTeam": "K. RC Bissegem",
-    "homeScore": null,
-    "awayTeam": "KFC Aalbeke Sport A",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7521005",
     "date": "ZATERDAG, 14 NOVEMBER 2026",
     "homeTeam": "K. SV Veurne A",
     "homeScore": null,
     "awayTeam": "SV Ingelmunster A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7521004",
+    "date": "ZATERDAG, 14 NOVEMBER 2026",
+    "homeTeam": "K. RC Bissegem",
+    "homeScore": null,
+    "awayTeam": "KFC Aalbeke Sport A",
     "awayScore": null
   },
   {
@@ -816,19 +880,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7521024",
-    "date": "ZONDAG, 29 NOVEMBER 2026",
-    "homeTeam": "K. FC Heist A",
-    "homeScore": null,
-    "awayTeam": "Club Roeselare",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7521025",
     "date": "ZONDAG, 29 NOVEMBER 2026",
     "homeTeam": "K. FC Marke A",
     "homeScore": null,
     "awayTeam": "K. SV Veurne A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7521024",
+    "date": "ZONDAG, 29 NOVEMBER 2026",
+    "homeTeam": "K. FC Heist A",
+    "homeScore": null,
+    "awayTeam": "Club Roeselare",
     "awayScore": null
   },
   {
@@ -976,19 +1040,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7521047",
-    "date": "ZATERDAG, 9 JANUARI 2027",
-    "homeTeam": "K. RC Bissegem",
-    "homeScore": null,
-    "awayTeam": "K. FC Heist A",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7521050",
     "date": "ZATERDAG, 9 JANUARI 2027",
     "homeTeam": "K. SK Beveren-Leie A",
     "homeScore": null,
     "awayTeam": "K. Eendr. Wervik A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7521047",
+    "date": "ZATERDAG, 9 JANUARI 2027",
+    "homeTeam": "K. RC Bissegem",
+    "homeScore": null,
+    "awayTeam": "K. FC Heist A",
     "awayScore": null
   },
   {
@@ -1248,19 +1312,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7521082",
-    "date": "ZONDAG, 14 FEBRUARI 2027",
-    "homeTeam": "Club Roeselare",
-    "homeScore": null,
-    "awayTeam": "K.R.C. Waregem A",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7521083",
     "date": "ZONDAG, 14 FEBRUARI 2027",
     "homeTeam": "K. VC Ardooie A",
     "homeScore": null,
     "awayTeam": "K. SK Beveren-Leie A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7521082",
+    "date": "ZONDAG, 14 FEBRUARI 2027",
+    "homeTeam": "Club Roeselare",
+    "homeScore": null,
+    "awayTeam": "K.R.C. Waregem A",
     "awayScore": null
   },
   {
@@ -1352,19 +1416,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7521093",
-    "date": "ZATERDAG, 27 FEBRUARI 2027",
-    "homeTeam": "FC Sp. Heestert A",
-    "homeScore": null,
-    "awayTeam": "SV Ingelmunster A",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7521094",
     "date": "ZATERDAG, 27 FEBRUARI 2027",
     "homeTeam": "K. SV Veurne A",
     "homeScore": null,
     "awayTeam": "KFC Aalbeke Sport A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7521093",
+    "date": "ZATERDAG, 27 FEBRUARI 2027",
+    "homeTeam": "FC Sp. Heestert A",
+    "homeScore": null,
+    "awayTeam": "SV Ingelmunster A",
     "awayScore": null
   },
   {
@@ -1536,6 +1600,70 @@
     "awayScore": null
   },
   {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7521116",
+    "date": "ZATERDAG, 20 MAART 2027",
+    "homeTeam": "KFC Aalbeke Sport A",
+    "homeScore": null,
+    "awayTeam": "Club Roeselare",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7521117",
+    "date": "ZATERDAG, 20 MAART 2027",
+    "homeTeam": "K. Sassp. Boezinge A",
+    "homeScore": null,
+    "awayTeam": "K. VC Ardooie A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7521118",
+    "date": "ZATERDAG, 20 MAART 2027",
+    "homeTeam": "K. Eendr. Wervik A",
+    "homeScore": null,
+    "awayTeam": "FC Sp. Heestert A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7521120",
+    "date": "ZATERDAG, 20 MAART 2027",
+    "homeTeam": "K. RC Bissegem",
+    "homeScore": null,
+    "awayTeam": "K. SV Veurne A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7521119",
+    "date": "ZATERDAG, 20 MAART 2027",
+    "homeTeam": "SV Ingelmunster A",
+    "homeScore": null,
+    "awayTeam": "S.V. Wevelgem City A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7521122",
+    "date": "ZONDAG, 21 MAART 2027",
+    "homeTeam": "K.R.C. Waregem A",
+    "homeScore": null,
+    "awayTeam": "K. FC Varsenare A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7521123",
+    "date": "ZONDAG, 21 MAART 2027",
+    "homeTeam": "K. FC Marke A",
+    "homeScore": null,
+    "awayTeam": "K. SK Beveren-Leie A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7521121",
+    "date": "ZONDAG, 21 MAART 2027",
+    "homeTeam": "K.S.C. Wielsbeke",
+    "homeScore": null,
+    "awayTeam": "K. FC Heist A",
+    "awayScore": null
+  },
+  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7521124",
     "date": "ZATERDAG, 3 APRIL 2027",
     "homeTeam": "K. SV Veurne A",
@@ -1600,19 +1728,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7521133",
-    "date": "ZATERDAG, 10 APRIL 2027",
-    "homeTeam": "K. Sassp. Boezinge A",
-    "homeScore": null,
-    "awayTeam": "K. FC Varsenare A",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7521134",
     "date": "ZATERDAG, 10 APRIL 2027",
     "homeTeam": "K. Eendr. Wervik A",
     "homeScore": null,
     "awayTeam": "K. SV Veurne A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7521133",
+    "date": "ZATERDAG, 10 APRIL 2027",
+    "homeTeam": "K. Sassp. Boezinge A",
+    "homeScore": null,
+    "awayTeam": "K. FC Varsenare A",
     "awayScore": null
   },
   {
@@ -1632,19 +1760,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7521137",
-    "date": "ZATERDAG, 10 APRIL 2027",
-    "homeTeam": "K. RC Bissegem",
-    "homeScore": null,
-    "awayTeam": "K.R.C. Waregem A",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7521136",
     "date": "ZATERDAG, 10 APRIL 2027",
     "homeTeam": "FC Sp. Heestert A",
     "homeScore": null,
     "awayTeam": "K. SK Beveren-Leie A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7521137",
+    "date": "ZATERDAG, 10 APRIL 2027",
+    "homeTeam": "K. RC Bissegem",
+    "homeScore": null,
+    "awayTeam": "K.R.C. Waregem A",
     "awayScore": null
   },
   {
@@ -1789,134 +1917,6 @@
     "homeTeam": "K. VC Ardooie A",
     "homeScore": null,
     "awayTeam": "K. SV Veurne A",
-    "awayScore": null
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7520954",
-    "date": "ZATERDAG, 3 OKTOBER 2026",
-    "homeTeam": "KFC Aalbeke Sport A",
-    "homeScore": "1",
-    "awayTeam": "K. Sassp. Boezinge A",
-    "awayScore": "2"
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7520956",
-    "date": "ZATERDAG, 3 OKTOBER 2026",
-    "homeTeam": "K. RC Bissegem",
-    "homeScore": "0",
-    "awayTeam": "K. FC Varsenare A",
-    "awayScore": "0"
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7520957",
-    "date": "ZATERDAG, 3 OKTOBER 2026",
-    "homeTeam": "K. SK Beveren-Leie A",
-    "homeScore": "1",
-    "awayTeam": "FC Sp. Heestert A",
-    "awayScore": "4"
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7520955",
-    "date": "ZATERDAG, 3 OKTOBER 2026",
-    "homeTeam": "SV Ingelmunster A",
-    "homeScore": "1",
-    "awayTeam": "Club Roeselare",
-    "awayScore": "1"
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7520958",
-    "date": "ZONDAG, 4 OKTOBER 2026",
-    "homeTeam": "K.S.C. Wielsbeke",
-    "homeScore": "8",
-    "awayTeam": "K. SV Veurne A",
-    "awayScore": "2"
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7520959",
-    "date": "ZONDAG, 4 OKTOBER 2026",
-    "homeTeam": "K.R.C. Waregem A",
-    "homeScore": "1",
-    "awayTeam": "S.V. Wevelgem City A",
-    "awayScore": "1"
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7520960",
-    "date": "ZONDAG, 4 OKTOBER 2026",
-    "homeTeam": "K. FC Heist A",
-    "homeScore": "0",
-    "awayTeam": "K. Eendr. Wervik A",
-    "awayScore": "0"
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7520961",
-    "date": "ZONDAG, 4 OKTOBER 2026",
-    "homeTeam": "K. FC Marke A",
-    "homeScore": "4",
-    "awayTeam": "K. VC Ardooie A",
-    "awayScore": "3"
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7521116",
-    "date": "ZATERDAG, 20 MAART 2027",
-    "homeTeam": "KFC Aalbeke Sport A",
-    "homeScore": null,
-    "awayTeam": "Club Roeselare",
-    "awayScore": null
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7521117",
-    "date": "ZATERDAG, 20 MAART 2027",
-    "homeTeam": "K. Sassp. Boezinge A",
-    "homeScore": null,
-    "awayTeam": "K. VC Ardooie A",
-    "awayScore": null
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7521118",
-    "date": "ZATERDAG, 20 MAART 2027",
-    "homeTeam": "K. Eendr. Wervik A",
-    "homeScore": null,
-    "awayTeam": "FC Sp. Heestert A",
-    "awayScore": null
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7521120",
-    "date": "ZATERDAG, 20 MAART 2027",
-    "homeTeam": "K. RC Bissegem",
-    "homeScore": null,
-    "awayTeam": "K. SV Veurne A",
-    "awayScore": null
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7521119",
-    "date": "ZATERDAG, 20 MAART 2027",
-    "homeTeam": "SV Ingelmunster A",
-    "homeScore": null,
-    "awayTeam": "S.V. Wevelgem City A",
-    "awayScore": null
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7521122",
-    "date": "ZONDAG, 21 MAART 2027",
-    "homeTeam": "K.R.C. Waregem A",
-    "homeScore": null,
-    "awayTeam": "K. FC Varsenare A",
-    "awayScore": null
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7521123",
-    "date": "ZONDAG, 21 MAART 2027",
-    "homeTeam": "K. FC Marke A",
-    "homeScore": null,
-    "awayTeam": "K. SK Beveren-Leie A",
-    "awayScore": null
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7521121",
-    "date": "ZONDAG, 21 MAART 2027",
-    "homeTeam": "K.S.C. Wielsbeke",
-    "homeScore": null,
-    "awayTeam": "K. FC Heist A",
     "awayScore": null
   }
 ]
