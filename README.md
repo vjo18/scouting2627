@@ -52,3 +52,15 @@ Let op: voor `ClubRBFA` toont de export de ploegnaam zoals die in de wedstrijdge
 De directe upload in de statische GitHub Pages-app werkt alleen **lokaal in die browser**. Een webpagina kan niet zonder GitHub-inloggegevens naar de repo schrijven. Daarom is voor blijvende, toesteloverstijgende synchronisatie stap 5 nodig. De knop **Master geboortejaren** maakt daarnaast een gecombineerde export voor controle; deze vervangt niet automatisch de centrale database.
 
 *Leeftijd* is een schatting: kalenderjaar minus geboortejaar. Om verkeerde matches te vermijden koppelt de directe upload op team én spelersnaam, waarbij de ploegnaam overeen moet komen met de naam in het dashboard. Voor de repo-import geldt dezelfde controle. Gegevens met ongeldige geboortejaren, onjuiste club/speler-combinaties of tegenstrijdige jaren worden niet stilzwijgend ingevoerd.
+
+
+## Definitieve geboortejaren-flow (via GitHub)
+Het dashboard heeft bewust maar drie knoppen: **thema**, **ontbrekende geboortejaren** en **exporteer selectie**. Resultaten upload je niet in de webapp.
+
+1. Download in Scouting Radar **Ontbrekende geboortejaren** (CSV met `ClubRBFA;Naam;Geboortejaar`).
+2. Vul geboortejaren aan, of gebruik je MacroDroid-resultaten met `Ploeg;Naam;Geboortejaar;Gevonden`.
+3. Open [de uploadmap](https://github.com/vjo18/scouting2627/tree/main/data_raw/birthyear_uploads) op GitHub en kies **Add file → Upload files**. Voeg elke nieuwe resultaten-CSV toe met een **nieuwe bestandsnaam**; bestaande bestanden blijven bewaard.
+4. Na commit op `main` start **Rebuild scouting birth years** automatisch. Deze importeert alle bestanden zonder dubbele records, voegt nieuwe geldige geboortejaren toe aan `data_raw/birthyears.csv` en vernieuwt `public/data/players.json`. Conflicterende geboortejaren worden niet overschreven.
+5. Vernieuw na succesvolle publicatie het dashboard. De knop **Ontbrekende geboortejaren** geeft dan alleen nog spelers zonder gekend geboortejaar.
+
+De koppeling gebeurt aan de hand van de *ploegnaam en spelersnaam uit de wedstrijddata*; deze moeten overeenkomen in de CSV. Het geboortejaar wordt niet geschat. Een herhaalde upload van dezelfde resultaten levert geen dubbele rijen op.
