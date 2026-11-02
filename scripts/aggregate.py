@@ -28,12 +28,14 @@ for comp in COMPS:
         team=row.get('Team','').strip(); name=row.get('Player Name','').strip()
         if not team or not name:continue
         key=(team,name)
-        p=groups.setdefault(key,dict(competition=comp['id'],competitionName=comp['name'],team=team,name=name,number='',age=None,birthYear=None,appearances=0,starts=0,subIns=0,subOuts=0,minutes=0,goals=0,penalties=0,ownGoals=0,yellows=0,reds=0,yellowReds=0,cleanSheets=0,captain=0,goalkeeper=False,matchUrls=[]))
+        p=groups.setdefault(key,dict(competition=comp['id'],competitionName=comp['name'],team=team,name=name,number='',age=None,birthYear=None,appearances=0,starts=0,subIns=0,subOuts=0,minutes=0,goals=0,subGoals=0,penalties=0,ownGoals=0,yellows=0,reds=0,yellowReds=0,cleanSheets=0,captain=0,goalkeeper=False,matchUrls=[]))
         p['appearances']+=1;p['matchUrls'].append(row['Match URL'])
         if row.get('Jersey Number'):p['number']=row['Jersey Number']
         for src,dst in [('Starting Player','starts'),('Substituted In','subIns'),('Substituted Out','subOuts'),('Clean Sheet','cleanSheets'),('Is Captain','captain')]:
             p[dst]+=int(yes(row.get(src)))
         p['goalkeeper']=p['goalkeeper'] or yes(row.get('Is Goalkeeper'))
+        if yes(row.get('Substituted In')):
+            p['subGoals']+=int(number(row.get('Goals Scored')))
         for src,dst in [('Minutes Played','minutes'),('Goals Scored','goals'),('Penalties Scored','penalties'),('Own Goals Scored','ownGoals'),('Yellow Cards','yellows'),('Red Cards','reds'),('YellowRed Cards','yellowReds')]:
             p[dst]+=number(row.get(src))
     for p in groups.values():
@@ -42,7 +44,7 @@ for comp in COMPS:
             p['birthYear']=next(iter(years))
             p['age']=datetime.now(timezone.utc).year-p['birthYear']
         p['minutes']=round(p['minutes'])
-        for name in ('goals','penalties','ownGoals','yellows','reds','yellowReds'):p[name]=int(p[name])
+        for name in ('goals','subGoals','penalties','ownGoals','yellows','reds','yellowReds'):p[name]=int(p[name])
         p['minutesPerMatch']=round(p['minutes']/p['appearances'],1) if p['appearances'] else 0
         p['goalsPer90']=round(p['goals']*90/p['minutes'],2) if p['minutes'] else 0
         p['minutesShare']=round(p['minutes']/(len(done)/16*90)*100,1) if done else 0
