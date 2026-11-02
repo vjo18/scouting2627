@@ -70,10 +70,7 @@ try {
     if (!entry.id || (entry.club && entry.number)) continue;
     try {
       await page.goto(`https://www.rbfa.be/nl/club/${entry.id}/info`, { waitUntil: "domcontentloaded" });
-      await page.waitForFunction(
-        () => /Stamnummer\\s*\\d+/i.test(document.body?.innerText || ""),
-        { timeout: 18000 }
-      ).catch(() => console.warn("Stamnummer niet geladen:", entry.team));
+      await wait(600);
       const info = await page.evaluate(() => {
         const text = document.body.innerText;
         const number = text.match(/Stamnummer\s*(\d+)/i)?.[1] || "";
