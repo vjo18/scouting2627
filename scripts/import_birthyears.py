@@ -23,7 +23,7 @@ def main():
         club=mapping.get(norm(r.get("ClubRBFA")),r.get("ClubRBFA","").strip())
         name=r.get("Naam","").strip()
         year=r.get("Geboortejaar","").strip()
-        if not (club and name and year):continue
+        if not (club and name and year) or norm(club) in {"royal belgian fa","rbfa","voetbal vlaanderen"}:continue
         key=(norm(club),norm(name))
         if key in known and known[key]["Geboortejaar"]!=year:
             raise RuntimeError(f"Existing birthyear conflict for {club} / {name}")
@@ -40,6 +40,9 @@ def main():
             if norm(row.get("Gevonden")) in {"false","onwaar","nee","no","0","niet gevonden"}:skipped+=1;continue
             club=(row.get("Ploeg") or row.get("ClubRBFA") or "").strip()
             club=mapping.get(norm(club),club)
+            if norm(club) in {"royal belgian fa","rbfa","voetbal vlaanderen"}:
+                skipped+=1
+                continue
             name=(row.get("Naam") or "").strip()
             year=(row.get("Geboortejaar") or "").strip()
             key=(norm(club),norm(name))
