@@ -58,17 +58,24 @@ def main():
             print(f'{cid}: calendar has {len(candidate)} unique fixtures ({duplicate_count} duplicate rows removed)',flush=True)
             oldurls={m['url'] for m in old};newurls=set(unique)
             if len(candidate)<8:raise RuntimeError(f'{cid}: incomplete calendar')
-            if not oldurls.issubset(newurls):
-                raise RuntimeError(f'{cid}: {len(oldurls-newurls)} existing fixtures vanished; refusing update')
-            oldplayed={m['url'] for m in old if played(m)}
-            newplayed={m['url'] for m in candidate if played(m)}
-            if not oldplayed.issubset(newplayed):
-                raise RuntimeError(f'{cid}: {len(oldplayed-newplayed)} played matches vanished; refusing update')
-            # Do not silently overwrite previously verified results with changed scores.
+            # RBFA can omit earlier rounds. Keep existing fixtures instead of deleting them.
+            # The new scrape must still cover most existing fixtures to avoid accepting
+            # a severely incomplete response as an update.
+            if oldurls and len(newurls & oldurls)<max(8,int(len(oldurls)*0.85)):
+                raise RuntimeError(f'{cid}: only {len(newurls & oldurls)}/{len(oldurls)} previous fixtures returned; refusing update')
+            missing=oldurls-newurls
+            if missing:print(f'{cid}: RBFA omitted {len(missing)} old fixtures; preserving them',flush=True)
+            # Preserve verified historical scores, but accept new results for unplayed games.
             for match in old:
-                if match['url'] in unique and played(match) and played(unique[match['url']]):
-                    if (str(match['homeScore']),str(match['awayScore'])) != (str(unique[match['url']]['homeScore']),str(unique[match['url']]['awayScore'])):
+                existing=unique.get(match['url'])
+                if existing is None:
+                    unique[match['url']]=match
+                elif played(match):
+                    if played(existing) and (str(match['homeScore']),str(match['awayScore'])) != (str(existing['homeScore']),str(existing['awayScore'])):
                         raise RuntimeError(f"{cid}: score changed for {match['url']}; manual review required")
+                    unique[match['url']]=match
+            candidate=list(unique.values())
+            newplayed={m['url'] for m in candidate if played(m)}
             (stage/'data_raw/match_calendar.json').write_text(json.dumps(candidate,ensure_ascii=False,indent=2),encoding='utf-8')
             run(['node',source/'scrapers/scrape_player_data.js'],cwd=stage,env=env)
             file=stage/'data_raw/player_matchdata.csv'
