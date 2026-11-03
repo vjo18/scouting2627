@@ -11,10 +11,22 @@ UPLOADS=RAW/"birthyear_uploads"
 def norm(s):return " ".join((s or "").strip().casefold().split())
 def read(path):
     if not path.exists():return []
-    with path.open(encoding="utf-8-sig",newline="") as f:
-        first=f.readline()
-        f.seek(0)
-        return list(csv.DictReader(f,delimiter=";" if first.count(";")>=first.count(",") else ","))
+    data=path.read_bytes()
+    if not data:return []
+    # Excel/MacroDroid can export either UTF-8 or Windows-1252.
+    # Decode the entire file before parsing so mixed line endings work.
+    for encoding in ("utf-8-sig","cp1252"):
+        try:
+            text=data.decode(encoding)
+            break
+        except UnicodeDecodeError:
+            continue
+    else:
+        raise RuntimeError(f"{path}: unsupported CSV text encoding")
+    import io
+    first=text.splitlines()[0] if text.splitlines() else ""
+    delimiter=";" if first.count(";")>=first.count(",") else ","
+    return list(csv.DictReader(io.StringIO(text,newline=""),delimiter=delimiter))
 def main():
     mapping={norm(r.get("TeamRepo")):r.get("ClubRBFA","").strip() for r in read(RAW/"team_club_mapping.csv") if r.get("ClubRBFA")}
     old=read(DEST)
