@@ -2178,3 +2178,601 @@ Match URL,Home Team,Away Team,Player Name,Jersey Number,Team,Is Goalkeeper,Is Ca
 "https://www.rbfa.be/nl/wedstrijd/7510331","KFC Poperinge","K. FC Lendelede Sport","Zico Sandra","11","K. FC Lendelede Sport",false,false,false,"Loss",false,true,75,false,,15,0,0,0,0,0,0,,0,-1,0,1,0,-2,0,2
 "https://www.rbfa.be/nl/wedstrijd/7510331","KFC Poperinge","K. FC Lendelede Sport","Kabir Cherif","17","KFC Poperinge",false,false,false,"Win",false,true,84,false,,6,0,0,0,0,0,0,,1,1,1,0,1,2,2,0
 "https://www.rbfa.be/nl/wedstrijd/7510331","KFC Poperinge","K. FC Lendelede Sport","Niels Van Coillie","19","K. FC Lendelede Sport",false,false,false,"Loss",false,true,46,false,,44,0,0,0,0,0,0,,0,-1,0,1,0,-2,0,2
+
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Lukas Verhoeyen","1","K.S.V. Pittem",true,false,true,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,2,2,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Robbe Santens","1","GD Ingooigem",true,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-2,0,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Kiano Vandenbulcke","3","K.S.V. Pittem",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,2,2,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Viktor Dejaegere","3","GD Ingooigem",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-2,0,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Milan Ruysschaert","4","K.S.V. Pittem",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,2,2,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Guillermo Vandenberghe","5","GD Ingooigem",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-2,0,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Gilles Soens","5","K.S.V. Pittem",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,2,2,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Rhune Derycke","6","GD Ingooigem",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-2,0,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Senne Vanbrabandt","6","K.S.V. Pittem",false,false,false,"Win",true,false,,true,85,85,0,0,0,1,0,0,,1,1,1,0,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Thibault Vandeputte","7","GD Ingooigem",false,false,false,"Loss",true,false,,true,63,63,0,0,0,0,0,0,,0,-1,0,1,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Mathieu Verstaen","7","K.S.V. Pittem",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,2,2,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Aaron Nuytten","8","GD Ingooigem",false,true,false,"Loss",true,false,,true,69,69,0,0,0,0,0,0,,0,-1,0,1,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Matice Van Bruwaene","9","K.S.V. Pittem",false,false,false,"Win",true,false,,true,73,73,0,0,0,0,0,0,,1,1,1,0,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Lennert Deschrijver","9","GD Ingooigem",false,false,false,"Loss",true,false,,false,,90,0,0,0,1,0,0,,0,-2,0,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Victor Vankerkhoven","10","K.S.V. Pittem",false,true,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,2,2,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Bryan Deloof","10","GD Ingooigem",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-2,0,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Ruben Gevaert","14","K.S.V. Pittem",false,false,false,"Win",true,false,,true,90,90,1,0,0,0,0,0,,1,2,2,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Jordy Vanhoucke","11","GD Ingooigem",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-2,0,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Quentin Vaneeckhoute","20","K.S.V. Pittem",false,false,false,"Win",true,false,,false,,90,0,0,0,1,0,0,,1,2,2,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Mauro Coreelman","12","GD Ingooigem",false,false,false,"Loss",true,false,,true,80,80,0,0,0,0,0,0,,0,-1,0,1,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Dylan Brian Da Silva Gomes","21","K.S.V. Pittem",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,2,2,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Maxime De Maesschalck","17","GD Ingooigem",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-2,0,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Jari Carré","22","K.S.V. Pittem",true,false,false,"Win",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Emiel Verhulst","2","GD Ingooigem",false,false,false,"Loss",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Siebert De Smet","2","K.S.V. Pittem",false,false,false,"Win",false,true,85,false,,5,0,0,0,0,0,0,,1,1,1,0,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Thibaud Windels","14","GD Ingooigem",false,false,false,"Loss",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Edgar Khajakyan","16","K.S.V. Pittem",false,false,false,"Win",false,true,90,false,,0,0,0,0,0,0,0,,,,,,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Thibaut Maes","15","GD Ingooigem",false,false,false,"Loss",false,true,63,false,,27,0,0,0,1,0,0,,0,-1,0,1,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Leon Vandenhende","17","K.S.V. Pittem",false,false,false,"Win",false,true,73,false,,17,1,0,0,0,0,0,,1,1,1,0,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Ruben Verhaeghe","19","GD Ingooigem",false,false,false,"Loss",false,true,69,false,,21,0,0,0,0,0,0,,0,-1,0,1,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Petr Borzin","24","K.S.V. Pittem",false,false,false,"Win",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510255","K.S.V. Pittem","GD Ingooigem","Alessio Naert","20","GD Ingooigem",false,false,false,"Loss",false,true,80,false,,10,0,0,0,0,0,0,,0,-1,0,1,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Jaron Delva","1","SV Moorslede",true,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-2,0,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Faozâme Touré Ouro Nile","24","SK Nieuwkerke",true,false,true,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,2,2,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Aaron Verschaete","3","SV Moorslede",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-2,0,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Idris Zmimer","2","SK Nieuwkerke",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,2,2,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Lenn Degryse","6","SV Moorslede",false,false,false,"Loss",true,false,,true,46,46,0,0,0,0,0,0,,0,-1,0,1,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Jonathan Godswill","3","SK Nieuwkerke",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,2,2,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Emile Degruyter","7","SV Moorslede",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-2,0,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Zakaria Ahmed Messaoud","4","SK Nieuwkerke",false,false,false,"Win",true,false,,false,,90,0,0,0,1,0,0,,1,2,2,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Andreas Hemelaere","8","SV Moorslede",false,false,false,"Loss",true,false,,true,83,83,0,0,0,0,0,0,,0,-2,0,2,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Andries Maerten","5","SK Nieuwkerke",false,false,false,"Win",true,false,,false,,90,0,0,0,1,0,0,,1,2,2,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Milan Degrande","11","SV Moorslede",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-2,0,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Arne Vandoolaeghe","7","SK Nieuwkerke",false,false,false,"Win",true,false,,true,62,62,0,0,0,0,0,0,,1,1,1,0,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Rune Declercq","12","SV Moorslede",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-2,0,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Jess Malfait","8","SK Nieuwkerke",false,false,false,"Win",true,false,,true,62,62,0,0,0,1,0,0,,1,1,1,0,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Alexander Samyn","13","SV Moorslede",false,false,false,"Loss",true,false,,true,46,46,0,0,0,0,0,0,,0,-1,0,1,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Bryan Verhaeghe","9","SK Nieuwkerke",false,false,false,"Win",true,false,,true,89,89,0,0,0,1,0,0,,1,2,2,0,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Carl Terryn","14","SV Moorslede",false,true,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-2,0,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Damiano Vervaeke","11","SK Nieuwkerke",false,false,false,"Win",true,false,,true,62,62,0,0,0,0,0,0,,1,1,1,0,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Michiel Vandromme","15","SV Moorslede",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-2,0,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Hyllan Bruno El Bouhmidi","12","SK Nieuwkerke",false,false,false,"Win",true,false,,true,86,86,1,0,0,0,0,0,,1,2,2,0,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Sorin Vandemoortele","17","SV Moorslede",false,false,false,"Loss",true,false,,true,46,46,0,0,0,0,0,0,,0,-1,0,1,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Benjamin Lutun","14","SK Nieuwkerke",false,true,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,2,2,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Drago Tetaert","20","SV Moorslede",true,false,false,"Loss",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Gwenn Malfait","10","SK Nieuwkerke",false,false,false,"Win",false,true,62,false,,28,0,0,0,0,0,0,,1,1,1,0,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Simon Ameel","2","SV Moorslede",false,false,false,"Loss",false,true,46,false,,44,0,0,0,0,0,0,,0,-1,0,1,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Kevin Rudy Sarrazyn","15","SK Nieuwkerke",false,false,false,"Win",false,true,86,false,,4,0,0,0,0,0,0,,0.5,0,0,0,1,2,2,0
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Thomas Teirlijnck","4","SV Moorslede",false,false,false,"Loss",false,true,83,false,,7,0,0,0,0,0,0,,0.5,0,0,0,0,-2,0,2
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Lukas Emmerick Zagula","16","SK Nieuwkerke",false,false,false,"Win",false,true,62,false,,28,1,0,0,0,0,0,,1,1,1,0,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Tibe Foulon","5","SV Moorslede",false,false,false,"Loss",false,true,46,false,,44,0,0,0,0,0,0,,0,-1,0,1,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Hugo Hollebecq","17","SK Nieuwkerke",false,false,false,"Win",false,true,62,false,,28,0,0,0,0,0,0,,1,1,1,0,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Jorre Sabbe","16","SV Moorslede",false,false,false,"Loss",false,true,46,false,,44,0,0,0,0,0,0,,0,-1,0,1,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510266","SV Moorslede","SK Nieuwkerke","Toure Ouro Nile","18","SK Nieuwkerke",false,false,false,"Win",false,true,89,false,,1,0,0,0,0,0,0,,0.5,0,0,0,1,2,2,0
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Rémi Romuald Decavel","1","K.S.K Vlamertinge A",true,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,3,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Nicolas Semet","1","SC Zonnebeke A",true,false,false,"Loss",true,false,,false,,90,0,0,0,1,0,0,,0,-1,2,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Rabah Mazbouh","2","K.S.K Vlamertinge A",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,3,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Milan Vandenabeele","3","SC Zonnebeke A",false,false,false,"Loss",true,false,,true,57,57,0,0,0,0,0,0,,0,-2,0,2,1,1,2,1
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Jarne Wydoodt","6","K.S.K Vlamertinge A",false,true,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,3,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Julle Sap","4","SC Zonnebeke A",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-1,2,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Dean Brouckaert","7","K.S.K Vlamertinge A",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,3,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Timon Baes","5","SC Zonnebeke A",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-1,2,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Monir Bouhid","10","K.S.K Vlamertinge A",false,false,false,"Win",true,false,,false,,90,1,0,0,0,0,0,,1,1,3,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Jamie Tuyttens","6","SC Zonnebeke A",false,true,false,"Loss",true,false,,false,,90,2,0,0,1,0,0,,0,-1,2,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Sofyan Derrag","11","K.S.K Vlamertinge A",false,false,false,"Win",true,false,,true,75,75,1,0,0,0,0,0,,1,1,2,1,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Nicolas David Gamarra Gamarra","7","SC Zonnebeke A",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-1,2,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Toon Kint","12","K.S.K Vlamertinge A",false,false,false,"Win",true,false,,true,68,68,1,0,0,0,0,0,,1,1,2,1,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Sietse Jacob","8","SC Zonnebeke A",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-1,2,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Karsten Soodts","14","K.S.K Vlamertinge A",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,3,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Tom Lavens","9","SC Zonnebeke A",false,false,false,"Loss",true,false,,true,57,57,0,0,0,0,0,0,,0,-2,0,2,1,1,2,1
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Adan Lakhnigue","17","K.S.K Vlamertinge A",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,3,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Maxim De Meulenaere","10","SC Zonnebeke A",false,false,false,"Loss",true,false,,false,,90,0,0,0,1,0,0,,0,-1,2,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Yassin Amounan Battasse","19","K.S.K Vlamertinge A",false,false,false,"Win",true,false,,true,66,66,0,0,0,0,0,0,,1,1,2,1,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Wouter Vervaeke","11","SC Zonnebeke A",false,false,false,"Loss",true,false,,true,72,72,0,0,0,0,0,0,,0,-1,1,2,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Hamza Yanis Abdoune","27","K.S.K Vlamertinge A",false,false,false,"Win",true,false,,true,75,75,0,0,0,1,0,0,,1,1,2,1,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Gaspard Delanoy","17","SC Zonnebeke A",false,false,false,"Loss",true,false,,true,57,57,0,0,0,1,0,0,,0,-2,0,2,1,1,2,1
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Jarne Verlinde","66","K.S.K Vlamertinge A",true,false,false,"Win",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Warre Verstraete","26","SC Zonnebeke A",true,false,false,"Loss",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Joty Boeve","3","K.S.K Vlamertinge A",false,false,false,"Win",false,true,75,false,,15,0,0,0,0,0,0,,0.5,0,1,1,1,1,2,1
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Jarne Muylle","2","SC Zonnebeke A",false,false,false,"Loss",false,true,57,false,,33,0,0,0,0,0,0,,1,1,2,1,0,-2,0,2
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Medjon Hoxha","9","K.S.K Vlamertinge A",false,false,false,"Win",false,true,75,false,,15,0,0,0,1,0,0,,0.5,0,1,1,1,1,2,1
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Tom Hillewaere","14","SC Zonnebeke A",false,false,false,"Loss",false,true,57,false,,33,0,0,0,1,0,0,,1,1,2,1,0,-2,0,2
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Corentin Lamoot","16","K.S.K Vlamertinge A",false,false,false,"Win",false,true,66,false,,24,0,0,0,0,0,0,,0.5,0,1,1,1,1,2,1
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Alister Bafcop","19","SC Zonnebeke A",false,false,false,"Loss",false,true,57,false,,33,0,0,0,0,0,0,,1,1,2,1,0,-2,0,2
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Mathieu Demeulenaere","26","K.S.K Vlamertinge A",false,false,false,"Win",false,true,68,false,,22,0,0,0,0,0,0,,0.5,0,1,1,1,1,2,1
+"https://www.rbfa.be/nl/wedstrijd/7510263","K.S.K Vlamertinge A","SC Zonnebeke A","Kamal Ouarane","20","SC Zonnebeke A",false,false,false,"Loss",false,true,72,false,,18,0,0,0,0,0,0,,0.5,0,1,1,0,-1,1,2
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Olivier Djerdi","1","K. FC. Meulebeke",true,false,true,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,3,3,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Tibe Vercruysse","22","K. SV Moorsele A",true,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-3,0,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Simon Taillieu","2","K. FC. Meulebeke",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,3,3,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Edouard Lootens","2","K. SV Moorsele A",false,false,false,"Loss",true,false,,true,80,80,0,0,0,0,0,0,,0,-3,0,3,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Emiel Callens","3","K. FC. Meulebeke",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,3,3,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Matthijs Blancke","3","K. SV Moorsele A",false,false,false,"Loss",true,false,,true,75,75,0,0,0,0,0,0,,0,-3,0,3,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Matthias Cottenier","5","K. FC. Meulebeke",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,3,3,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Hannes Feys","4","K. SV Moorsele A",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-3,0,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Matthias Blomme","7","K. FC. Meulebeke",false,false,false,"Win",true,false,,true,85,85,1,0,0,0,0,0,,1,3,3,0,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Kobe Cyriel Van Belleghem","5","K. SV Moorsele A",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-3,0,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Milan Vandommele","8","K. FC. Meulebeke",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,3,3,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Lander Van Wassenhove","6","K. SV Moorsele A",false,true,false,"Loss",true,false,,false,,90,0,0,0,1,0,0,,0,-3,0,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Lander Feys","9","K. FC. Meulebeke",false,false,false,"Win",true,false,,true,76,76,1,0,0,0,0,0,,1,3,3,0,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Dieter Meulenyzer","7","K. SV Moorsele A",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-3,0,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Baptiste Labeeuw","10","K. FC. Meulebeke",false,false,false,"Win",true,false,,false,,90,0,0,0,1,0,0,,1,3,3,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Jonas Hanson","9","K. SV Moorsele A",false,false,false,"Loss",true,false,,true,55,55,0,0,0,0,0,0,,0,-3,0,3,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Thibaut Verbrugghe","14","K. FC. Meulebeke",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,3,3,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Lenn D'Haene","10","K. SV Moorsele A",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-3,0,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Michiel Vandromme","16","K. FC. Meulebeke",false,true,false,"Win",true,false,,false,,90,1,0,0,0,0,0,,1,3,3,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Edgar Dehaene","11","K. SV Moorsele A",false,false,false,"Loss",true,false,,true,55,55,0,0,0,0,0,0,,0,-3,0,3,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Jelle De Bruyne","23","K. FC. Meulebeke",false,false,false,"Win",true,false,,true,82,82,0,0,0,0,0,0,,1,3,3,0,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Robin Hoornaert","16","K. SV Moorsele A",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-3,0,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Siebe Vanhouwe","22","K. FC. Meulebeke",true,false,false,"Win",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Broos Verlinde","1","K. SV Moorsele A",true,false,false,"Loss",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Ricardo Perneel","4","K. FC. Meulebeke",false,false,false,"Win",false,true,76,false,,14,0,0,0,0,0,0,,0.5,0,0,0,1,3,3,0
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Niel Neyrinck","8","K. SV Moorsele A",false,false,false,"Loss",false,true,75,false,,15,0,0,0,0,0,0,,0.5,0,0,0,0,-3,0,3
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Julot Paermentier","11","K. FC. Meulebeke",false,false,false,"Win",false,true,82,false,,8,0,0,0,0,0,0,,0.5,0,0,0,1,3,3,0
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Owen Deceuninck","12","K. SV Moorsele A",false,false,false,"Loss",false,true,55,false,,35,0,0,0,0,0,0,,0.5,0,0,0,0,-3,0,3
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Tuur Delouw","20","K. FC. Meulebeke",false,false,false,"Win",false,true,85,false,,5,0,0,0,0,0,0,,0.5,0,0,0,1,3,3,0
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Obe Eggermont","14","K. SV Moorsele A",false,false,false,"Loss",false,true,55,false,,35,0,0,0,0,0,0,,0.5,0,0,0,0,-3,0,3
+"https://www.rbfa.be/nl/wedstrijd/7510267","K. FC. Meulebeke","K. SV Moorsele A","Obie De Smet","15","K. SV Moorsele A",false,false,false,"Loss",false,true,80,false,,10,0,0,0,0,0,0,,0.5,0,0,0,0,-3,0,3
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","David-Moïse Matthieu Dos Santos Nascimento","1","K. VK Avelgem A",true,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-1,0,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Jaron Delva","1","SV Moorslede",true,false,true,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,1,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Arend Callewaert","2","K. VK Avelgem A",false,true,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-1,0,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Simon Ameel","2","SV Moorslede",false,false,false,"Win",true,false,,false,,90,0,0,0,1,0,0,,1,1,1,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Jordy Wandels","4","K. VK Avelgem A",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-1,0,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Aaron Verschaete","3","SV Moorslede",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,1,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Ilyes Sliti","7","K. VK Avelgem A",false,false,false,"Loss",true,false,,true,57,57,0,0,0,1,0,0,,0,-1,0,1,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Emile Degruyter","7","SV Moorslede",false,false,false,"Win",true,false,,true,88,88,0,0,0,0,0,0,,1,1,1,0,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Ossama Msili","9","K. VK Avelgem A",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-1,0,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Andreas Hemelaere","8","SV Moorslede",false,false,false,"Win",true,false,,true,82,82,1,0,0,0,0,0,,1,1,1,0,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Gerben Neirijnck","12","K. VK Avelgem A",false,false,false,"Loss",true,false,,false,,90,0,0,0,1,0,0,,0,-1,0,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Ismaila Samba","10","SV Moorslede",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,1,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Djoudi Patrick Hadi","15","K. VK Avelgem A",false,false,false,"Loss",true,false,,true,57,57,0,0,0,0,0,0,,0,-1,0,1,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Milan Degrande","11","SV Moorslede",false,false,false,"Win",true,false,,true,74,74,0,0,0,0,0,0,,1,1,1,0,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Logan Batteur","17","K. VK Avelgem A",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-1,0,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Rune Declercq","12","SV Moorslede",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,1,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Rune Ameye","20","K. VK Avelgem A",false,false,false,"Loss",true,false,,true,46,46,0,0,0,0,0,0,,0,-1,0,1,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Carl Terryn","14","SV Moorslede",false,true,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,1,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Hamza Msili","22","K. VK Avelgem A",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-1,0,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Michiel Vandromme","15","SV Moorslede",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,1,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Brecht Van Cauwenberge","24","K. VK Avelgem A",false,false,false,"Loss",true,false,,true,74,74,0,0,0,0,0,0,,0,-1,0,1,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Jorre Sabbe","16","SV Moorslede",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,1,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Tim Heugens","21","K. VK Avelgem A",true,false,false,"Loss",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Drago Tetaert","20","SV Moorslede",true,false,false,"Win",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Daan Stockman","8","K. VK Avelgem A",false,false,false,"Loss",false,true,57,false,,33,0,0,0,0,0,0,,0.5,0,0,0,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Tibe Foulon","5","SV Moorslede",false,false,false,"Win",false,true,88,false,,2,0,0,0,0,0,0,,0.5,0,0,0,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Yves Boguhe","10","K. VK Avelgem A",false,false,false,"Loss",false,true,57,false,,33,0,0,0,0,0,0,,0.5,0,0,0,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Lenn Degryse","6","SV Moorslede",false,false,false,"Win",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Benjamin Opoku","23","K. VK Avelgem A",false,false,false,"Loss",false,true,46,false,,44,0,0,0,0,0,0,,0.5,0,0,0,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Alexander Samyn","13","SV Moorslede",false,false,false,"Win",false,true,74,false,,16,0,0,0,0,0,0,,0.5,0,0,0,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Valentin Romont","77","K. VK Avelgem A",false,false,false,"Loss",false,true,74,false,,16,0,0,0,0,0,0,,0.5,0,0,0,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510270","K. VK Avelgem A","SV Moorslede","Sorin Vandemoortele","17","SV Moorslede",false,false,false,"Win",false,true,82,false,,8,0,0,0,0,0,0,,0.5,0,0,0,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Johan Christophe Deparis","1","R.J.H. Comines A",true,false,true,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,3,3,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Leonard Holvoet","22","V.V. Emelgem-Kachtem",true,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-3,0,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Kilian Van Zeveren","8","R.J.H. Comines A",false,true,false,"Win",true,false,,true,72,72,0,0,0,1,0,0,,1,1,1,0,1,2,2,0
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Matthieu Schotte","2","V.V. Emelgem-Kachtem",false,false,false,"Loss",true,false,,true,85,85,0,0,0,0,0,0,,0,-3,0,3,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Hugo D Angelo","9","R.J.H. Comines A",false,false,false,"Win",true,false,,true,84,84,0,0,0,0,0,0,,1,2,2,0,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Kenneth Vanhove","3","V.V. Emelgem-Kachtem",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-3,0,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Simon Leroy","11","R.J.H. Comines A",false,false,false,"Win",true,false,,true,72,72,1,0,0,1,0,0,,1,1,1,0,1,2,2,0
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Jan-Thomas Kerkhof","4","V.V. Emelgem-Kachtem",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-3,0,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Naom Debacker","12","R.J.H. Comines A",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,3,3,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Tijn Vankeirsbilck","7","V.V. Emelgem-Kachtem",false,false,false,"Loss",true,false,,true,76,76,0,0,0,0,0,0,,0,-1,0,1,0,-2,0,2
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Mitch Voet","13","R.J.H. Comines A",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,3,3,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Yacine Ben Slimane","8","V.V. Emelgem-Kachtem",false,false,false,"Loss",true,false,,true,58,58,0,0,0,0,0,0,,0,-1,0,1,0,-2,0,2
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Enzo Jean-Claude Vandenberghe","14","R.J.H. Comines A",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,3,3,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Jarne Delombaerde","11","V.V. Emelgem-Kachtem",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-3,0,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Théotim Timothy Maes Leroy","16","R.J.H. Comines A",false,false,false,"Win",true,false,,true,84,84,0,0,0,0,0,0,,1,2,2,0,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Frederik De Smet","12","V.V. Emelgem-Kachtem",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-3,0,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Mouctar Gassama","18","R.J.H. Comines A",false,false,false,"Win",true,false,,true,81,81,0,0,0,1,0,0,,1,1,1,0,1,2,2,0
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Aaron De Veirman","13","V.V. Emelgem-Kachtem",false,false,false,"Loss",true,false,,true,85,85,0,0,0,0,0,0,,0,-3,0,3,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Corentyn Duviler","21","R.J.H. Comines A",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,3,3,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Gianluigi Plyson","15","V.V. Emelgem-Kachtem",false,true,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-3,0,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Issam Boudersa","23","R.J.H. Comines A",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,3,3,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Jente Dekimpe","16","V.V. Emelgem-Kachtem",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-3,0,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Loic Pierre Desmet","5","R.J.H. Comines A",false,false,false,"Win",false,true,84,false,,6,0,0,0,0,0,0,,1,1,1,0,1,2,2,0
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Girbaud Destoop","1","V.V. Emelgem-Kachtem",true,false,false,"Loss",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Bilel Bouchmella","6","R.J.H. Comines A",false,false,false,"Win",false,true,72,false,,18,0,0,0,1,0,0,,1,2,2,0,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Hierro Verbeke","9","V.V. Emelgem-Kachtem",false,false,false,"Loss",false,true,58,false,,32,0,0,0,0,0,0,,0,-2,0,2,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Emilio Coudron","7","R.J.H. Comines A",false,false,false,"Win",false,true,81,false,,9,2,0,0,0,0,0,,1,2,2,0,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Axel Delecluyse","10","V.V. Emelgem-Kachtem",false,false,false,"Loss",false,true,76,false,,14,0,0,0,0,0,0,,0,-2,0,2,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Jason Robaeys","10","R.J.H. Comines A",false,false,false,"Win",false,true,72,false,,18,0,0,0,0,0,0,,1,2,2,0,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Arthur Verscheure","17","V.V. Emelgem-Kachtem",false,false,false,"Loss",false,true,85,false,,5,0,0,0,0,0,0,,0,-1,0,1,0,-2,0,2
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Kylian Mortier","19","R.J.H. Comines A",false,false,false,"Win",false,true,84,false,,6,0,0,0,0,0,0,,1,1,1,0,1,2,2,0
+"https://www.rbfa.be/nl/wedstrijd/7510272","R.J.H. Comines A","V.V. Emelgem-Kachtem","Luca Seys","18","V.V. Emelgem-Kachtem",false,false,false,"Loss",false,true,85,false,,5,0,0,0,0,0,0,,0,-1,0,1,0,-2,0,2
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Juan Heugebaert","1","K. SK Geluwe",true,false,true,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,1,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Jari Carré","22","K.S.V. Pittem",true,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-1,0,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Kenneth Garreyn","2","K. SK Geluwe",false,true,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,1,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Milan Ruysschaert","4","K.S.V. Pittem",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-1,0,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Lars Depover","3","K. SK Geluwe",false,false,false,"Win",true,false,,true,45,45,0,0,0,0,0,0,,1,1,1,0,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Gilles Soens","5","K.S.V. Pittem",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-1,0,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Baptiste Gruson","4","K. SK Geluwe",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,1,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Senne Vanbrabandt","6","K.S.V. Pittem",false,false,false,"Loss",true,false,,true,80,80,0,0,0,0,0,0,,0,-1,0,1,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Florian Heyte","5","K. SK Geluwe",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,1,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Mathieu Verstaen","7","K.S.V. Pittem",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-1,0,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Iyas Rawash","8","K. SK Geluwe",false,false,false,"Win",true,false,,false,,90,0,0,0,1,0,0,,1,1,1,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Gauthier Maes","8","K.S.V. Pittem",false,true,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-1,0,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Tuur Bulckaen","9","K. SK Geluwe",false,false,false,"Win",true,false,,true,66,66,1,0,0,0,0,0,,1,1,1,0,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Matice Van Bruwaene","9","K.S.V. Pittem",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-1,0,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Thibaut Vanhoutte","10","K. SK Geluwe",false,false,false,"Win",true,false,,true,66,66,0,0,0,0,0,0,,1,1,1,0,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Ruben Gevaert","14","K.S.V. Pittem",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-1,0,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Keano Tollenaere","11","K. SK Geluwe",false,false,false,"Win",true,false,,true,85,85,0,0,0,0,0,0,,1,1,1,0,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Edgar Khajakyan","16","K.S.V. Pittem",false,false,false,"Loss",true,false,,true,72,72,0,0,0,0,0,0,,0,-1,0,1,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Morgan Amerkan","12","K. SK Geluwe",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,1,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Maxim Damman","18","K.S.V. Pittem",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-1,0,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Mathias Brutsaert","21","K. SK Geluwe",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,1,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Dylan Brian Da Silva Gomes","21","K.S.V. Pittem",false,false,false,"Loss",true,false,,true,64,64,0,0,0,0,0,0,,0,-1,0,1,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Valentin Bonini","6","K. SK Geluwe",false,false,false,"Win",false,true,85,false,,5,0,0,0,0,0,0,,0.5,0,0,0,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Kiano Vandenbulcke","3","K.S.V. Pittem",false,false,false,"Loss",false,true,80,false,,10,0,0,0,0,0,0,,0.5,0,0,0,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Cédric Parmentier","7","K. SK Geluwe",false,false,false,"Win",false,true,66,false,,24,0,0,0,0,0,0,,0.5,0,0,0,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Victor Vankerkhoven","10","K.S.V. Pittem",false,false,false,"Loss",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Senne Demedts","15","K. SK Geluwe",false,false,false,"Win",false,true,45,false,,45,0,0,0,0,0,0,,0.5,0,0,0,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Leon Vandenhende","17","K.S.V. Pittem",false,false,false,"Loss",false,true,72,false,,18,0,0,0,0,0,0,,0.5,0,0,0,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Donovan Mestach","16","K. SK Geluwe",false,false,false,"Win",false,true,66,false,,24,0,0,0,0,0,0,,0.5,0,0,0,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510282","K. SK Geluwe","K.S.V. Pittem","Quentin Vaneeckhoute","20","K.S.V. Pittem",false,false,false,"Loss",false,true,64,false,,26,0,0,0,0,0,0,,0.5,0,0,0,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Faozâme Touré Ouro Nile","24","SK Nieuwkerke",true,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,3,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Jari Carré","22","K.S.V. Pittem",true,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-1,2,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Idris Zmimer","2","SK Nieuwkerke",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,3,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Kiano Vandenbulcke","3","K.S.V. Pittem",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-1,2,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Jonathan Godswill","3","SK Nieuwkerke",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,3,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Senne Vanbrabandt","6","K.S.V. Pittem",false,false,false,"Loss",true,false,,true,88,88,0,0,0,0,0,0,,0,-1,2,3,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Zakaria Ahmed Messaoud","4","SK Nieuwkerke",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,3,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Mathieu Verstaen","7","K.S.V. Pittem",false,false,false,"Loss",true,false,,false,,90,1,0,0,1,0,0,,0,-1,2,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Andries Maerten","5","SK Nieuwkerke",false,false,false,"Win",true,false,,true,70,70,0,0,0,0,0,0,,1,1,2,1,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Gauthier Maes","8","K.S.V. Pittem",false,true,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-1,2,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Bryan Verhaeghe","9","SK Nieuwkerke",false,false,false,"Win",true,false,,true,70,70,0,0,0,0,0,0,,1,1,2,1,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Victor Vankerkhoven","10","K.S.V. Pittem",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-1,2,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Damiano Vervaeke","11","SK Nieuwkerke",false,false,false,"Win",true,false,,true,82,82,0,0,0,0,0,0,,0.5,0,2,2,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Ruben Gevaert","14","K.S.V. Pittem",false,false,false,"Loss",true,false,,true,55,55,0,0,0,0,0,0,,0,-1,1,2,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Hyllan Bruno El Bouhmidi","12","SK Nieuwkerke",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,3,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Gilles Soens","15","K.S.V. Pittem",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-1,2,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Benjamin Lutun","14","SK Nieuwkerke",false,true,false,"Win",true,false,,false,,90,0,1,0,0,0,0,,1,1,3,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Edgar Khajakyan","16","K.S.V. Pittem",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-1,2,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Lukas Emmerick Zagula","16","SK Nieuwkerke",false,false,false,"Win",true,false,,false,,90,2,0,0,1,0,0,,1,1,3,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Leon Vandenhende","17","K.S.V. Pittem",false,false,false,"Loss",true,false,,true,55,55,0,0,0,0,0,0,,0,-1,1,2,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Toure Ouro Nile","18","SK Nieuwkerke",false,false,false,"Win",true,false,,true,58,58,0,0,0,1,0,0,,1,1,2,1,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Petr Borzin","24","K.S.V. Pittem",false,false,false,"Loss",true,false,,true,88,88,0,0,0,1,0,0,,0,-1,2,3,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Arne Vandoolaeghe","7","SK Nieuwkerke",false,false,false,"Win",false,true,58,false,,32,0,0,0,0,0,0,,0.5,0,1,1,1,1,2,1
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Siebert De Smet","2","K.S.V. Pittem",false,false,false,"Loss",false,true,88,false,,2,0,0,0,0,0,0,,0.5,0,0,0,0,-1,2,3
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Jess Malfait","8","SK Nieuwkerke",false,false,false,"Win",false,true,70,false,,20,0,0,0,0,0,0,,0.5,0,1,1,1,1,2,1
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Milan Ruysschaert","4","K.S.V. Pittem",false,false,false,"Loss",false,true,88,false,,2,0,0,0,0,0,0,,0.5,0,0,0,0,-1,2,3
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Hugo Hollebecq","10","SK Nieuwkerke",false,false,false,"Win",false,true,82,false,,8,0,0,0,0,0,0,,1,1,1,0,0.5,0,2,2
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Matice Van Bruwaene","9","K.S.V. Pittem",false,false,false,"Loss",false,true,55,false,,35,1,0,0,0,0,0,,0.5,0,1,1,0,-1,1,2
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Kevin Rudy Sarrazyn","15","SK Nieuwkerke",false,false,false,"Win",false,true,70,false,,20,0,0,0,0,0,0,,0.5,0,1,1,1,1,2,1
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Louis Callens","11","K.S.V. Pittem",false,false,false,"Loss",false,true,55,false,,35,0,0,0,0,0,0,,0.5,0,1,1,0,-1,1,2
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Jarno Cottreel","17","SK Nieuwkerke",false,false,false,"Win",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510295","SK Nieuwkerke","K.S.V. Pittem","Maxim Damman","18","K.S.V. Pittem",false,false,false,"Loss",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Siebe Derycke","1","K.R.C. Waregem B",true,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Olivier Djerdi","1","K. FC. Meulebeke",true,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Frito Naeyaert","3","K.R.C. Waregem B",false,false,false,"Draw",true,false,,true,59,59,0,0,0,0,0,0,,0,-1,1,2,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Simon Taillieu","2","K. FC. Meulebeke",false,false,false,"Draw",true,false,,true,64,64,0,0,0,0,0,0,,1,1,2,1,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Thibeau Waeye","4","K.R.C. Waregem B",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Emiel Callens","3","K. FC. Meulebeke",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Denis Elshani","5","K.R.C. Waregem B",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Matthias Blomme","7","K. FC. Meulebeke",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Mauro D'Huyvetter","6","K.R.C. Waregem B",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Milan Vandommele","8","K. FC. Meulebeke",false,false,false,"Draw",true,false,,false,,90,0,1,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Mathis Vandorpe","7","K.R.C. Waregem B",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Lander Feys","9","K. FC. Meulebeke",false,false,false,"Draw",true,false,,true,70,70,1,0,0,0,0,0,,1,1,2,1,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Gentian Elshani","8","K.R.C. Waregem B",false,true,false,"Draw",true,false,,true,45,45,0,0,0,0,0,0,,0,-2,0,2,1,2,2,0
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Baptiste Labeeuw","10","K. FC. Meulebeke",false,false,false,"Draw",true,false,,false,,90,0,0,0,1,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Obi Lein","9","K.R.C. Waregem B",false,false,false,"Draw",true,false,,true,86,86,1,0,0,0,0,0,,0,-1,1,2,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Julot Paermentier","11","K. FC. Meulebeke",false,false,false,"Draw",true,false,,true,80,80,0,0,0,0,0,0,,1,1,2,1,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Timo Blauwblomme","10","K.R.C. Waregem B",false,false,false,"Draw",true,false,,true,70,70,0,0,0,0,0,0,,0,-1,1,2,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Thibaut Verbrugghe","14","K. FC. Meulebeke",false,false,false,"Draw",true,false,,false,,90,0,0,0,1,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Bjarne D'Huyvetter","11","K.R.C. Waregem B",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Michiel Vandromme","16","K. FC. Meulebeke",false,true,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Benjamin Grabic","13","K.R.C. Waregem B",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Jelle De Bruyne","23","K. FC. Meulebeke",false,false,false,"Draw",true,false,,true,64,64,0,0,0,0,0,0,,1,1,2,1,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Tibe Vandesompele","22","K.R.C. Waregem B",true,false,false,"Draw",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Ricardo Perneel","4","K. FC. Meulebeke",false,false,false,"Draw",false,true,64,false,,26,0,0,0,0,0,0,,0,-1,0,1,1,1,2,1
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Briek Artoos","2","K.R.C. Waregem B",false,false,false,"Draw",false,true,86,false,,4,0,0,0,0,0,0,,1,1,1,0,0,-1,1,2
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Matthias Cottenier","5","K. FC. Meulebeke",false,false,false,"Draw",false,true,64,false,,26,0,0,0,0,0,0,,0,-1,0,1,1,1,2,1
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Jules Vande Walle","14","K.R.C. Waregem B",false,false,false,"Draw",false,true,59,false,,31,0,0,0,0,0,0,,1,1,1,0,0,-1,1,2
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Dion Despriet","12","K. FC. Meulebeke",false,false,false,"Draw",false,true,80,false,,10,0,0,0,0,0,0,,0,-1,0,1,1,1,2,1
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Jelle Verspeelt","15","K.R.C. Waregem B",false,false,false,"Draw",false,true,70,false,,20,0,0,0,0,0,0,,1,1,1,0,0,-1,1,2
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Eduard Baekelandt","15","K. FC. Meulebeke",false,false,false,"Draw",false,true,70,false,,20,0,0,0,0,0,0,,0,-1,0,1,1,1,2,1
+"https://www.rbfa.be/nl/wedstrijd/7510294","K.R.C. Waregem B","K. FC. Meulebeke","Gilles Van Keirsbulck","16","K.R.C. Waregem B",false,false,false,"Draw",false,true,45,false,,45,1,0,0,0,0,0,,1,2,2,0,0,-2,0,2
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","David-Moïse Matthieu Dos Santos Nascimento","1","K. VK Avelgem A",true,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,1,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Alexandre Julien Charlet","30","R.J.H. Comines A",true,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,1,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Benjamin Opoku","3","K. VK Avelgem A",false,false,false,"Draw",true,false,,true,80,80,1,0,0,0,0,0,,0.5,0,1,1,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Ishimwe Beni Azabe","2","R.J.H. Comines A",false,false,false,"Draw",true,false,,false,,90,0,0,0,1,0,0,,0.5,0,1,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Ilyes Sliti","7","K. VK Avelgem A",false,false,false,"Draw",true,false,,true,80,80,0,0,0,0,0,0,,0.5,0,1,1,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Loic Pierre Desmet","5","R.J.H. Comines A",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,1,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Ossama Msili","9","K. VK Avelgem A",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,1,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Bilel Bouchmella","6","R.J.H. Comines A",false,false,false,"Draw",true,false,,true,80,80,0,0,0,0,0,0,,0.5,0,1,1,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Bram Naert","11","K. VK Avelgem A",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,1,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Emilio Coudron","7","R.J.H. Comines A",false,false,false,"Draw",true,false,,true,70,70,0,0,0,0,0,0,,0.5,0,1,1,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Gerben Neirijnck","12","K. VK Avelgem A",false,false,false,"Draw",true,false,,false,,90,0,0,0,1,0,0,,0.5,0,1,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Jason Robaeys","10","R.J.H. Comines A",false,false,false,"Draw",true,false,,true,60,60,0,0,0,0,0,0,,0.5,0,1,1,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Mathias Callens","16","K. VK Avelgem A",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,1,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Mitch Voet","13","R.J.H. Comines A",false,true,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,1,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Logan Batteur","17","K. VK Avelgem A",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,1,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Enzo Jean-Claude Vandenberghe","14","R.J.H. Comines A",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,1,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Rune Ameye","20","K. VK Avelgem A",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,1,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Théotim Timothy Maes Leroy","16","R.J.H. Comines A",false,false,false,"Draw",true,false,,false,,90,1,0,0,0,0,0,,0.5,0,1,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Hamza Msili","22","K. VK Avelgem A",false,false,false,"Draw",true,false,,true,57,57,0,0,0,0,0,0,,0.5,0,1,1,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Corentyn Duviler","21","R.J.H. Comines A",false,false,false,"Draw",true,false,,true,70,70,0,0,0,0,0,0,,0.5,0,1,1,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Brecht Van Cauwenberge","27","K. VK Avelgem A",false,true,false,"Draw",true,false,,true,20,20,0,0,0,0,0,0,,0,-1,0,1,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Issam Boudersa","23","R.J.H. Comines A",false,false,false,"Draw",true,false,,false,,90,0,0,0,1,0,0,,0.5,0,1,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Tim Heugens","21","K. VK Avelgem A",true,false,false,"Draw",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Kilian Van Zeveren","8","R.J.H. Comines A",false,false,false,"Draw",false,true,70,false,,20,0,0,0,0,0,0,,0.5,0,0,0,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Arend Callewaert","2","K. VK Avelgem A",false,false,false,"Draw",false,true,20,false,,70,0,0,0,0,0,0,,1,1,1,0,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Simon Leroy","11","R.J.H. Comines A",false,false,false,"Draw",false,true,70,false,,20,0,0,0,0,0,0,,0.5,0,0,0,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Benno Wittouck","8","K. VK Avelgem A",false,false,false,"Draw",false,true,57,false,,33,0,0,0,1,0,0,,0.5,0,0,0,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Naom Debacker","12","R.J.H. Comines A",false,false,false,"Draw",false,true,60,false,,30,0,0,0,0,0,0,,0.5,0,0,0,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Tristan Saelens","13","K. VK Avelgem A",false,false,false,"Draw",false,true,80,false,,10,0,0,0,0,0,0,,0.5,0,0,0,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Rudy Saigot","17","R.J.H. Comines A",false,false,false,"Draw",false,true,80,false,,10,0,0,0,0,0,0,,0.5,0,0,0,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510321","K. VK Avelgem A","R.J.H. Comines A","Djoudi Patrick Hadi","15","K. VK Avelgem A",false,false,false,"Draw",false,true,80,false,,10,0,0,0,0,0,0,,0.5,0,0,0,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Juan Heugebaert","1","K. SK Geluwe",true,false,false,"Win",true,false,,false,,90,0,0,0,1,0,0,,1,2,3,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Faozâme Touré Ouro Nile","24","SK Nieuwkerke",true,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-2,1,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Kenneth Garreyn","2","K. SK Geluwe",false,true,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,2,3,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Idris Zmimer","2","SK Nieuwkerke",false,false,false,"Loss",true,false,,true,85,85,0,0,0,1,0,0,,0,-2,1,3,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Baptiste Gruson","4","K. SK Geluwe",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,2,3,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Jonathan Godswill","3","SK Nieuwkerke",false,false,false,"Loss",true,false,,false,,60,0,0,0,0,1,0,60,0.5,0,1,1,0,-2,0,2
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Florian Heyte","5","K. SK Geluwe",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,2,3,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Zakaria Ahmed Messaoud","4","SK Nieuwkerke",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-2,1,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Cédric Parmentier","7","K. SK Geluwe",false,false,false,"Win",true,false,,true,87,87,1,0,0,0,0,0,,1,2,3,1,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Andries Maerten","5","SK Nieuwkerke",false,false,false,"Loss",true,false,,true,57,57,0,0,0,0,0,0,,0.5,0,1,1,0,-2,0,2
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Iyas Rawash","8","K. SK Geluwe",false,false,false,"Win",true,false,,true,73,73,0,0,0,1,0,0,,0.5,0,1,1,1,2,2,0
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Arne Vandoolaeghe","7","SK Nieuwkerke",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-2,1,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Tuur Bulckaen","9","K. SK Geluwe",false,false,false,"Win",true,false,,true,73,73,0,0,0,0,0,0,,0.5,0,1,1,1,2,2,0
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Jess Malfait","8","SK Nieuwkerke",false,true,false,"Loss",true,false,,true,57,57,0,0,0,1,0,0,,0.5,0,1,1,0,-2,0,2
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Keano Tollenaere","11","K. SK Geluwe",false,false,false,"Win",true,false,,false,,90,1,0,0,0,0,0,,1,2,3,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Bryan Verhaeghe","9","SK Nieuwkerke",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-2,1,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Morgan Amerkan","12","K. SK Geluwe",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,2,3,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Damiano Vervaeke","11","SK Nieuwkerke",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-2,1,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Florian Dezitter","20","K. SK Geluwe",false,false,false,"Win",true,false,,true,87,87,1,0,0,0,0,0,,1,2,3,1,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Kevin Rudy Sarrazyn","15","SK Nieuwkerke",false,false,false,"Loss",true,false,,true,57,57,0,0,0,1,0,0,,0.5,0,1,1,0,-2,0,2
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Mathias Brutsaert","21","K. SK Geluwe",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,2,3,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Lukas Emmerick Zagula","16","SK Nieuwkerke",false,false,false,"Loss",true,false,,true,70,70,0,1,0,0,0,0,,0.5,0,1,1,0,-2,0,2
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Valentin Bonini","6","K. SK Geluwe",false,false,false,"Win",false,true,73,false,,17,0,0,0,0,0,0,,1,2,2,0,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Gwenn Malfait","10","SK Nieuwkerke",false,false,false,"Loss",false,true,57,false,,33,0,0,0,0,0,0,,0,-1,1,2,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Otto Deronne","10","K. SK Geluwe",false,false,false,"Win",false,true,87,false,,3,0,0,0,0,0,0,,0.5,0,0,0,1,2,3,1
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Jarno Cottreel","12","SK Nieuwkerke",false,false,false,"Loss",false,true,57,false,,33,0,0,0,0,0,0,,0,-1,1,2,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Ilias Verhaeghe","14","K. SK Geluwe",false,false,false,"Win",false,true,73,false,,17,0,0,0,0,0,0,,1,2,2,0,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Salvatore Correia","14","SK Nieuwkerke",false,false,false,"Loss",false,true,70,false,,20,0,0,0,0,0,0,,0,-2,0,2,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Senne Demedts","15","K. SK Geluwe",false,false,false,"Win",false,true,87,false,,3,0,0,0,0,0,0,,0.5,0,0,0,1,2,3,1
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Hugo Hollebecq","17","SK Nieuwkerke",false,false,false,"Loss",false,true,57,false,,33,0,0,0,0,0,0,,0,-1,1,2,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510322","K. SK Geluwe","SK Nieuwkerke","Toure Ouro Nile","18","SK Nieuwkerke",false,false,false,"Loss",false,true,85,false,,5,0,0,0,0,0,0,,0.5,0,0,0,0,-2,1,3
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","Olivier Djerdi","1","K. FC. Meulebeke",true,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","David-Moïse Matthieu Dos Santos Nascimento","1","K. VK Avelgem A",true,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","Simon Taillieu","2","K. FC. Meulebeke",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","Benjamin Opoku","3","K. VK Avelgem A",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","Emiel Callens","3","K. FC. Meulebeke",false,false,false,"Draw",true,false,,false,,90,1,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","Ilyes Sliti","7","K. VK Avelgem A",false,false,false,"Draw",true,false,,false,,90,1,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","Ricardo Perneel","4","K. FC. Meulebeke",false,false,false,"Draw",true,false,,true,82,82,0,0,0,0,0,0,,0.5,0,2,2,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","Ossama Msili","9","K. VK Avelgem A",false,false,false,"Draw",true,false,,true,89,89,1,0,0,0,0,0,,0.5,0,2,2,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","Matthias Cottenier","5","K. FC. Meulebeke",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","Bram Naert","11","K. VK Avelgem A",false,true,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","Matthias Blomme","7","K. FC. Meulebeke",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","Gerben Neirijnck","12","K. VK Avelgem A",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","Lander Feys","9","K. FC. Meulebeke",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","Tristan Saelens","13","K. VK Avelgem A",false,false,false,"Draw",true,false,,true,68,68,0,0,0,0,0,0,,1,1,2,1,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","Baptiste Labeeuw","10","K. FC. Meulebeke",false,false,false,"Draw",true,false,,true,12,12,0,0,0,0,0,0,,0.5,0,0,0,0.5,0,2,2
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","Mathias Callens","16","K. VK Avelgem A",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","Julot Paermentier","11","K. FC. Meulebeke",false,false,false,"Draw",true,false,,false,,90,1,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","Logan Batteur","17","K. VK Avelgem A",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","Thibaut Verbrugghe","14","K. FC. Meulebeke",false,true,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","Rune Ameye","20","K. VK Avelgem A",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","Dries Bouchaert","17","K. FC. Meulebeke",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","Hamza Msili","22","K. VK Avelgem A",false,false,false,"Draw",true,false,,true,28,28,0,0,0,0,0,0,,0.5,0,0,0,0.5,0,2,2
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","Dion Despriet","12","K. FC. Meulebeke",false,false,false,"Draw",false,true,12,false,,78,0,0,0,1,0,0,,0.5,0,2,2,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","Tim Heugens","21","K. VK Avelgem A",true,false,false,"Draw",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","Tristan Verheecke","19","K. FC. Meulebeke",false,false,false,"Draw",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","Jordy Wandels","4","K. VK Avelgem A",false,false,false,"Draw",false,true,28,false,,62,0,0,0,0,0,0,,0.5,0,2,2,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","Rune Blanquart","20","K. FC. Meulebeke",false,false,false,"Draw",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","Djoudi Patrick Hadi","15","K. VK Avelgem A",false,false,false,"Draw",false,true,68,false,,22,0,0,0,0,0,0,,0,-1,0,1,1,1,2,1
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","Bjarne Janssens","21","K. FC. Meulebeke",false,false,false,"Draw",false,true,82,false,,8,0,0,0,0,0,0,,0.5,0,0,0,0.5,0,2,2
+"https://www.rbfa.be/nl/wedstrijd/7510335","K. FC. Meulebeke","K. VK Avelgem A","Henri Van Goubergen","19","K. VK Avelgem A",false,false,false,"Draw",false,true,89,false,,1,0,0,0,0,0,0,,0.5,0,0,0,0.5,0,2,2
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Leonard Holvoet","1","V.V. Emelgem-Kachtem",true,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-2,1,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Daniel Gorin","77","SV Moorslede",true,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,2,3,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Kenneth Vanhove","3","V.V. Emelgem-Kachtem",false,false,false,"Loss",true,false,,true,60,60,0,0,0,0,0,0,,0,-3,0,3,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Aaron Verschaete","3","SV Moorslede",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,2,3,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Jan-Thomas Kerkhof","4","V.V. Emelgem-Kachtem",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-2,1,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Quinten Bogaert","4","SV Moorslede",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,2,3,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Axel Delecluyse","10","V.V. Emelgem-Kachtem",false,false,false,"Loss",true,false,,true,66,66,0,0,0,0,0,0,,0,-3,0,3,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Tibe Foulon","5","SV Moorslede",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,2,3,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Jarne Delombaerde","11","V.V. Emelgem-Kachtem",false,false,false,"Loss",true,false,,true,76,76,0,0,0,0,0,0,,0,-2,1,3,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Emile Degruyter","7","SV Moorslede",false,false,false,"Win",true,false,,true,63,63,3,0,0,0,0,0,,1,3,3,0,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Frederik De Smet","12","V.V. Emelgem-Kachtem",false,false,false,"Loss",true,false,,true,76,76,0,0,0,0,0,0,,0,-2,1,3,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Andreas Hemelaere","8","SV Moorslede",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,2,3,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Aaron De Veirman","13","V.V. Emelgem-Kachtem",false,false,false,"Loss",true,false,,false,,90,0,0,0,1,0,0,,0,-2,1,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Casey Devolder","9","SV Moorslede",false,false,false,"Win",true,false,,true,72,72,0,0,0,0,0,0,,1,2,3,1,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Maxim Van De Velde","14","V.V. Emelgem-Kachtem",false,true,false,"Loss",true,false,,false,,90,1,0,0,0,0,0,,0,-2,1,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Ismaila Samba","10","SV Moorslede",false,false,false,"Win",true,false,,true,90,90,0,0,0,0,0,0,,1,2,3,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Gianluigi Plyson","15","V.V. Emelgem-Kachtem",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-2,1,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Carl Terryn","14","SV Moorslede",false,true,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,2,3,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Jente Dekimpe","16","V.V. Emelgem-Kachtem",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-2,1,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Michiel Vandromme","15","SV Moorslede",false,false,false,"Win",true,false,,false,,90,0,0,0,1,0,0,,1,2,3,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Luca Seys","18","V.V. Emelgem-Kachtem",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-2,1,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Sorin Vandemoortele","17","SV Moorslede",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,2,3,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Girbaud Destoop","22","V.V. Emelgem-Kachtem",true,false,false,"Loss",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Drago Tetaert","20","SV Moorslede",true,false,false,"Win",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Leon Bruyneel","6","V.V. Emelgem-Kachtem",false,false,false,"Loss",false,true,76,false,,14,0,0,0,0,0,0,,0.5,0,0,0,0,-2,1,3
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Lenn Degryse","6","SV Moorslede",false,false,false,"Win",false,true,90,false,,0,0,0,0,0,0,0,,,,,,1,2,3,1
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Filmon Desmet","8","V.V. Emelgem-Kachtem",false,false,false,"Loss",false,true,66,false,,24,0,0,0,0,0,0,,1,1,1,0,0,-3,0,3
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Milan Degrande","11","SV Moorslede",false,false,false,"Win",false,true,63,false,,27,0,0,0,0,0,0,,0,-1,0,1,1,3,3,0
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Hierro Verbeke","20","V.V. Emelgem-Kachtem",false,false,false,"Loss",false,true,76,false,,14,0,0,0,0,0,0,,0.5,0,0,0,0,-2,1,3
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Matisse Claes","12","SV Moorslede",false,false,false,"Win",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Mauro Perneel","21","V.V. Emelgem-Kachtem",false,false,false,"Loss",false,true,60,false,,30,0,0,0,0,0,0,,1,1,1,0,0,-3,0,3
+"https://www.rbfa.be/nl/wedstrijd/7510334","V.V. Emelgem-Kachtem","SV Moorslede","Maxime Vanhaecke","13","SV Moorslede",false,false,false,"Win",false,true,72,false,,18,0,0,0,0,0,0,,0.5,0,0,0,1,2,3,1
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Robbe Santens","1","GD Ingooigem",true,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-2,1,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Jelle Houwen","1","KFC Poperinge",true,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,2,3,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Emiel Verhulst","2","GD Ingooigem",false,false,false,"Loss",true,false,,true,58,58,0,0,0,0,0,0,,0.5,0,1,1,0,-2,0,2
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Tristan Deconinck","3","KFC Poperinge",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,2,3,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Michael Furniere","4","GD Ingooigem",false,false,false,"Loss",true,false,,false,,77,0,0,0,0,1,0,77,0,-1,1,2,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Joren Baes","6","KFC Poperinge",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,2,3,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Rhune Derycke","6","GD Ingooigem",false,false,false,"Loss",true,false,,true,76,76,0,0,0,1,0,0,,0,-1,1,2,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Corneel Ballyn","7","KFC Poperinge",false,false,false,"Win",true,false,,true,76,76,0,0,0,0,0,0,,1,1,2,1,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Aaron Nuytten","8","GD Ingooigem",false,true,false,"Loss",true,false,,false,,90,0,0,0,1,0,0,,0,-2,1,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Jasper Maerten","10","KFC Poperinge",false,true,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,2,3,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Lennert Deschrijver","9","GD Ingooigem",false,false,false,"Loss",true,false,,true,87,87,0,0,0,0,0,0,,0,-2,1,3,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Joren Colpaert","12","KFC Poperinge",false,false,false,"Win",true,false,,true,63,63,1,0,0,1,0,0,,1,1,2,1,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Bryan Deloof","10","GD Ingooigem",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-2,1,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Gabriel Gaillez","13","KFC Poperinge",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,2,3,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Jordy Vanhoucke","11","GD Ingooigem",false,false,false,"Loss",true,false,,false,,90,1,0,0,0,0,0,,0,-2,1,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Mathis Danneel","16","KFC Poperinge",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,2,3,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Mauro Coreelman","12","GD Ingooigem",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-2,1,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Kabir Cherif","17","KFC Poperinge",false,false,false,"Win",true,false,,true,83,83,0,0,0,1,0,0,,1,2,3,1,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Mathieu Decommer","16","GD Ingooigem",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-2,1,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Michaël Vandemaele","20","KFC Poperinge",false,false,false,"Win",true,false,,false,,90,1,1,0,1,0,0,,1,2,3,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Ruben Verhaeghe","19","GD Ingooigem",false,false,false,"Loss",true,false,,false,,90,0,0,0,1,0,0,,0,-2,1,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Sven Cornette","55","KFC Poperinge",false,false,false,"Win",true,false,,false,,90,0,0,0,1,0,0,,1,2,3,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Maxime Deketele","13","GD Ingooigem",false,false,false,"Loss",false,true,87,false,,3,0,0,0,0,0,0,,0.5,0,0,0,0,-2,1,3
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Lucas Thoor","4","KFC Poperinge",false,false,false,"Win",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Thibaud Windels","14","GD Ingooigem",false,false,false,"Loss",false,true,58,false,,32,0,0,0,1,0,0,,0,-2,0,2,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Hannes Moyaert","5","KFC Poperinge",false,false,false,"Win",false,true,83,false,,7,0,0,0,0,0,0,,1,1,1,0,1,1,2,1
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Thibaut Maes","15","GD Ingooigem",false,false,false,"Loss",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Bastien Rawart","8","KFC Poperinge",false,false,false,"Win",false,true,63,false,,27,0,0,0,0,0,0,,1,2,2,0,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Warre Vercaemer","17","GD Ingooigem",false,false,false,"Loss",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Yorrit Sioen","11","KFC Poperinge",false,false,false,"Win",false,true,76,false,,14,0,0,0,0,0,0,,1,1,1,0,1,1,2,1
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Maxim Dewaele","18","GD Ingooigem",false,false,false,"Loss",false,true,76,false,,14,0,0,0,0,0,0,,0,-1,0,1,0,-1,1,2
+"https://www.rbfa.be/nl/wedstrijd/7510336","GD Ingooigem","KFC Poperinge","Mathis Jaeckens","14","KFC Poperinge",false,false,false,"Win",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Rune Bertrem","77","K. Dosko Beveren",true,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-3,2,5,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Faozâme Touré Ouro Nile","21","SK Nieuwkerke",true,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,3,5,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Thomas Goddeeris","2","K. Dosko Beveren",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-3,2,5,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Idris Zmimer","2","SK Nieuwkerke",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,3,5,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Seppe Declerck","3","K. Dosko Beveren",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-3,2,5,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Salvatore Correia","3","SK Nieuwkerke",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,3,5,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Lowie Raveschot","6","K. Dosko Beveren",false,false,false,"Loss",true,false,,false,,90,0,0,0,1,0,0,,0,-3,2,5,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Arne Vandoolaeghe","7","SK Nieuwkerke",false,false,false,"Win",true,false,,false,,90,1,0,0,0,0,0,,1,3,5,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Sven Lugghe","9","K. Dosko Beveren",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-3,2,5,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Bryan Verhaeghe","9","SK Nieuwkerke",false,false,false,"Win",true,false,,false,,90,2,0,0,0,0,0,,1,3,5,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Ferre Wylin","10","K. Dosko Beveren",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-3,2,5,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Damiano Vervaeke","11","SK Nieuwkerke",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,3,5,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Tiebe Lammertyn","16","K. Dosko Beveren",false,false,false,"Loss",true,false,,true,77,77,0,0,0,0,0,0,,0,-2,2,4,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Hyllan Bruno El Bouhmidi","12","SK Nieuwkerke",false,false,false,"Win",true,false,,false,,90,1,0,0,0,0,0,,1,3,5,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Jasper Goos","18","K. Dosko Beveren",false,false,false,"Loss",true,false,,true,46,46,0,0,0,0,0,0,,0,-2,0,2,0,-1,2,3
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Benjamin Lutun","14","SK Nieuwkerke",false,true,false,"Win",true,false,,false,,90,0,0,0,1,0,0,,1,3,5,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Tjardo Techel","19","K. Dosko Beveren",false,true,false,"Loss",true,false,,false,,90,2,0,0,0,0,0,,0,-3,2,5,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Kevin Rudy Sarrazyn","15","SK Nieuwkerke",false,false,false,"Win",true,false,,true,77,77,1,0,0,0,0,0,,1,2,4,2,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Antoine Temmerman","21","K. Dosko Beveren",false,false,false,"Loss",true,false,,true,46,46,0,0,0,0,0,0,,0,-2,0,2,0,-1,2,3
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Lukas Emmerick Zagula","16","SK Nieuwkerke",false,false,false,"Win",true,false,,true,77,77,0,0,0,0,0,0,,1,2,4,2,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Thibault Vandenbussche","22","K. Dosko Beveren",false,false,false,"Loss",true,false,,true,77,77,0,0,0,1,0,0,,0,-2,2,4,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Toure Ouro Nile","18","SK Nieuwkerke",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,3,5,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Arne Devos","1","K. Dosko Beveren",true,false,false,"Loss",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Zakaria Ahmed Messaoud","4","SK Nieuwkerke",false,false,false,"Win",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Briek Haelemeersch","7","K. Dosko Beveren",false,false,false,"Loss",false,true,77,false,,13,0,0,0,0,0,0,,0.5,0,1,1,0,-3,1,4
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Hugo Hollebecq","5","SK Nieuwkerke",false,false,false,"Win",false,true,77,false,,13,0,0,0,0,0,0,,0.5,0,1,1,1,3,4,1
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Inaki Tieghem","8","K. Dosko Beveren",false,false,false,"Loss",false,true,46,false,,44,0,0,0,1,0,0,,0,-1,2,3,0,-2,0,2
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Jarno Cottreel","8","SK Nieuwkerke",false,false,false,"Win",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Guanitto Werbrouck","11","K. Dosko Beveren",false,false,false,"Loss",false,true,46,false,,44,0,0,0,0,0,0,,0,-1,2,3,0,-2,0,2
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Gwenn Malfait","10","SK Nieuwkerke",false,false,false,"Win",false,true,77,false,,13,0,0,0,0,0,0,,0.5,0,1,1,1,3,4,1
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Fré Lesage","23","K. Dosko Beveren",false,false,false,"Loss",false,true,77,false,,13,0,0,0,0,0,0,,0.5,0,1,1,0,-3,1,4
+"https://www.rbfa.be/nl/wedstrijd/7510333","K. Dosko Beveren","SK Nieuwkerke","Warre Houwen","17","SK Nieuwkerke",false,false,false,"Win",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Siebe Derycke","22","K.R.C. Waregem B",true,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,2,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Nicolas Semet","1","SC Zonnebeke A",true,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-1,1,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Briek Artoos","2","K.R.C. Waregem B",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,2,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Jarne Muylle","2","SC Zonnebeke A",false,false,false,"Loss",true,false,,true,78,78,0,0,0,0,0,0,,0,-1,1,2,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Andreas Decaluwe","4","K.R.C. Waregem B",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,2,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Timon Baes","5","SC Zonnebeke A",false,true,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-1,1,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Denis Elshani","5","K.R.C. Waregem B",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,2,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Nicolas David Gamarra Gamarra","7","SC Zonnebeke A",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-1,1,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Mauro D'Huyvetter","6","K.R.C. Waregem B",false,false,false,"Win",true,false,,true,69,69,0,0,0,0,0,0,,1,1,2,1,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Sietse Jacob","8","SC Zonnebeke A",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-1,1,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Mathis Vandorpe","7","K.R.C. Waregem B",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,2,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Maxim De Meulenaere","10","SC Zonnebeke A",false,false,false,"Loss",true,false,,false,,92,0,0,0,1,0,1,92,0,-1,1,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Gentian Elshani","8","K.R.C. Waregem B",false,true,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,2,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Imar Goossens","12","SC Zonnebeke A",false,false,false,"Loss",true,false,,false,,90,0,0,0,1,0,0,,0,-1,1,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Timo Blauwblomme","10","K.R.C. Waregem B",false,false,false,"Win",true,false,,true,69,69,0,0,0,0,0,0,,1,1,2,1,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Jelle Gantois","15","SC Zonnebeke A",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-1,1,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Emiel Delmulle","11","K.R.C. Waregem B",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,1,2,1,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Gaspard Delanoy","17","SC Zonnebeke A",false,false,false,"Loss",true,false,,true,69,69,0,0,0,0,0,0,,0,-1,1,2,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Jules Vande Walle","14","K.R.C. Waregem B",false,false,false,"Win",true,false,,true,78,78,2,0,0,0,0,0,,1,1,2,1,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Alister Bafcop","19","SC Zonnebeke A",false,false,false,"Loss",true,false,,false,,90,1,0,0,0,0,0,,0,-1,1,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Obi Lein","19","K.R.C. Waregem B",false,false,false,"Win",true,false,,true,69,69,0,0,0,0,0,0,,1,1,2,1,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Kamal Ouarane","20","SC Zonnebeke A",false,false,false,"Loss",true,false,,false,,90,0,0,0,1,0,0,,0,-1,1,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Méraud Meirhaeghe","9","K.R.C. Waregem B",false,false,false,"Win",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Warre Verstraete","26","SC Zonnebeke A",true,false,false,"Loss",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Nicolas Koudijzer","13","K.R.C. Waregem B",false,false,false,"Win",false,true,78,false,,12,0,0,0,0,0,0,,0.5,0,0,0,1,1,2,1
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Milan Vandenabeele","3","SC Zonnebeke A",false,false,false,"Loss",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Jelle Verspeelt","15","K.R.C. Waregem B",false,false,false,"Win",false,true,69,false,,21,0,0,0,0,0,0,,0.5,0,0,0,1,1,2,1
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Wouter Vervaeke","11","SC Zonnebeke A",false,false,false,"Loss",false,true,69,false,,21,0,0,0,0,0,0,,0.5,0,0,0,0,-1,1,2
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Caelest Gheeraert","16","K.R.C. Waregem B",false,false,false,"Win",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Sian Oosterlinck","16","SC Zonnebeke A",false,false,false,"Loss",false,true,78,false,,12,0,0,0,0,0,0,,0.5,0,0,0,0,-1,1,2
+"https://www.rbfa.be/nl/wedstrijd/7510337","K.R.C. Waregem B","SC Zonnebeke A","Sam Legein","17","K.R.C. Waregem B",false,false,false,"Win",false,true,69,false,,21,0,0,0,0,0,0,,0.5,0,0,0,1,1,2,1
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Juan Heugebaert","1","K. SK Geluwe",true,false,true,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,3,3,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Gauthier De Smet","1","K. FC Lendelede Sport",true,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-3,0,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Kenneth Garreyn","2","K. SK Geluwe",false,true,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,3,3,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Kobe Lambrecht","2","K. FC Lendelede Sport",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-3,0,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Baptiste Gruson","4","K. SK Geluwe",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,3,3,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Emile Dutry","3","K. FC Lendelede Sport",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-3,0,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Florian Heyte","5","K. SK Geluwe",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,3,3,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Simon Mostaert","4","K. FC Lendelede Sport",false,true,false,"Loss",true,false,,true,32,32,0,0,0,0,0,0,,0.5,0,0,0,0,-3,0,3
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Cédric Parmentier","7","K. SK Geluwe",false,false,false,"Win",true,false,,false,,90,1,0,0,1,0,0,,1,3,3,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Pieter Hugelier","7","K. FC Lendelede Sport",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-3,0,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Iyas Rawash","8","K. SK Geluwe",false,false,false,"Win",true,false,,true,76,76,1,0,0,0,0,0,,1,2,2,0,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Sélim Sahnoune","8","K. FC Lendelede Sport",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-3,0,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Tuur Bulckaen","9","K. SK Geluwe",false,false,false,"Win",true,false,,true,60,60,0,0,0,0,0,0,,1,2,2,0,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Michiel Meerschaert","10","K. FC Lendelede Sport",false,false,false,"Loss",true,false,,true,71,71,0,0,0,0,0,0,,0,-2,0,2,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Keano Tollenaere","11","K. SK Geluwe",false,false,false,"Win",true,false,,true,76,76,0,0,0,0,0,0,,1,2,2,0,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Dylan Vens","13","K. FC Lendelede Sport",false,false,false,"Loss",true,false,,true,84,84,0,0,0,0,0,0,,0,-3,0,3,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Morgan Amerkan","12","K. SK Geluwe",false,false,false,"Win",true,false,,false,,90,0,0,0,1,0,0,,1,3,3,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Hicham Khaouiry","15","K. FC Lendelede Sport",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-3,0,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Florian Dezitter","20","K. SK Geluwe",false,false,false,"Win",true,false,,false,,90,1,0,0,0,0,0,,1,3,3,0,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Marek Verledens","16","K. FC Lendelede Sport",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-3,0,3,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Mathias Brutsaert","21","K. SK Geluwe",false,false,false,"Win",true,false,,true,44,44,0,0,0,0,0,0,,1,2,2,0,1,1,1,0
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Niels Van Coillie","19","K. FC Lendelede Sport",false,false,false,"Loss",true,false,,true,71,71,0,0,0,0,0,0,,0,-2,0,2,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Valentin Bonini","6","K. SK Geluwe",false,false,false,"Win",false,true,76,false,,14,0,0,0,0,0,0,,1,1,1,0,1,2,2,0
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Jorre Laverge","20","K. FC Lendelede Sport",true,false,false,"Loss",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Thibaut Vanhoutte","10","K. SK Geluwe",false,false,false,"Win",false,true,60,false,,30,0,0,0,0,0,0,,1,1,1,0,1,2,2,0
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Rémi Lefevere","5","K. FC Lendelede Sport",false,false,false,"Loss",false,true,84,false,,6,0,0,0,0,0,0,,0.5,0,0,0,0,-3,0,3
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Vic Declerck","14","K. SK Geluwe",false,false,false,"Win",false,true,76,false,,14,0,0,0,1,0,0,,1,1,1,0,1,2,2,0
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Michael Haffner","6","K. FC Lendelede Sport",false,false,false,"Loss",false,true,32,false,,58,0,0,0,0,0,0,,0,-3,0,3,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Senne Demedts","15","K. SK Geluwe",false,false,false,"Win",false,true,44,false,,46,0,0,0,1,0,0,,1,1,1,0,1,2,2,0
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Antonio Fanara","12","K. FC Lendelede Sport",false,false,false,"Loss",false,true,71,false,,19,0,0,0,0,0,0,,0,-1,0,1,0,-2,0,2
+"https://www.rbfa.be/nl/wedstrijd/7510338","K. SK Geluwe","K. FC Lendelede Sport","Cederic Deprez","17","K. FC Lendelede Sport",false,false,false,"Loss",false,true,71,false,,19,0,0,0,0,0,0,,0,-1,0,1,0,-2,0,2
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Tibe Vercruysse","1","K. SV Moorsele A",true,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-3,2,5,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Jari Carré","22","K.S.V. Pittem",true,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,3,5,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Edouard Lootens","2","K. SV Moorsele A",false,false,false,"Loss",true,false,,false,,90,0,0,0,1,0,0,,0,-3,2,5,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Siebert De Smet","2","K.S.V. Pittem",false,false,false,"Win",true,false,,true,19,19,1,0,0,0,0,0,,1,1,1,0,1,2,4,2
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Hannes Feys","4","K. SV Moorsele A",false,false,false,"Loss",true,false,,true,73,73,0,0,0,0,0,0,,0,-3,1,4,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Kiano Vandenbulcke","3","K.S.V. Pittem",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,3,5,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Dieter Meulenyzer","7","K. SV Moorsele A",false,true,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-3,2,5,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Milan Ruysschaert","4","K.S.V. Pittem",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,3,5,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Niel Neyrinck","8","K. SV Moorsele A",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-3,2,5,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Mathieu Verstaen","7","K.S.V. Pittem",false,false,false,"Win",true,false,,false,,90,1,1,0,0,0,0,,1,3,5,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Jonas Hanson","9","K. SV Moorsele A",false,false,false,"Loss",true,false,,false,,90,1,0,0,0,0,0,,0,-3,2,5,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Gauthier Maes","8","K.S.V. Pittem",false,true,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,3,5,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Lander Vandenberghe","13","K. SV Moorsele A",false,false,false,"Loss",true,false,,false,,90,0,0,0,0,0,0,,0,-3,2,5,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Victor Vankerkhoven","10","K.S.V. Pittem",false,false,false,"Win",true,false,,true,75,75,1,0,0,0,0,0,,1,3,4,1,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Obe Eggermont","14","K. SV Moorsele A",false,false,false,"Loss",true,false,,true,18,18,0,0,0,0,0,0,,0,-1,0,1,0,-2,2,4
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Louis Callens","11","K.S.V. Pittem",false,false,false,"Win",true,false,,true,4,4,0,0,0,0,0,0,,0.5,0,0,0,1,3,5,2
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Obie De Smet","15","K. SV Moorsele A",false,false,false,"Loss",true,false,,true,69,69,0,0,0,0,0,0,,0,-3,1,4,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Ruben Gevaert","14","K.S.V. Pittem",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,3,5,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Rune Six","17","K. SV Moorsele A",false,false,false,"Loss",true,false,,true,69,69,0,0,0,1,0,0,,0,-3,1,4,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Gilles Soens","15","K.S.V. Pittem",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,3,5,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Damien Kontogom","18","K. SV Moorsele A",false,false,false,"Loss",true,false,,false,,90,0,0,0,1,0,0,,0,-3,2,5,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Edgar Khajakyan","16","K.S.V. Pittem",false,false,false,"Win",true,false,,false,,90,0,0,0,0,0,0,,1,3,5,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Jelle De Corte","22","K. SV Moorsele A",true,false,false,"Loss",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Lukas Verhoeyen","1","K.S.V. Pittem",true,false,false,"Win",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Kobe Cyriel Van Belleghem","5","K. SV Moorsele A",false,false,false,"Loss",false,true,69,false,,21,1,0,0,0,0,0,,0.5,0,1,1,0,-3,1,4
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Senne Vanbrabandt","6","K.S.V. Pittem",false,false,false,"Win",false,true,75,false,,15,0,0,0,0,0,0,,0.5,0,1,1,1,3,4,1
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Gaëtan Feryn","6","K. SV Moorsele A",false,false,false,"Loss",false,true,73,false,,17,0,0,0,0,0,0,,0.5,0,1,1,0,-3,1,4
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Matice Van Bruwaene","9","K.S.V. Pittem",false,false,false,"Win",false,true,75,false,,15,0,0,0,0,0,0,,0.5,0,1,1,1,3,4,1
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Edgar Dehaene","11","K. SV Moorsele A",false,false,false,"Loss",false,true,69,false,,21,0,0,0,0,0,0,,0.5,0,1,1,0,-3,1,4
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Leon Vandenhende","17","K.S.V. Pittem",false,false,false,"Win",false,true,4,false,,86,1,0,0,1,0,0,,1,3,5,2,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Owen Deceuninck","12","K. SV Moorsele A",false,false,false,"Loss",false,true,18,false,,72,0,0,0,0,0,0,,0,-2,2,4,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510339","K. SV Moorsele A","K.S.V. Pittem","Petr Borzin","24","K.S.V. Pittem",false,false,false,"Win",false,true,19,true,75,56,0,0,0,0,0,0,,1,2,3,1,1,1,2,1
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Rémi Romuald Decavel","1","K.S.K Vlamertinge A",true,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Alexandre Julien Charlet","30","R.J.H. Comines A",true,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Rabah Mazbouh","2","K.S.K Vlamertinge A",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Ishimwe Beni Azabe","2","R.J.H. Comines A",false,false,false,"Draw",true,false,,true,27,27,0,0,0,0,0,0,,0.5,0,0,0,0.5,0,2,2
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Jarne Wydoodt","6","K.S.K Vlamertinge A",false,true,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Rayane Chaibi","3","R.J.H. Comines A",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Dean Brouckaert","7","K.S.K Vlamertinge A",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Emilio Coudron","7","R.J.H. Comines A",false,false,false,"Draw",true,false,,false,,90,1,0,0,1,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Medjon Hoxha","9","K.S.K Vlamertinge A",false,false,false,"Draw",true,false,,true,66,66,1,0,0,0,0,0,,0.5,0,1,1,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Jason Robaeys","10","R.J.H. Comines A",false,false,false,"Draw",true,false,,false,,90,1,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Monir Bouhid","10","K.S.K Vlamertinge A",false,false,false,"Draw",true,false,,false,,90,0,0,0,1,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Naom Debacker","12","R.J.H. Comines A",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Sofyan Derrag","11","K.S.K Vlamertinge A",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Mitch Voet","13","R.J.H. Comines A",false,true,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Karsten Soodts","14","K.S.K Vlamertinge A",false,false,false,"Draw",true,false,,false,,90,1,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Enzo Jean-Claude Vandenberghe","14","R.J.H. Comines A",false,false,false,"Draw",true,false,,true,60,60,0,0,0,0,0,0,,0.5,0,1,1,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Adan Lakhnigue","17","K.S.K Vlamertinge A",false,false,false,"Draw",true,false,,true,81,81,0,0,0,1,0,0,,0.5,0,2,2,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Théotim Timothy Maes Leroy","16","R.J.H. Comines A",false,false,false,"Draw",true,false,,true,76,76,0,0,0,0,0,0,,1,1,2,1,0,-1,0,1
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Yassin Amounan Battasse","19","K.S.K Vlamertinge A",false,false,false,"Draw",true,false,,true,66,66,0,0,0,0,0,0,,0.5,0,1,1,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Mouctar Gassama","18","R.J.H. Comines A",false,false,false,"Draw",true,false,,true,60,60,0,0,0,0,0,0,,0.5,0,1,1,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Hamza Yanis Abdoune","27","K.S.K Vlamertinge A",false,false,false,"Draw",true,false,,false,,90,0,0,0,0,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Corentyn Duviler","21","R.J.H. Comines A",false,false,false,"Draw",true,false,,false,,90,0,0,0,1,0,0,,0.5,0,2,2,,,,
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Joty Boeve","3","K.S.K Vlamertinge A",false,false,false,"Draw",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Kilian Van Zeveren","8","R.J.H. Comines A",false,false,false,"Draw",false,true,60,false,,30,0,0,0,0,0,0,,0.5,0,1,1,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Toon Kint","12","K.S.K Vlamertinge A",false,false,false,"Draw",false,true,66,false,,24,0,0,0,0,0,0,,0.5,0,1,1,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Tom Patrick Colnot","9","R.J.H. Comines A",false,false,false,"Draw",false,true,76,false,,14,0,0,0,0,0,0,,0,-1,0,1,1,1,2,1
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Corentin Lamoot","16","K.S.K Vlamertinge A",false,false,false,"Draw",false,true,66,false,,24,0,0,0,0,0,0,,0.5,0,1,1,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Simon Leroy","11","R.J.H. Comines A",false,false,false,"Draw",false,true,60,false,,30,0,0,0,0,0,0,,0.5,0,1,1,0.5,0,1,1
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Quinten Vancoillie","18","K.S.K Vlamertinge A",false,false,false,"Draw",false,true,81,false,,9,0,0,0,0,0,0,,0.5,0,0,0,0.5,0,2,2
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Rudy Saigot","15","R.J.H. Comines A",false,false,false,"Draw",false,true,27,false,,63,0,0,0,0,0,0,,0.5,0,2,2,0.5,0,0,0
+"https://www.rbfa.be/nl/wedstrijd/7510340","K.S.K Vlamertinge A","R.J.H. Comines A","Achiel Thorrez","23","K.S.K Vlamertinge A",false,false,false,"Draw",false,false,,false,,0,0,0,0,0,0,0,,,,,,0.5,0,0,0

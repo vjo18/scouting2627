@@ -152,20 +152,20 @@
     "awayScore": "4"
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7565264",
-    "date": "ZONDAG, 13 SEPTEMBER 2026",
-    "homeTeam": "Racing Club Harelbeke",
-    "homeScore": "0",
-    "awayTeam": "KVK.Tienen",
-    "awayScore": "4"
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7565269",
     "date": "ZONDAG, 13 SEPTEMBER 2026",
     "homeTeam": "Sportkring Roeselare",
     "homeScore": "1",
     "awayTeam": "FC Mandel United Izegem",
     "awayScore": "0"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565264",
+    "date": "ZONDAG, 13 SEPTEMBER 2026",
+    "homeTeam": "Racing Club Harelbeke",
+    "homeScore": "0",
+    "awayTeam": "KVK.Tienen",
+    "awayScore": "4"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7565317",
@@ -272,14 +272,6 @@
     "awayScore": "1"
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7565281",
-    "date": "WOENSDAG, 30 SEPTEMBER 2026",
-    "homeTeam": "K.F.C. Houtvenne A",
-    "homeScore": "2",
-    "awayTeam": "FC Mandel United Izegem",
-    "awayScore": "1"
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7565278",
     "date": "WOENSDAG, 30 SEPTEMBER 2026",
     "homeTeam": "Belisia Bilzen SV A",
@@ -302,6 +294,14 @@
     "homeScore": "0",
     "awayTeam": "R. Knokke FC",
     "awayScore": "0"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565281",
+    "date": "WOENSDAG, 30 SEPTEMBER 2026",
+    "homeTeam": "K.F.C. Houtvenne A",
+    "homeScore": "2",
+    "awayTeam": "FC Mandel United Izegem",
+    "awayScore": "1"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7565284",
@@ -328,6 +328,14 @@
     "awayScore": "0"
   },
   {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565292",
+    "date": "ZATERDAG, 3 OKTOBER 2026",
+    "homeTeam": "Thes Sport Tessenderlo A",
+    "homeScore": "1",
+    "awayTeam": "KVV Zelzate",
+    "awayScore": "1"
+  },
+  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7565291",
     "date": "ZATERDAG, 3 OKTOBER 2026",
     "homeTeam": "FC Mandel United Izegem",
@@ -342,14 +350,6 @@
     "homeScore": "0",
     "awayTeam": "Sportkring Roeselare",
     "awayScore": "3"
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7565292",
-    "date": "ZATERDAG, 3 OKTOBER 2026",
-    "homeTeam": "Thes Sport Tessenderlo A",
-    "homeScore": "1",
-    "awayTeam": "KVV Zelzate",
-    "awayScore": "1"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7565287",
@@ -416,20 +416,20 @@
     "awayScore": "0"
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7565299",
-    "date": "ZONDAG, 11 OKTOBER 2026",
-    "homeTeam": "Oud-Heverlee Leuven B",
-    "homeScore": "0",
-    "awayTeam": "KSK Heist A",
-    "awayScore": "0"
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7565298",
     "date": "ZONDAG, 11 OKTOBER 2026",
     "homeTeam": "KFC Merelbeke",
     "homeScore": "0",
     "awayTeam": "FC Mandel United Izegem",
     "awayScore": "2"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565299",
+    "date": "ZONDAG, 11 OKTOBER 2026",
+    "homeTeam": "Oud-Heverlee Leuven B",
+    "homeScore": "0",
+    "awayTeam": "KSK Heist A",
+    "awayScore": "0"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7565294",
@@ -512,6 +512,70 @@
     "awayScore": "0"
   },
   {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565347",
+    "date": "VRIJDAG, 23 OKTOBER 2026",
+    "homeTeam": "Belisia Bilzen SV A",
+    "homeScore": "0",
+    "awayTeam": "Thes Sport Tessenderlo A",
+    "awayScore": "3"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565351",
+    "date": "ZATERDAG, 24 OKTOBER 2026",
+    "homeTeam": "K.F.C. Houtvenne A",
+    "homeScore": "1",
+    "awayTeam": "KFC Merelbeke",
+    "awayScore": "1"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565349",
+    "date": "ZATERDAG, 24 OKTOBER 2026",
+    "homeTeam": "KFC Dessel Sp. A",
+    "homeScore": "2",
+    "awayTeam": "Oud-Heverlee Leuven B",
+    "awayScore": "2"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565352",
+    "date": "ZATERDAG, 24 OKTOBER 2026",
+    "homeTeam": "Sportkring Roeselare",
+    "homeScore": "2",
+    "awayTeam": "R. Knokke FC",
+    "awayScore": "1"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565354",
+    "date": "ZATERDAG, 24 OKTOBER 2026",
+    "homeTeam": "KVV Zelzate",
+    "homeScore": "1",
+    "awayTeam": "KSK Heist A",
+    "awayScore": "5"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565350",
+    "date": "ZONDAG, 25 OKTOBER 2026",
+    "homeTeam": "Racing Club Harelbeke",
+    "homeScore": "0",
+    "awayTeam": "Koninklijke Lyra-Lierse",
+    "awayScore": "3"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565348",
+    "date": "ZONDAG, 25 OKTOBER 2026",
+    "homeTeam": "Cercle Brugge K.S.V. B",
+    "homeScore": "1",
+    "awayTeam": "Hoogstraten VV",
+    "awayScore": "4"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565353",
+    "date": "ZONDAG, 25 OKTOBER 2026",
+    "homeTeam": "KVK.Tienen",
+    "homeScore": "0",
+    "awayTeam": "FC Mandel United Izegem",
+    "awayScore": "2"
+  },
+  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7565362",
     "date": "VRIJDAG, 30 OKTOBER 2026",
     "homeTeam": "Thes Sport Tessenderlo A",
@@ -536,19 +600,19 @@
     "awayScore": "1"
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7565355",
-    "date": "ZATERDAG, 31 OKTOBER 2026",
-    "homeTeam": "KSK Heist A",
-    "homeScore": "4",
-    "awayTeam": "K.F.C. Houtvenne A",
-    "awayScore": "0"
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7565358",
     "date": "ZATERDAG, 31 OKTOBER 2026",
     "homeTeam": "Koninklijke Lyra-Lierse",
     "homeScore": "1",
     "awayTeam": "KVV Zelzate",
+    "awayScore": "2"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565357",
+    "date": "ZATERDAG, 31 OKTOBER 2026",
+    "homeTeam": "R. Knokke FC",
+    "homeScore": "0",
+    "awayTeam": "Racing Club Harelbeke",
     "awayScore": "2"
   },
   {
@@ -560,12 +624,12 @@
     "awayScore": "3"
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7565357",
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565355",
     "date": "ZATERDAG, 31 OKTOBER 2026",
-    "homeTeam": "R. Knokke FC",
-    "homeScore": "0",
-    "awayTeam": "Racing Club Harelbeke",
-    "awayScore": "2"
+    "homeTeam": "KSK Heist A",
+    "homeScore": "4",
+    "awayTeam": "K.F.C. Houtvenne A",
+    "awayScore": "0"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7565361",
@@ -574,6 +638,134 @@
     "homeScore": "3",
     "awayTeam": "Cercle Brugge K.S.V. B",
     "awayScore": "3"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565368",
+    "date": "VRIJDAG, 6 NOVEMBER 2026",
+    "homeTeam": "KFC Merelbeke",
+    "homeScore": "2",
+    "awayTeam": "KSK Heist A",
+    "awayScore": "1"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565364",
+    "date": "ZATERDAG, 7 NOVEMBER 2026",
+    "homeTeam": "KFC Dessel Sp. A",
+    "homeScore": "1",
+    "awayTeam": "R. Knokke FC",
+    "awayScore": "0"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565367",
+    "date": "ZATERDAG, 7 NOVEMBER 2026",
+    "homeTeam": "FC Mandel United Izegem",
+    "homeScore": "3",
+    "awayTeam": "Cercle Brugge K.S.V. B",
+    "awayScore": "1"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565366",
+    "date": "ZATERDAG, 7 NOVEMBER 2026",
+    "homeTeam": "K.F.C. Houtvenne A",
+    "homeScore": "1",
+    "awayTeam": "Thes Sport Tessenderlo A",
+    "awayScore": "2"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565369",
+    "date": "ZATERDAG, 7 NOVEMBER 2026",
+    "homeTeam": "Sportkring Roeselare",
+    "homeScore": "0",
+    "awayTeam": "Oud-Heverlee Leuven B",
+    "awayScore": "0"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565363",
+    "date": "ZATERDAG, 7 NOVEMBER 2026",
+    "homeTeam": "Belisia Bilzen SV A",
+    "homeScore": "4",
+    "awayTeam": "Koninklijke Lyra-Lierse",
+    "awayScore": "0"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565370",
+    "date": "ZONDAG, 8 NOVEMBER 2026",
+    "homeTeam": "KVK.Tienen",
+    "homeScore": "3",
+    "awayTeam": "Hoogstraten VV",
+    "awayScore": "1"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565365",
+    "date": "ZONDAG, 8 NOVEMBER 2026",
+    "homeTeam": "Racing Club Harelbeke",
+    "homeScore": "1",
+    "awayTeam": "KVV Zelzate",
+    "awayScore": "4"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565372",
+    "date": "ZATERDAG, 14 NOVEMBER 2026",
+    "homeTeam": "KSK Heist A",
+    "homeScore": null,
+    "awayTeam": "Hoogstraten VV",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565374",
+    "date": "ZATERDAG, 14 NOVEMBER 2026",
+    "homeTeam": "Koninklijke Lyra-Lierse",
+    "homeScore": null,
+    "awayTeam": "KFC Dessel Sp. A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565377",
+    "date": "ZATERDAG, 14 NOVEMBER 2026",
+    "homeTeam": "Thes Sport Tessenderlo A",
+    "homeScore": null,
+    "awayTeam": "FC Mandel United Izegem",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565373",
+    "date": "ZONDAG, 15 NOVEMBER 2026",
+    "homeTeam": "R. Knokke FC",
+    "homeScore": null,
+    "awayTeam": "KVK.Tienen",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565375",
+    "date": "ZONDAG, 15 NOVEMBER 2026",
+    "homeTeam": "Oud-Heverlee Leuven B",
+    "homeScore": null,
+    "awayTeam": "KFC Merelbeke",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565371",
+    "date": "ZONDAG, 15 NOVEMBER 2026",
+    "homeTeam": "Cercle Brugge K.S.V. B",
+    "homeScore": null,
+    "awayTeam": "K.F.C. Houtvenne A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565376",
+    "date": "ZONDAG, 15 NOVEMBER 2026",
+    "homeTeam": "Sportkring Roeselare",
+    "homeScore": null,
+    "awayTeam": "Racing Club Harelbeke",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565378",
+    "date": "ZONDAG, 15 NOVEMBER 2026",
+    "homeTeam": "KVV Zelzate",
+    "homeScore": null,
+    "awayTeam": "Belisia Bilzen SV A",
+    "awayScore": null
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7565329",
@@ -680,14 +872,6 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7565337",
-    "date": "ZONDAG, 29 NOVEMBER 2026",
-    "homeTeam": "R. Knokke FC",
-    "homeScore": null,
-    "awayTeam": "Hoogstraten VV",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7565335",
     "date": "ZONDAG, 29 NOVEMBER 2026",
     "homeTeam": "Racing Club Harelbeke",
@@ -696,11 +880,83 @@
     "awayScore": null
   },
   {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565337",
+    "date": "ZONDAG, 29 NOVEMBER 2026",
+    "homeTeam": "R. Knokke FC",
+    "homeScore": null,
+    "awayTeam": "Hoogstraten VV",
+    "awayScore": null
+  },
+  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7565334",
     "date": "ZONDAG, 29 NOVEMBER 2026",
     "homeTeam": "Cercle Brugge K.S.V. B",
     "homeScore": null,
     "awayTeam": "Belisia Bilzen SV A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565382",
+    "date": "ZATERDAG, 5 DECEMBER 2026",
+    "homeTeam": "Sportkring Roeselare",
+    "homeScore": null,
+    "awayTeam": "Cercle Brugge K.S.V. B",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565381",
+    "date": "ZATERDAG, 5 DECEMBER 2026",
+    "homeTeam": "KFC Merelbeke",
+    "homeScore": null,
+    "awayTeam": "KVV Zelzate",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565343",
+    "date": "ZATERDAG, 5 DECEMBER 2026",
+    "homeTeam": "KFC Dessel Sp. A",
+    "homeScore": null,
+    "awayTeam": "Thes Sport Tessenderlo A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565344",
+    "date": "ZATERDAG, 5 DECEMBER 2026",
+    "homeTeam": "Hoogstraten VV",
+    "homeScore": null,
+    "awayTeam": "Oud-Heverlee Leuven B",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565380",
+    "date": "ZATERDAG, 5 DECEMBER 2026",
+    "homeTeam": "FC Mandel United Izegem",
+    "homeScore": null,
+    "awayTeam": "KSK Heist A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565379",
+    "date": "ZONDAG, 6 DECEMBER 2026",
+    "homeTeam": "R. Knokke FC",
+    "homeScore": null,
+    "awayTeam": "Koninklijke Lyra-Lierse",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565342",
+    "date": "ZONDAG, 6 DECEMBER 2026",
+    "homeTeam": "Belisia Bilzen SV A",
+    "homeScore": null,
+    "awayTeam": "Racing Club Harelbeke",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565383",
+    "date": "ZONDAG, 6 DECEMBER 2026",
+    "homeTeam": "KVK.Tienen",
+    "homeScore": null,
+    "awayTeam": "K.F.C. Houtvenne A",
     "awayScore": null
   },
   {
@@ -792,6 +1048,14 @@
     "awayScore": null
   },
   {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565392",
+    "date": "ZONDAG, 10 JANUARI 2027",
+    "homeTeam": "Cercle Brugge K.S.V. B",
+    "homeScore": null,
+    "awayTeam": "Oud-Heverlee Leuven B",
+    "awayScore": null
+  },
+  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7565398",
     "date": "ZONDAG, 10 JANUARI 2027",
     "homeTeam": "Sportkring Roeselare",
@@ -805,14 +1069,6 @@
     "homeTeam": "KFC Merelbeke",
     "homeScore": null,
     "awayTeam": "Belisia Bilzen SV A",
-    "awayScore": null
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7565392",
-    "date": "ZONDAG, 10 JANUARI 2027",
-    "homeTeam": "Cercle Brugge K.S.V. B",
-    "homeScore": null,
-    "awayTeam": "Oud-Heverlee Leuven B",
     "awayScore": null
   },
   {
@@ -896,6 +1152,134 @@
     "awayScore": null
   },
   {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565414",
+    "date": "ZATERDAG, 23 JANUARI 2027",
+    "homeTeam": "Thes Sport Tessenderlo A",
+    "homeScore": null,
+    "awayTeam": "Racing Club Harelbeke",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565410",
+    "date": "ZATERDAG, 23 JANUARI 2027",
+    "homeTeam": "KSK Heist A",
+    "homeScore": null,
+    "awayTeam": "Koninklijke Lyra-Lierse",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565411",
+    "date": "ZATERDAG, 23 JANUARI 2027",
+    "homeTeam": "K.F.C. Houtvenne A",
+    "homeScore": null,
+    "awayTeam": "Hoogstraten VV",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565413",
+    "date": "ZONDAG, 24 JANUARI 2027",
+    "homeTeam": "Sportkring Roeselare",
+    "homeScore": null,
+    "awayTeam": "KVV Zelzate",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565408",
+    "date": "ZONDAG, 24 JANUARI 2027",
+    "homeTeam": "Belisia Bilzen SV A",
+    "homeScore": null,
+    "awayTeam": "KFC Dessel Sp. A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565415",
+    "date": "ZONDAG, 24 JANUARI 2027",
+    "homeTeam": "KVK.Tienen",
+    "homeScore": null,
+    "awayTeam": "Oud-Heverlee Leuven B",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565409",
+    "date": "ZONDAG, 24 JANUARI 2027",
+    "homeTeam": "Cercle Brugge K.S.V. B",
+    "homeScore": null,
+    "awayTeam": "FC Mandel United Izegem",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565412",
+    "date": "ZONDAG, 24 JANUARI 2027",
+    "homeTeam": "KFC Merelbeke",
+    "homeScore": null,
+    "awayTeam": "R. Knokke FC",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565419",
+    "date": "ZATERDAG, 30 JANUARI 2027",
+    "homeTeam": "Koninklijke Lyra-Lierse",
+    "homeScore": null,
+    "awayTeam": "Belisia Bilzen SV A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565420",
+    "date": "ZATERDAG, 30 JANUARI 2027",
+    "homeTeam": "FC Mandel United Izegem",
+    "homeScore": null,
+    "awayTeam": "KFC Merelbeke",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565422",
+    "date": "ZATERDAG, 30 JANUARI 2027",
+    "homeTeam": "Thes Sport Tessenderlo A",
+    "homeScore": null,
+    "awayTeam": "KSK Heist A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565417",
+    "date": "ZATERDAG, 30 JANUARI 2027",
+    "homeTeam": "Hoogstraten VV",
+    "homeScore": null,
+    "awayTeam": "KFC Dessel Sp. A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565423",
+    "date": "ZATERDAG, 30 JANUARI 2027",
+    "homeTeam": "KVV Zelzate",
+    "homeScore": null,
+    "awayTeam": "KVK.Tienen",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565421",
+    "date": "ZONDAG, 31 JANUARI 2027",
+    "homeTeam": "Oud-Heverlee Leuven B",
+    "homeScore": null,
+    "awayTeam": "K.F.C. Houtvenne A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565416",
+    "date": "ZONDAG, 31 JANUARI 2027",
+    "homeTeam": "Racing Club Harelbeke",
+    "homeScore": null,
+    "awayTeam": "Sportkring Roeselare",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565418",
+    "date": "ZONDAG, 31 JANUARI 2027",
+    "homeTeam": "R. Knokke FC",
+    "homeScore": null,
+    "awayTeam": "Cercle Brugge K.S.V. B",
+    "awayScore": null
+  },
+  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7565430",
     "date": "ZATERDAG, 13 FEBRUARI 2027",
     "homeTeam": "KFC Merelbeke",
@@ -944,19 +1328,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7565431",
-    "date": "ZONDAG, 14 FEBRUARI 2027",
-    "homeTeam": "KVK.Tienen",
-    "homeScore": null,
-    "awayTeam": "Thes Sport Tessenderlo A",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7565424",
     "date": "ZONDAG, 14 FEBRUARI 2027",
     "homeTeam": "Cercle Brugge K.S.V. B",
     "homeScore": null,
     "awayTeam": "Racing Club Harelbeke",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565431",
+    "date": "ZONDAG, 14 FEBRUARI 2027",
+    "homeTeam": "KVK.Tienen",
+    "homeScore": null,
+    "awayTeam": "Thes Sport Tessenderlo A",
     "awayScore": null
   },
   {
@@ -1128,6 +1512,14 @@
     "awayScore": null
   },
   {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565468",
+    "date": "ZONDAG, 7 MAART 2027",
+    "homeTeam": "KVV Zelzate",
+    "homeScore": null,
+    "awayTeam": "Oud-Heverlee Leuven B",
+    "awayScore": null
+  },
+  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7565465",
     "date": "ZONDAG, 7 MAART 2027",
     "homeTeam": "Sportkring Roeselare",
@@ -1144,11 +1536,67 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7565468",
-    "date": "ZONDAG, 7 MAART 2027",
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565473",
+    "date": "ZATERDAG, 13 MAART 2027",
+    "homeTeam": "KFC Merelbeke",
+    "homeScore": null,
+    "awayTeam": "KVK.Tienen",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565471",
+    "date": "ZATERDAG, 13 MAART 2027",
+    "homeTeam": "Hoogstraten VV",
+    "homeScore": null,
+    "awayTeam": "KSK Heist A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565476",
+    "date": "ZATERDAG, 13 MAART 2027",
     "homeTeam": "KVV Zelzate",
     "homeScore": null,
-    "awayTeam": "Oud-Heverlee Leuven B",
+    "awayTeam": "FC Mandel United Izegem",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565475",
+    "date": "ZATERDAG, 13 MAART 2027",
+    "homeTeam": "Thes Sport Tessenderlo A",
+    "homeScore": null,
+    "awayTeam": "Koninklijke Lyra-Lierse",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565472",
+    "date": "ZONDAG, 14 MAART 2027",
+    "homeTeam": "R. Knokke FC",
+    "homeScore": null,
+    "awayTeam": "K.F.C. Houtvenne A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565470",
+    "date": "ZONDAG, 14 MAART 2027",
+    "homeTeam": "Racing Club Harelbeke",
+    "homeScore": null,
+    "awayTeam": "Belisia Bilzen SV A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565469",
+    "date": "ZONDAG, 14 MAART 2027",
+    "homeTeam": "Cercle Brugge K.S.V. B",
+    "homeScore": null,
+    "awayTeam": "KFC Dessel Sp. A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565474",
+    "date": "ZONDAG, 14 MAART 2027",
+    "homeTeam": "Oud-Heverlee Leuven B",
+    "homeScore": null,
+    "awayTeam": "Sportkring Roeselare",
     "awayScore": null
   },
   {
@@ -1296,19 +1744,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7565444",
-    "date": "ZATERDAG, 10 APRIL 2027",
-    "homeTeam": "K.F.C. Houtvenne A",
-    "homeScore": null,
-    "awayTeam": "Racing Club Harelbeke",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7565445",
     "date": "ZATERDAG, 10 APRIL 2027",
     "homeTeam": "Koninklijke Lyra-Lierse",
     "homeScore": null,
     "awayTeam": "R. Knokke FC",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565444",
+    "date": "ZATERDAG, 10 APRIL 2027",
+    "homeTeam": "K.F.C. Houtvenne A",
+    "homeScore": null,
+    "awayTeam": "Racing Club Harelbeke",
     "awayScore": null
   },
   {
@@ -1344,6 +1792,14 @@
     "awayScore": null
   },
   {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7565453",
+    "date": "ZATERDAG, 17 APRIL 2027",
+    "homeTeam": "Thes Sport Tessenderlo A",
+    "homeScore": null,
+    "awayTeam": "Belisia Bilzen SV A",
+    "awayScore": null
+  },
+  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7565448",
     "date": "ZATERDAG, 17 APRIL 2027",
     "homeTeam": "Hoogstraten VV",
@@ -1365,14 +1821,6 @@
     "homeTeam": "FC Mandel United Izegem",
     "homeScore": null,
     "awayTeam": "Sportkring Roeselare",
-    "awayScore": null
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7565453",
-    "date": "ZATERDAG, 17 APRIL 2027",
-    "homeTeam": "Thes Sport Tessenderlo A",
-    "homeScore": null,
-    "awayTeam": "Belisia Bilzen SV A",
     "awayScore": null
   },
   {

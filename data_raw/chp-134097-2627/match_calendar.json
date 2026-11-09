@@ -1,5 +1,13 @@
 [
   {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510254",
+    "date": "ZATERDAG, 29 AUGUSTUS 2026",
+    "homeTeam": "K. VK Avelgem A",
+    "homeScore": "2",
+    "awayTeam": "K. FC Lendelede Sport",
+    "awayScore": "0"
+  },
+  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510253",
     "date": "ZATERDAG, 29 AUGUSTUS 2026",
     "homeTeam": "K. FC. Meulebeke",
@@ -24,36 +32,12 @@
     "awayScore": "0"
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510254",
-    "date": "ZATERDAG, 29 AUGUSTUS 2026",
-    "homeTeam": "K. VK Avelgem A",
-    "homeScore": "2",
-    "awayTeam": "K. FC Lendelede Sport",
-    "awayScore": "0"
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510255",
     "date": "ZATERDAG, 29 AUGUSTUS 2026",
     "homeTeam": "K.S.V. Pittem",
     "homeScore": "2",
     "awayTeam": "GD Ingooigem",
     "awayScore": "0"
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510258",
-    "date": "ZONDAG, 30 AUGUSTUS 2026",
-    "homeTeam": "R.J.H. Comines A",
-    "homeScore": "5",
-    "awayTeam": "KFC Poperinge",
-    "awayScore": "1"
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510257",
-    "date": "ZONDAG, 30 AUGUSTUS 2026",
-    "homeTeam": "SC Zonnebeke A",
-    "homeScore": "2",
-    "awayTeam": "SV Moorslede",
-    "awayScore": "3"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510256",
@@ -64,12 +48,20 @@
     "awayScore": "3"
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510259",
-    "date": "ZATERDAG, 5 SEPTEMBER 2026",
-    "homeTeam": "GD Ingooigem",
-    "homeScore": "1",
-    "awayTeam": "K. FC. Meulebeke",
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510257",
+    "date": "ZONDAG, 30 AUGUSTUS 2026",
+    "homeTeam": "SC Zonnebeke A",
+    "homeScore": "2",
+    "awayTeam": "SV Moorslede",
     "awayScore": "3"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510258",
+    "date": "ZONDAG, 30 AUGUSTUS 2026",
+    "homeTeam": "R.J.H. Comines A",
+    "homeScore": "5",
+    "awayTeam": "KFC Poperinge",
+    "awayScore": "1"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510260",
@@ -77,6 +69,14 @@
     "homeTeam": "K. FC Lendelede Sport",
     "homeScore": "1",
     "awayTeam": "R.J.H. Comines A",
+    "awayScore": "3"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510259",
+    "date": "ZATERDAG, 5 SEPTEMBER 2026",
+    "homeTeam": "GD Ingooigem",
+    "homeScore": "1",
+    "awayTeam": "K. FC. Meulebeke",
     "awayScore": "3"
   },
   {
@@ -96,20 +96,20 @@
     "awayScore": "0"
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510265",
-    "date": "ZONDAG, 6 SEPTEMBER 2026",
-    "homeTeam": "KFC Poperinge",
-    "homeScore": "2",
-    "awayTeam": "K.S.V. Pittem",
-    "awayScore": "0"
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510264",
     "date": "ZONDAG, 6 SEPTEMBER 2026",
     "homeTeam": "K. SK Geluwe",
     "homeScore": "0",
     "awayTeam": "K. VK Avelgem A",
     "awayScore": "2"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510265",
+    "date": "ZONDAG, 6 SEPTEMBER 2026",
+    "homeTeam": "KFC Poperinge",
+    "homeScore": "2",
+    "awayTeam": "K.S.V. Pittem",
+    "awayScore": "0"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510266",
@@ -296,20 +296,20 @@
     "awayScore": "2"
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510290",
-    "date": "ZONDAG, 27 SEPTEMBER 2026",
-    "homeTeam": "R.J.H. Comines A",
-    "homeScore": "1",
-    "awayTeam": "SK Nieuwkerke",
-    "awayScore": "4"
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510289",
     "date": "ZONDAG, 27 SEPTEMBER 2026",
     "homeTeam": "K. SK Geluwe",
     "homeScore": "4",
     "awayTeam": "SC Zonnebeke A",
     "awayScore": "0"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510290",
+    "date": "ZONDAG, 27 SEPTEMBER 2026",
+    "homeTeam": "R.J.H. Comines A",
+    "homeScore": "1",
+    "awayTeam": "SK Nieuwkerke",
+    "awayScore": "4"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510291",
@@ -643,65 +643,65 @@
     "url": "https://www.rbfa.be/nl/wedstrijd/7510335",
     "date": "ZATERDAG, 7 NOVEMBER 2026",
     "homeTeam": "K. FC. Meulebeke",
-    "homeScore": null,
+    "homeScore": "2",
     "awayTeam": "K. VK Avelgem A",
-    "awayScore": null
+    "awayScore": "2"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510334",
     "date": "ZATERDAG, 7 NOVEMBER 2026",
     "homeTeam": "V.V. Emelgem-Kachtem",
-    "homeScore": null,
+    "homeScore": "1",
     "awayTeam": "SV Moorslede",
-    "awayScore": null
+    "awayScore": "3"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510336",
     "date": "ZATERDAG, 7 NOVEMBER 2026",
     "homeTeam": "GD Ingooigem",
-    "homeScore": null,
+    "homeScore": "1",
     "awayTeam": "KFC Poperinge",
-    "awayScore": null
+    "awayScore": "3"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510333",
     "date": "ZATERDAG, 7 NOVEMBER 2026",
     "homeTeam": "K. Dosko Beveren",
-    "homeScore": null,
+    "homeScore": "2",
     "awayTeam": "SK Nieuwkerke",
-    "awayScore": null
+    "awayScore": "5"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510337",
     "date": "ZATERDAG, 7 NOVEMBER 2026",
     "homeTeam": "K.R.C. Waregem B",
-    "homeScore": null,
+    "homeScore": "2",
     "awayTeam": "SC Zonnebeke A",
-    "awayScore": null
+    "awayScore": "1"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510338",
     "date": "ZONDAG, 8 NOVEMBER 2026",
     "homeTeam": "K. SK Geluwe",
-    "homeScore": null,
+    "homeScore": "3",
     "awayTeam": "K. FC Lendelede Sport",
-    "awayScore": null
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510340",
-    "date": "ZONDAG, 8 NOVEMBER 2026",
-    "homeTeam": "K.S.K Vlamertinge A",
-    "homeScore": null,
-    "awayTeam": "R.J.H. Comines A",
-    "awayScore": null
+    "awayScore": "0"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510339",
     "date": "ZONDAG, 8 NOVEMBER 2026",
     "homeTeam": "K. SV Moorsele A",
-    "homeScore": null,
+    "homeScore": "2",
     "awayTeam": "K.S.V. Pittem",
-    "awayScore": null
+    "awayScore": "5"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510340",
+    "date": "ZONDAG, 8 NOVEMBER 2026",
+    "homeTeam": "K.S.K Vlamertinge A",
+    "homeScore": "2",
+    "awayTeam": "R.J.H. Comines A",
+    "awayScore": "2"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510342",
@@ -728,11 +728,11 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510346",
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510348",
     "date": "ZONDAG, 15 NOVEMBER 2026",
-    "homeTeam": "R.J.H. Comines A",
+    "homeTeam": "KFC Poperinge",
     "homeScore": null,
-    "awayTeam": "K. Dosko Beveren",
+    "awayTeam": "K. SK Geluwe",
     "awayScore": null
   },
   {
@@ -744,11 +744,11 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510348",
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510346",
     "date": "ZONDAG, 15 NOVEMBER 2026",
-    "homeTeam": "KFC Poperinge",
+    "homeTeam": "R.J.H. Comines A",
     "homeScore": null,
-    "awayTeam": "K. SK Geluwe",
+    "awayTeam": "K. Dosko Beveren",
     "awayScore": null
   },
   {
@@ -816,19 +816,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510357",
-    "date": "ZONDAG, 22 NOVEMBER 2026",
-    "homeTeam": "KFC Poperinge",
-    "homeScore": null,
-    "awayTeam": "K.S.K Vlamertinge A",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510355",
     "date": "ZONDAG, 22 NOVEMBER 2026",
     "homeTeam": "K. SK Geluwe",
     "homeScore": null,
     "awayTeam": "R.J.H. Comines A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510357",
+    "date": "ZONDAG, 22 NOVEMBER 2026",
+    "homeTeam": "KFC Poperinge",
+    "homeScore": null,
+    "awayTeam": "K.S.K Vlamertinge A",
     "awayScore": null
   },
   {
@@ -864,14 +864,6 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510362",
-    "date": "ZONDAG, 29 NOVEMBER 2026",
-    "homeTeam": "R.J.H. Comines A",
-    "homeScore": null,
-    "awayTeam": "K.R.C. Waregem B",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510361",
     "date": "ZONDAG, 29 NOVEMBER 2026",
     "homeTeam": "SK Nieuwkerke",
@@ -893,6 +885,14 @@
     "homeTeam": "SC Zonnebeke A",
     "homeScore": null,
     "awayTeam": "K.S.V. Pittem",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510362",
+    "date": "ZONDAG, 29 NOVEMBER 2026",
+    "homeTeam": "R.J.H. Comines A",
+    "homeScore": null,
+    "awayTeam": "K.R.C. Waregem B",
     "awayScore": null
   },
   {
@@ -944,19 +944,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510372",
-    "date": "ZONDAG, 6 DECEMBER 2026",
-    "homeTeam": "K. SV Moorsele A",
-    "homeScore": null,
-    "awayTeam": "K. VK Avelgem A",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510373",
     "date": "ZONDAG, 6 DECEMBER 2026",
     "homeTeam": "KFC Poperinge",
     "homeScore": null,
     "awayTeam": "SK Nieuwkerke",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510372",
+    "date": "ZONDAG, 6 DECEMBER 2026",
+    "homeTeam": "K. SV Moorsele A",
+    "homeScore": null,
+    "awayTeam": "K. VK Avelgem A",
     "awayScore": null
   },
   {
@@ -1032,19 +1032,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510384",
-    "date": "ZATERDAG, 9 JANUARI 2027",
-    "homeTeam": "K. VK Avelgem A",
-    "homeScore": null,
-    "awayTeam": "K. SK Geluwe",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510383",
     "date": "ZATERDAG, 9 JANUARI 2027",
     "homeTeam": "GD Ingooigem",
     "homeScore": null,
     "awayTeam": "K.S.V. Pittem",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510384",
+    "date": "ZATERDAG, 9 JANUARI 2027",
+    "homeTeam": "K. VK Avelgem A",
+    "homeScore": null,
+    "awayTeam": "K. SK Geluwe",
     "awayScore": null
   },
   {
@@ -1056,14 +1056,6 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510385",
-    "date": "ZONDAG, 10 JANUARI 2027",
-    "homeTeam": "SK Nieuwkerke",
-    "homeScore": null,
-    "awayTeam": "R.J.H. Comines A",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510387",
     "date": "ZONDAG, 10 JANUARI 2027",
     "homeTeam": "K.S.K Vlamertinge A",
@@ -1072,11 +1064,11 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510389",
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510385",
     "date": "ZONDAG, 10 JANUARI 2027",
-    "homeTeam": "SV Moorslede",
+    "homeTeam": "SK Nieuwkerke",
     "homeScore": null,
-    "awayTeam": "V.V. Emelgem-Kachtem",
+    "awayTeam": "R.J.H. Comines A",
     "awayScore": null
   },
   {
@@ -1085,6 +1077,14 @@
     "homeTeam": "KFC Poperinge",
     "homeScore": null,
     "awayTeam": "SC Zonnebeke A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510389",
+    "date": "ZONDAG, 10 JANUARI 2027",
+    "homeTeam": "SV Moorslede",
+    "homeScore": null,
+    "awayTeam": "V.V. Emelgem-Kachtem",
     "awayScore": null
   },
   {
@@ -1152,6 +1152,70 @@
     "awayScore": null
   },
   {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510400",
+    "date": "ZATERDAG, 23 JANUARI 2027",
+    "homeTeam": "K. VK Avelgem A",
+    "homeScore": null,
+    "awayTeam": "K.S.K Vlamertinge A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510398",
+    "date": "ZATERDAG, 23 JANUARI 2027",
+    "homeTeam": "K. FC. Meulebeke",
+    "homeScore": null,
+    "awayTeam": "SV Moorslede",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510399",
+    "date": "ZATERDAG, 23 JANUARI 2027",
+    "homeTeam": "K. FC Lendelede Sport",
+    "homeScore": null,
+    "awayTeam": "GD Ingooigem",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510401",
+    "date": "ZATERDAG, 23 JANUARI 2027",
+    "homeTeam": "K.S.V. Pittem",
+    "homeScore": null,
+    "awayTeam": "V.V. Emelgem-Kachtem",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510403",
+    "date": "ZONDAG, 24 JANUARI 2027",
+    "homeTeam": "R.J.H. Comines A",
+    "homeScore": null,
+    "awayTeam": "K. SK Geluwe",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510402",
+    "date": "ZONDAG, 24 JANUARI 2027",
+    "homeTeam": "SK Nieuwkerke",
+    "homeScore": null,
+    "awayTeam": "K. Dosko Beveren",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510405",
+    "date": "ZONDAG, 24 JANUARI 2027",
+    "homeTeam": "KFC Poperinge",
+    "homeScore": null,
+    "awayTeam": "K. SV Moorsele A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510404",
+    "date": "ZONDAG, 24 JANUARI 2027",
+    "homeTeam": "SC Zonnebeke A",
+    "homeScore": null,
+    "awayTeam": "K.R.C. Waregem B",
+    "awayScore": null
+  },
+  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510408",
     "date": "ZATERDAG, 30 JANUARI 2027",
     "homeTeam": "GD Ingooigem",
@@ -1160,19 +1224,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510406",
-    "date": "ZATERDAG, 30 JANUARI 2027",
-    "homeTeam": "K. Dosko Beveren",
-    "homeScore": null,
-    "awayTeam": "K.S.V. Pittem",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510407",
     "date": "ZATERDAG, 30 JANUARI 2027",
     "homeTeam": "V.V. Emelgem-Kachtem",
     "homeScore": null,
     "awayTeam": "R.J.H. Comines A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510406",
+    "date": "ZATERDAG, 30 JANUARI 2027",
+    "homeTeam": "K. Dosko Beveren",
+    "homeScore": null,
+    "awayTeam": "K.S.V. Pittem",
     "awayScore": null
   },
   {
@@ -1240,19 +1304,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510416",
-    "date": "ZATERDAG, 13 FEBRUARI 2027",
-    "homeTeam": "K. FC. Meulebeke",
-    "homeScore": null,
-    "awayTeam": "SK Nieuwkerke",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510419",
     "date": "ZATERDAG, 13 FEBRUARI 2027",
     "homeTeam": "K. VK Avelgem A",
     "homeScore": null,
     "awayTeam": "K. Dosko Beveren",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510416",
+    "date": "ZATERDAG, 13 FEBRUARI 2027",
+    "homeTeam": "K. FC. Meulebeke",
+    "homeScore": null,
+    "awayTeam": "SK Nieuwkerke",
     "awayScore": null
   },
   {
@@ -1277,6 +1341,70 @@
     "homeTeam": "K. SK Geluwe",
     "homeScore": null,
     "awayTeam": "KFC Poperinge",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510423",
+    "date": "ZATERDAG, 20 FEBRUARI 2027",
+    "homeTeam": "K. Dosko Beveren",
+    "homeScore": null,
+    "awayTeam": "R.J.H. Comines A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510424",
+    "date": "ZATERDAG, 20 FEBRUARI 2027",
+    "homeTeam": "K.R.C. Waregem B",
+    "homeScore": null,
+    "awayTeam": "K.S.V. Pittem",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510429",
+    "date": "ZONDAG, 21 FEBRUARI 2027",
+    "homeTeam": "KFC Poperinge",
+    "homeScore": null,
+    "awayTeam": "GD Ingooigem",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510430",
+    "date": "ZONDAG, 21 FEBRUARI 2027",
+    "homeTeam": "SV Moorslede",
+    "homeScore": null,
+    "awayTeam": "K. VK Avelgem A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510425",
+    "date": "ZONDAG, 21 FEBRUARI 2027",
+    "homeTeam": "SK Nieuwkerke",
+    "homeScore": null,
+    "awayTeam": "K. SK Geluwe",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510427",
+    "date": "ZONDAG, 21 FEBRUARI 2027",
+    "homeTeam": "SC Zonnebeke A",
+    "homeScore": null,
+    "awayTeam": "K. FC. Meulebeke",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510428",
+    "date": "ZONDAG, 21 FEBRUARI 2027",
+    "homeTeam": "K.S.K Vlamertinge A",
+    "homeScore": null,
+    "awayTeam": "K. FC Lendelede Sport",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510426",
+    "date": "ZONDAG, 21 FEBRUARI 2027",
+    "homeTeam": "K. SV Moorsele A",
+    "homeScore": null,
+    "awayTeam": "V.V. Emelgem-Kachtem",
     "awayScore": null
   },
   {
@@ -1328,19 +1456,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510437",
-    "date": "ZONDAG, 28 FEBRUARI 2027",
-    "homeTeam": "K. SK Geluwe",
-    "homeScore": null,
-    "awayTeam": "K.S.K Vlamertinge A",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510438",
     "date": "ZONDAG, 28 FEBRUARI 2027",
     "homeTeam": "R.J.H. Comines A",
     "homeScore": null,
     "awayTeam": "SV Moorslede",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510437",
+    "date": "ZONDAG, 28 FEBRUARI 2027",
+    "homeTeam": "K. SK Geluwe",
+    "homeScore": null,
+    "awayTeam": "K.S.K Vlamertinge A",
     "awayScore": null
   },
   {
@@ -1520,19 +1648,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510460",
-    "date": "ZONDAG, 21 MAART 2027",
-    "homeTeam": "K.S.K Vlamertinge A",
-    "homeScore": null,
-    "awayTeam": "K. FC. Meulebeke",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510462",
     "date": "ZONDAG, 21 MAART 2027",
     "homeTeam": "SV Moorslede",
     "homeScore": null,
     "awayTeam": "K.S.V. Pittem",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510460",
+    "date": "ZONDAG, 21 MAART 2027",
+    "homeTeam": "K.S.K Vlamertinge A",
+    "homeScore": null,
+    "awayTeam": "K. FC. Meulebeke",
     "awayScore": null
   },
   {
@@ -1600,6 +1728,70 @@
     "awayScore": null
   },
   {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510471",
+    "date": "ZATERDAG, 10 APRIL 2027",
+    "homeTeam": "GD Ingooigem",
+    "homeScore": null,
+    "awayTeam": "V.V. Emelgem-Kachtem",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510472",
+    "date": "ZATERDAG, 10 APRIL 2027",
+    "homeTeam": "K. FC Lendelede Sport",
+    "homeScore": null,
+    "awayTeam": "K.S.V. Pittem",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510473",
+    "date": "ZATERDAG, 10 APRIL 2027",
+    "homeTeam": "K. VK Avelgem A",
+    "homeScore": null,
+    "awayTeam": "K. FC. Meulebeke",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510474",
+    "date": "ZATERDAG, 10 APRIL 2027",
+    "homeTeam": "K. SV Moorsele A",
+    "homeScore": null,
+    "awayTeam": "SC Zonnebeke A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510477",
+    "date": "ZONDAG, 11 APRIL 2027",
+    "homeTeam": "KFC Poperinge",
+    "homeScore": null,
+    "awayTeam": "R.J.H. Comines A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510478",
+    "date": "ZONDAG, 11 APRIL 2027",
+    "homeTeam": "SV Moorslede",
+    "homeScore": null,
+    "awayTeam": "K.R.C. Waregem B",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510475",
+    "date": "ZONDAG, 11 APRIL 2027",
+    "homeTeam": "K.S.K Vlamertinge A",
+    "homeScore": null,
+    "awayTeam": "SK Nieuwkerke",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510476",
+    "date": "ZONDAG, 11 APRIL 2027",
+    "homeTeam": "K. SK Geluwe",
+    "homeScore": null,
+    "awayTeam": "K. Dosko Beveren",
+    "awayScore": null
+  },
+  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510479",
     "date": "ZATERDAG, 17 APRIL 2027",
     "homeTeam": "K. Dosko Beveren",
@@ -1632,19 +1824,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510485",
-    "date": "ZONDAG, 18 APRIL 2027",
-    "homeTeam": "SV Moorslede",
-    "homeScore": null,
-    "awayTeam": "K.S.K Vlamertinge A",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510486",
     "date": "ZONDAG, 18 APRIL 2027",
     "homeTeam": "SK Nieuwkerke",
     "homeScore": null,
     "awayTeam": "KFC Poperinge",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510485",
+    "date": "ZONDAG, 18 APRIL 2027",
+    "homeTeam": "SV Moorslede",
+    "homeScore": null,
+    "awayTeam": "K.S.K Vlamertinge A",
     "awayScore": null
   },
   {
