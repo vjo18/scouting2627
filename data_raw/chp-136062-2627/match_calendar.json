@@ -32,14 +32,6 @@
     "awayScore": "1"
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514372",
-    "date": "ZONDAG, 30 AUGUSTUS 2026",
-    "homeTeam": "Koninklijke Eendracht Aalst Lede",
-    "homeScore": "3",
-    "awayTeam": "VK Ninove A",
-    "awayScore": "0"
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514375",
     "date": "ZONDAG, 30 AUGUSTUS 2026",
     "homeTeam": "RFC Wetteren",
@@ -54,6 +46,14 @@
     "homeScore": "2",
     "awayTeam": "KSV Oudenaarde",
     "awayScore": "3"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514372",
+    "date": "ZONDAG, 30 AUGUSTUS 2026",
+    "homeTeam": "Koninklijke Eendracht Aalst Lede",
+    "homeScore": "3",
+    "awayTeam": "VK Ninove A",
+    "awayScore": "0"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514373",
@@ -224,20 +224,20 @@
     "awayScore": "1"
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514397",
-    "date": "ZATERDAG, 19 SEPTEMBER 2026",
-    "homeTeam": "Racing Club Gent",
-    "homeScore": "1",
-    "awayTeam": "K.V. Diksmuide Oostende A",
-    "awayScore": "2"
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514396",
     "date": "ZATERDAG, 19 SEPTEMBER 2026",
     "homeTeam": "YRKV Mechelen B",
     "homeScore": "2",
     "awayTeam": "KM Torhout A",
     "awayScore": "1"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514397",
+    "date": "ZATERDAG, 19 SEPTEMBER 2026",
+    "homeTeam": "Racing Club Gent",
+    "homeScore": "1",
+    "awayTeam": "K.V. Diksmuide Oostende A",
+    "awayScore": "2"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514399",
@@ -392,20 +392,20 @@
     "awayScore": "0"
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514418",
-    "date": "ZATERDAG, 10 OKTOBER 2026",
-    "homeTeam": "KSV Oudenaarde",
-    "homeScore": "1",
-    "awayTeam": "KFC Voorde-Appelterre A",
-    "awayScore": "1"
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514417",
     "date": "ZATERDAG, 10 OKTOBER 2026",
     "homeTeam": "VK Ninove A",
     "homeScore": "3",
     "awayTeam": "YRKV Mechelen B",
     "awayScore": "2"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514418",
+    "date": "ZATERDAG, 10 OKTOBER 2026",
+    "homeTeam": "KSV Oudenaarde",
+    "homeScore": "1",
+    "awayTeam": "KFC Voorde-Appelterre A",
+    "awayScore": "1"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514421",
@@ -456,20 +456,20 @@
     "awayScore": "2"
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514428",
-    "date": "ZATERDAG, 17 OKTOBER 2026",
-    "homeTeam": "Racing Club Gent",
-    "homeScore": "1",
-    "awayTeam": "KSV Oudenaarde",
-    "awayScore": "0"
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514427",
     "date": "ZATERDAG, 17 OKTOBER 2026",
     "homeTeam": "YRKV Mechelen B",
     "homeScore": "4",
     "awayTeam": "SV Zulte-Waregem B",
     "awayScore": "2"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514428",
+    "date": "ZATERDAG, 17 OKTOBER 2026",
+    "homeTeam": "Racing Club Gent",
+    "homeScore": "1",
+    "awayTeam": "KSV Oudenaarde",
+    "awayScore": "0"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514431",
@@ -496,20 +496,20 @@
     "awayScore": "1"
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514429",
-    "date": "ZONDAG, 18 OKTOBER 2026",
-    "homeTeam": "KSK.Londerzeel",
-    "homeScore": "3",
-    "awayTeam": "K.V. Diksmuide Oostende A",
-    "awayScore": "2"
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514426",
     "date": "ZONDAG, 18 OKTOBER 2026",
     "homeTeam": "Sparta Petegem Deinze A",
     "homeScore": "2",
     "awayTeam": "KFCVW Hamme",
     "awayScore": "1"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514429",
+    "date": "ZONDAG, 18 OKTOBER 2026",
+    "homeTeam": "KSK.Londerzeel",
+    "homeScore": "3",
+    "awayTeam": "K.V. Diksmuide Oostende A",
+    "awayScore": "2"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514432",
@@ -576,6 +576,14 @@
     "awayScore": "6"
   },
   {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514442",
+    "date": "ZATERDAG, 31 OKTOBER 2026",
+    "homeTeam": "Sparta Petegem Deinze A",
+    "homeScore": "3",
+    "awayTeam": "KSV Oudenaarde",
+    "awayScore": "1"
+  },
+  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514441",
     "date": "ZATERDAG, 31 OKTOBER 2026",
     "homeTeam": "FC Lebbeke",
@@ -589,14 +597,6 @@
     "homeTeam": "Racing Club Gent",
     "homeScore": "1",
     "awayTeam": "YRKV Mechelen B",
-    "awayScore": "1"
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514442",
-    "date": "ZATERDAG, 31 OKTOBER 2026",
-    "homeTeam": "Sparta Petegem Deinze A",
-    "homeScore": "3",
-    "awayTeam": "KSV Oudenaarde",
     "awayScore": "1"
   },
   {
@@ -699,65 +699,65 @@
     "url": "https://www.rbfa.be/nl/wedstrijd/7514462",
     "date": "ZATERDAG, 14 NOVEMBER 2026",
     "homeTeam": "KFCVW Hamme",
-    "homeScore": null,
+    "homeScore": "1",
     "awayTeam": "Koninklijke Eendracht Aalst Lede",
-    "awayScore": null
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514456",
-    "date": "ZATERDAG, 14 NOVEMBER 2026",
-    "homeTeam": "Sparta Petegem Deinze A",
-    "homeScore": null,
-    "awayTeam": "K.S.V. Oostkamp A",
-    "awayScore": null
+    "awayScore": "1"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514458",
     "date": "ZATERDAG, 14 NOVEMBER 2026",
     "homeTeam": "K.V. Diksmuide Oostende A",
-    "homeScore": null,
+    "homeScore": "5",
     "awayTeam": "VK Ninove A",
-    "awayScore": null
+    "awayScore": "3"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514456",
+    "date": "ZATERDAG, 14 NOVEMBER 2026",
+    "homeTeam": "Sparta Petegem Deinze A",
+    "homeScore": "0",
+    "awayTeam": "K.S.V. Oostkamp A",
+    "awayScore": "2"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514457",
     "date": "ZATERDAG, 14 NOVEMBER 2026",
-    "homeTeam": "Racing Club Gent",
-    "homeScore": null,
+    "homeTeam": "Racing Club Gent A",
+    "homeScore": "0",
     "awayTeam": "KSK.Londerzeel",
-    "awayScore": null
+    "awayScore": "2"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514459",
     "date": "ZONDAG, 15 NOVEMBER 2026",
     "homeTeam": "KFC Voorde-Appelterre A",
-    "homeScore": null,
+    "homeScore": "4",
     "awayTeam": "YRKV Mechelen B",
-    "awayScore": null
+    "awayScore": "2"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514460",
     "date": "ZONDAG, 15 NOVEMBER 2026",
     "homeTeam": "KFCHO Kalken A",
-    "homeScore": null,
+    "homeScore": "1",
     "awayTeam": "SV Zulte-Waregem B",
-    "awayScore": null
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514463",
-    "date": "ZONDAG, 15 NOVEMBER 2026",
-    "homeTeam": "RFC Wetteren",
-    "homeScore": null,
-    "awayTeam": "KSV Oudenaarde",
-    "awayScore": null
+    "awayScore": "3"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514461",
     "date": "ZONDAG, 15 NOVEMBER 2026",
     "homeTeam": "KM Torhout A",
-    "homeScore": null,
+    "homeScore": "2",
     "awayTeam": "FC Lebbeke",
-    "awayScore": null
+    "awayScore": "0"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514463",
+    "date": "ZONDAG, 15 NOVEMBER 2026",
+    "homeTeam": "RFC Wetteren",
+    "homeScore": "4",
+    "awayTeam": "KSV Oudenaarde",
+    "awayScore": "1"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514466",
@@ -804,7 +804,7 @@
     "date": "ZATERDAG, 21 NOVEMBER 2026",
     "homeTeam": "FC Lebbeke",
     "homeScore": null,
-    "awayTeam": "Racing Club Gent",
+    "awayTeam": "Racing Club Gent A",
     "awayScore": null
   },
   {
@@ -840,19 +840,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514474",
-    "date": "ZATERDAG, 28 NOVEMBER 2026",
-    "homeTeam": "Racing Club Gent",
-    "homeScore": null,
-    "awayTeam": "KFCHO Kalken A",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514473",
     "date": "ZATERDAG, 28 NOVEMBER 2026",
     "homeTeam": "Sparta Petegem Deinze A",
     "homeScore": null,
     "awayTeam": "Koninklijke Eendracht Aalst Lede",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514474",
+    "date": "ZATERDAG, 28 NOVEMBER 2026",
+    "homeTeam": "Racing Club Gent A",
+    "homeScore": null,
+    "awayTeam": "KFCHO Kalken A",
     "awayScore": null
   },
   {
@@ -896,19 +896,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514480",
-    "date": "ZATERDAG, 5 DECEMBER 2026",
-    "homeTeam": "K.S.V. Oostkamp A",
-    "homeScore": null,
-    "awayTeam": "KFC Voorde-Appelterre A",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514481",
     "date": "ZATERDAG, 5 DECEMBER 2026",
     "homeTeam": "VK Ninove A",
     "homeScore": null,
     "awayTeam": "KSK.Londerzeel",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514480",
+    "date": "ZATERDAG, 5 DECEMBER 2026",
+    "homeTeam": "K.S.V. Oostkamp A",
+    "homeScore": null,
+    "awayTeam": "KFC Voorde-Appelterre A",
     "awayScore": null
   },
   {
@@ -948,7 +948,7 @@
     "date": "ZONDAG, 6 DECEMBER 2026",
     "homeTeam": "Koninklijke Eendracht Aalst Lede",
     "homeScore": null,
-    "awayTeam": "Racing Club Gent",
+    "awayTeam": "Racing Club Gent A",
     "awayScore": null
   },
   {
@@ -978,17 +978,17 @@
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514491",
     "date": "ZATERDAG, 12 DECEMBER 2026",
-    "homeTeam": "Racing Club Gent",
+    "homeTeam": "Racing Club Gent A",
     "homeScore": null,
     "awayTeam": "VK Ninove A",
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514489",
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514492",
     "date": "ZONDAG, 13 DECEMBER 2026",
-    "homeTeam": "K.S.V. Oostkamp A",
+    "homeTeam": "KSK.Londerzeel",
     "homeScore": null,
-    "awayTeam": "K.V. Diksmuide Oostende A",
+    "awayTeam": "FC Lebbeke",
     "awayScore": null
   },
   {
@@ -1008,11 +1008,11 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514492",
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514489",
     "date": "ZONDAG, 13 DECEMBER 2026",
-    "homeTeam": "KSK.Londerzeel",
+    "homeTeam": "K.S.V. Oostkamp A",
     "homeScore": null,
-    "awayTeam": "FC Lebbeke",
+    "awayTeam": "K.V. Diksmuide Oostende A",
     "awayScore": null
   },
   {
@@ -1060,7 +1060,7 @@
     "date": "ZATERDAG, 9 JANUARI 2027",
     "homeTeam": "K.V. Diksmuide Oostende A",
     "homeScore": null,
-    "awayTeam": "Racing Club Gent",
+    "awayTeam": "Racing Club Gent A",
     "awayScore": null
   },
   {
@@ -1106,7 +1106,7 @@
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514507",
     "date": "ZATERDAG, 16 JANUARI 2027",
-    "homeTeam": "Racing Club Gent",
+    "homeTeam": "Racing Club Gent A",
     "homeScore": null,
     "awayTeam": "Sparta Petegem Deinze A",
     "awayScore": null
@@ -1152,14 +1152,6 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514512",
-    "date": "ZATERDAG, 23 JANUARI 2027",
-    "homeTeam": "Sparta Petegem Deinze A",
-    "homeScore": null,
-    "awayTeam": "FC Lebbeke",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514514",
     "date": "ZATERDAG, 23 JANUARI 2027",
     "homeTeam": "K.V. Diksmuide Oostende A",
@@ -1168,9 +1160,17 @@
     "awayScore": null
   },
   {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514512",
+    "date": "ZATERDAG, 23 JANUARI 2027",
+    "homeTeam": "Sparta Petegem Deinze A",
+    "homeScore": null,
+    "awayTeam": "FC Lebbeke",
+    "awayScore": null
+  },
+  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514513",
     "date": "ZATERDAG, 23 JANUARI 2027",
-    "homeTeam": "Racing Club Gent",
+    "homeTeam": "Racing Club Gent A",
     "homeScore": null,
     "awayTeam": "K.S.V. Oostkamp A",
     "awayScore": null
@@ -1192,14 +1192,6 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514519",
-    "date": "ZONDAG, 24 JANUARI 2027",
-    "homeTeam": "RFC Wetteren",
-    "homeScore": null,
-    "awayTeam": "SV Zulte-Waregem B",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514516",
     "date": "ZONDAG, 24 JANUARI 2027",
     "homeTeam": "Koninklijke Eendracht Aalst Lede",
@@ -1213,6 +1205,14 @@
     "homeTeam": "KFCVW Hamme",
     "homeScore": null,
     "awayTeam": "KSV Oudenaarde",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514519",
+    "date": "ZONDAG, 24 JANUARI 2027",
+    "homeTeam": "RFC Wetteren",
+    "homeScore": null,
+    "awayTeam": "SV Zulte-Waregem B",
     "awayScore": null
   },
   {
@@ -1232,19 +1232,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514522",
-    "date": "ZATERDAG, 30 JANUARI 2027",
-    "homeTeam": "VK Ninove A",
-    "homeScore": null,
-    "awayTeam": "Koninklijke Eendracht Aalst Lede",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514523",
     "date": "ZATERDAG, 30 JANUARI 2027",
     "homeTeam": "KSV Oudenaarde",
     "homeScore": null,
     "awayTeam": "RFC Wetteren",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514522",
+    "date": "ZATERDAG, 30 JANUARI 2027",
+    "homeTeam": "VK Ninove A",
+    "homeScore": null,
+    "awayTeam": "Koninklijke Eendracht Aalst Lede",
     "awayScore": null
   },
   {
@@ -1268,7 +1268,7 @@
     "date": "ZONDAG, 31 JANUARI 2027",
     "homeTeam": "KFC Voorde-Appelterre A",
     "homeScore": null,
-    "awayTeam": "Racing Club Gent",
+    "awayTeam": "Racing Club Gent A",
     "awayScore": null
   },
   {
@@ -1304,14 +1304,6 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514530",
-    "date": "ZONDAG, 14 FEBRUARI 2027",
-    "homeTeam": "KSK.Londerzeel",
-    "homeScore": null,
-    "awayTeam": "SV Zulte-Waregem B",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514532",
     "date": "ZONDAG, 14 FEBRUARI 2027",
     "homeTeam": "KM Torhout A",
@@ -1320,11 +1312,11 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514533",
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514530",
     "date": "ZONDAG, 14 FEBRUARI 2027",
-    "homeTeam": "KFCHO Kalken A",
+    "homeTeam": "KSK.Londerzeel",
     "homeScore": null,
-    "awayTeam": "Racing Club Gent",
+    "awayTeam": "SV Zulte-Waregem B",
     "awayScore": null
   },
   {
@@ -1341,6 +1333,14 @@
     "homeTeam": "KFCVW Hamme",
     "homeScore": null,
     "awayTeam": "KFC Voorde-Appelterre A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514533",
+    "date": "ZONDAG, 14 FEBRUARI 2027",
+    "homeTeam": "KFCHO Kalken A",
+    "homeScore": null,
+    "awayTeam": "Racing Club Gent A",
     "awayScore": null
   },
   {
@@ -1386,7 +1386,7 @@
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514541",
     "date": "ZATERDAG, 20 FEBRUARI 2027",
-    "homeTeam": "Racing Club Gent",
+    "homeTeam": "Racing Club Gent A",
     "homeScore": null,
     "awayTeam": "Koninklijke Eendracht Aalst Lede",
     "awayScore": null
@@ -1424,14 +1424,6 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514551",
-    "date": "ZONDAG, 28 FEBRUARI 2027",
-    "homeTeam": "RFC Wetteren",
-    "homeScore": null,
-    "awayTeam": "Racing Club Gent",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514547",
     "date": "ZONDAG, 28 FEBRUARI 2027",
     "homeTeam": "Koninklijke Eendracht Aalst Lede",
@@ -1453,6 +1445,14 @@
     "homeTeam": "KSK.Londerzeel",
     "homeScore": null,
     "awayTeam": "K.S.V. Oostkamp A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514551",
+    "date": "ZONDAG, 28 FEBRUARI 2027",
+    "homeTeam": "RFC Wetteren",
+    "homeScore": null,
+    "awayTeam": "Racing Club Gent A",
     "awayScore": null
   },
   {
@@ -1506,7 +1506,7 @@
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514555",
     "date": "ZATERDAG, 6 MAART 2027",
-    "homeTeam": "Racing Club Gent",
+    "homeTeam": "Racing Club Gent A",
     "homeScore": null,
     "awayTeam": "KM Torhout A",
     "awayScore": null
@@ -1568,19 +1568,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514563",
-    "date": "ZONDAG, 14 MAART 2027",
-    "homeTeam": "KSK.Londerzeel",
-    "homeScore": null,
-    "awayTeam": "Racing Club Gent",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514567",
     "date": "ZONDAG, 14 MAART 2027",
     "homeTeam": "RFC Wetteren",
     "homeScore": null,
     "awayTeam": "YRKV Mechelen B",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514563",
+    "date": "ZONDAG, 14 MAART 2027",
+    "homeTeam": "KSK.Londerzeel",
+    "homeScore": null,
+    "awayTeam": "Racing Club Gent A",
     "awayScore": null
   },
   {
@@ -1626,7 +1626,7 @@
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514572",
     "date": "ZATERDAG, 20 MAART 2027",
-    "homeTeam": "Racing Club Gent",
+    "homeTeam": "Racing Club Gent A",
     "homeScore": null,
     "awayTeam": "FC Lebbeke",
     "awayScore": null
@@ -1688,14 +1688,6 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514578",
-    "date": "ZATERDAG, 3 APRIL 2027",
-    "homeTeam": "Racing Club Gent",
-    "homeScore": null,
-    "awayTeam": "SV Zulte-Waregem B",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514580",
     "date": "ZATERDAG, 3 APRIL 2027",
     "homeTeam": "Koninklijke Eendracht Aalst Lede",
@@ -1709,6 +1701,14 @@
     "homeTeam": "Sparta Petegem Deinze A",
     "homeScore": null,
     "awayTeam": "YRKV Mechelen B",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514578",
+    "date": "ZATERDAG, 3 APRIL 2027",
+    "homeTeam": "Racing Club Gent A",
+    "homeScore": null,
+    "awayTeam": "SV Zulte-Waregem B",
     "awayScore": null
   },
   {
@@ -1764,7 +1764,7 @@
     "date": "ZATERDAG, 10 APRIL 2027",
     "homeTeam": "YRKV Mechelen B",
     "homeScore": null,
-    "awayTeam": "Racing Club Gent",
+    "awayTeam": "Racing Club Gent A",
     "awayScore": null
   },
   {
@@ -1802,7 +1802,7 @@
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514594",
     "date": "ZATERDAG, 17 APRIL 2027",
-    "homeTeam": "Racing Club Gent",
+    "homeTeam": "Racing Club Gent A",
     "homeScore": null,
     "awayTeam": "KFCVW Hamme",
     "awayScore": null
@@ -1880,6 +1880,22 @@
     "awayScore": null
   },
   {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514603",
+    "date": "ZONDAG, 25 APRIL 2027",
+    "homeTeam": "VK Ninove A",
+    "homeScore": null,
+    "awayTeam": "K.S.V. Oostkamp A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514607",
+    "date": "ZONDAG, 25 APRIL 2027",
+    "homeTeam": "RFC Wetteren",
+    "homeScore": null,
+    "awayTeam": "KFCHO Kalken A",
+    "awayScore": null
+  },
+  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514604",
     "date": "ZONDAG, 25 APRIL 2027",
     "homeTeam": "K.V. Diksmuide Oostende A",
@@ -1900,23 +1916,7 @@
     "date": "ZONDAG, 25 APRIL 2027",
     "homeTeam": "KSV Oudenaarde",
     "homeScore": null,
-    "awayTeam": "Racing Club Gent",
-    "awayScore": null
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514603",
-    "date": "ZONDAG, 25 APRIL 2027",
-    "homeTeam": "VK Ninove A",
-    "homeScore": null,
-    "awayTeam": "K.S.V. Oostkamp A",
-    "awayScore": null
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514607",
-    "date": "ZONDAG, 25 APRIL 2027",
-    "homeTeam": "RFC Wetteren",
-    "homeScore": null,
-    "awayTeam": "KFCHO Kalken A",
+    "awayTeam": "Racing Club Gent A",
     "awayScore": null
   }
 ]

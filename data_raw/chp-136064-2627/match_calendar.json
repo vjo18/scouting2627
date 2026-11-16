@@ -24,19 +24,19 @@
     "awayScore": "1"
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514849",
-    "date": "ZONDAG, 30 AUGUSTUS 2026",
-    "homeTeam": "Erpe-Mere United",
-    "homeScore": "0",
-    "awayTeam": "SC City Pirates Antwerpen A",
-    "awayScore": "1"
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514851",
     "date": "ZONDAG, 30 AUGUSTUS 2026",
     "homeTeam": "K.V.K. Ieper",
     "homeScore": "4",
     "awayTeam": "KVV St-Denijs Sp A",
+    "awayScore": "1"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514849",
+    "date": "ZONDAG, 30 AUGUSTUS 2026",
+    "homeTeam": "Erpe-Mere United",
+    "homeScore": "0",
+    "awayTeam": "SC City Pirates Antwerpen A",
     "awayScore": "1"
   },
   {
@@ -136,14 +136,6 @@
     "awayScore": "3"
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514870",
-    "date": "ZONDAG, 13 SEPTEMBER 2026",
-    "homeTeam": "K. Sp. Club Blankenberge A",
-    "homeScore": "2",
-    "awayTeam": "KFC Wambeek Ternat A",
-    "awayScore": "1"
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514871",
     "date": "ZONDAG, 13 SEPTEMBER 2026",
     "homeTeam": "KCVV.Elewijt A",
@@ -160,12 +152,28 @@
     "awayScore": "2"
   },
   {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514870",
+    "date": "ZONDAG, 13 SEPTEMBER 2026",
+    "homeTeam": "K. Sp. Club Blankenberge A",
+    "homeScore": "2",
+    "awayTeam": "KFC Wambeek Ternat A",
+    "awayScore": "1"
+  },
+  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514866",
     "date": "ZONDAG, 13 SEPTEMBER 2026",
     "homeTeam": "F.C. Gullegem",
     "homeScore": "5",
     "awayTeam": "KVE Drongen A",
     "awayScore": "3"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514865",
+    "date": "ZONDAG, 13 SEPTEMBER 2026",
+    "homeTeam": "Avanti Stekene",
+    "homeScore": "2",
+    "awayTeam": "Zwevegem Sport",
+    "awayScore": "0"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514868",
@@ -181,14 +189,6 @@
     "homeTeam": "Olsa Brakel A",
     "homeScore": "1",
     "awayTeam": "Erpe-Mere United",
-    "awayScore": "0"
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514865",
-    "date": "ZONDAG, 13 SEPTEMBER 2026",
-    "homeTeam": "Avanti Stekene",
-    "homeScore": "2",
-    "awayTeam": "Zwevegem Sport",
     "awayScore": "0"
   },
   {
@@ -216,14 +216,6 @@
     "awayScore": "1"
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514875",
-    "date": "ZONDAG, 20 SEPTEMBER 2026",
-    "homeTeam": "Erpe-Mere United",
-    "homeScore": "2",
-    "awayTeam": "Avanti Stekene",
-    "awayScore": "0"
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514876",
     "date": "ZONDAG, 20 SEPTEMBER 2026",
     "homeTeam": "KVE Drongen A",
@@ -238,6 +230,14 @@
     "homeScore": "1",
     "awayTeam": "Olsa Brakel A",
     "awayScore": "1"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514875",
+    "date": "ZONDAG, 20 SEPTEMBER 2026",
+    "homeTeam": "Erpe-Mere United",
+    "homeScore": "2",
+    "awayTeam": "Avanti Stekene",
+    "awayScore": "0"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514873",
@@ -288,14 +288,6 @@
     "awayScore": "1"
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514884",
-    "date": "ZONDAG, 27 SEPTEMBER 2026",
-    "homeTeam": "Eendr Elene-Grotenberge A",
-    "homeScore": "2",
-    "awayTeam": "Erpe-Mere United",
-    "awayScore": "0"
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514881",
     "date": "ZONDAG, 27 SEPTEMBER 2026",
     "homeTeam": "Avanti Stekene",
@@ -318,6 +310,14 @@
     "homeScore": "2",
     "awayTeam": "KVV St-Denijs Sp A",
     "awayScore": "1"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514884",
+    "date": "ZONDAG, 27 SEPTEMBER 2026",
+    "homeTeam": "Eendr Elene-Grotenberge A",
+    "homeScore": "2",
+    "awayTeam": "Erpe-Mere United",
+    "awayScore": "0"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514888",
@@ -432,20 +432,20 @@
     "awayScore": "0"
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514903",
-    "date": "ZONDAG, 11 OKTOBER 2026",
-    "homeTeam": "KCVV.Elewijt A",
-    "homeScore": "1",
-    "awayTeam": "K. Berchem Sp. 2004 A",
-    "awayScore": "3"
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514901",
     "date": "ZONDAG, 11 OKTOBER 2026",
     "homeTeam": "K.W.S. Club Lauwe A",
     "homeScore": "1",
     "awayTeam": "KVV St-Denijs Sp A",
     "awayScore": "0"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514903",
+    "date": "ZONDAG, 11 OKTOBER 2026",
+    "homeTeam": "KCVV.Elewijt A",
+    "homeScore": "1",
+    "awayTeam": "K. Berchem Sp. 2004 A",
+    "awayScore": "3"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514904",
@@ -510,6 +510,70 @@
     "homeScore": "5",
     "awayTeam": "KCVV.Elewijt A",
     "awayScore": "0"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514912",
+    "date": "ZATERDAG, 24 OKTOBER 2026",
+    "homeTeam": "Zwevegem Sport",
+    "homeScore": "3",
+    "awayTeam": "SC City Pirates Antwerpen A",
+    "awayScore": "2"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514913",
+    "date": "ZATERDAG, 24 OKTOBER 2026",
+    "homeTeam": "K. SV Rumbeke",
+    "homeScore": "5",
+    "awayTeam": "K. Berchem Sp. 2004 A",
+    "awayScore": "1"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514915",
+    "date": "ZONDAG, 25 OKTOBER 2026",
+    "homeTeam": "KFC Wambeek Ternat A",
+    "homeScore": "0",
+    "awayTeam": "KVV St-Denijs Sp A",
+    "awayScore": "2"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514916",
+    "date": "ZONDAG, 25 OKTOBER 2026",
+    "homeTeam": "K.W.S. Club Lauwe A",
+    "homeScore": "2",
+    "awayTeam": "Erpe-Mere United",
+    "awayScore": "1"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514918",
+    "date": "ZONDAG, 25 OKTOBER 2026",
+    "homeTeam": "KVE Drongen A",
+    "homeScore": "0",
+    "awayTeam": "Eendr Elene-Grotenberge A",
+    "awayScore": "2"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514919",
+    "date": "ZONDAG, 25 OKTOBER 2026",
+    "homeTeam": "K. Sp. Club Blankenberge A",
+    "homeScore": "0",
+    "awayTeam": "K.V.K. Ieper",
+    "awayScore": "2"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514914",
+    "date": "ZONDAG, 25 OKTOBER 2026",
+    "homeTeam": "Avanti Stekene",
+    "homeScore": "0",
+    "awayTeam": "Olsa Brakel A",
+    "awayScore": "1"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514917",
+    "date": "ZONDAG, 25 OKTOBER 2026",
+    "homeTeam": "KCVV.Elewijt A",
+    "homeScore": "0",
+    "awayTeam": "F.C. Gullegem",
+    "awayScore": "2"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514921",
@@ -600,19 +664,19 @@
     "awayScore": "0"
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514934",
-    "date": "ZONDAG, 8 NOVEMBER 2026",
-    "homeTeam": "K.W.S. Club Lauwe A",
-    "homeScore": "2",
-    "awayTeam": "Olsa Brakel A",
-    "awayScore": "0"
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514931",
     "date": "ZONDAG, 8 NOVEMBER 2026",
     "homeTeam": "Erpe-Mere United",
     "homeScore": "1",
     "awayTeam": "K. Berchem Sp. 2004 A",
+    "awayScore": "0"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514934",
+    "date": "ZONDAG, 8 NOVEMBER 2026",
+    "homeTeam": "K.W.S. Club Lauwe A",
+    "homeScore": "2",
+    "awayTeam": "Olsa Brakel A",
     "awayScore": "0"
   },
   {
@@ -624,14 +688,6 @@
     "awayScore": "4"
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514935",
-    "date": "ZONDAG, 8 NOVEMBER 2026",
-    "homeTeam": "KVE Drongen A",
-    "homeScore": "1",
-    "awayTeam": "KVV St-Denijs Sp A",
-    "awayScore": "1"
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514932",
     "date": "ZONDAG, 8 NOVEMBER 2026",
     "homeTeam": "Avanti Stekene",
@@ -640,68 +696,76 @@
     "awayScore": "0"
   },
   {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514935",
+    "date": "ZONDAG, 8 NOVEMBER 2026",
+    "homeTeam": "KVE Drongen A",
+    "homeScore": "1",
+    "awayTeam": "KVV St-Denijs Sp A",
+    "awayScore": "1"
+  },
+  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514936",
     "date": "ZATERDAG, 14 NOVEMBER 2026",
     "homeTeam": "K. Berchem Sp. 2004 A",
-    "homeScore": null,
+    "homeScore": "1",
     "awayTeam": "SC City Pirates Antwerpen A",
-    "awayScore": null
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514939",
-    "date": "ZONDAG, 15 NOVEMBER 2026",
-    "homeTeam": "KCVV.Elewijt A",
-    "homeScore": null,
-    "awayTeam": "K.W.S. Club Lauwe A",
-    "awayScore": null
+    "awayScore": "2"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514938",
     "date": "ZONDAG, 15 NOVEMBER 2026",
     "homeTeam": "Eendr Elene-Grotenberge A",
-    "homeScore": null,
+    "homeScore": "4",
     "awayTeam": "KFC Wambeek Ternat A",
-    "awayScore": null
+    "awayScore": "1"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514939",
+    "date": "ZONDAG, 15 NOVEMBER 2026",
+    "homeTeam": "KCVV.Elewijt A",
+    "homeScore": "2",
+    "awayTeam": "K.W.S. Club Lauwe A",
+    "awayScore": "2"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514937",
     "date": "ZONDAG, 15 NOVEMBER 2026",
     "homeTeam": "KVV St-Denijs Sp A",
-    "homeScore": null,
+    "homeScore": "1",
     "awayTeam": "Zwevegem Sport",
-    "awayScore": null
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514942",
-    "date": "ZONDAG, 15 NOVEMBER 2026",
-    "homeTeam": "Olsa Brakel A",
-    "homeScore": null,
-    "awayTeam": "K. SV Rumbeke",
-    "awayScore": null
+    "awayScore": "0"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514943",
     "date": "ZONDAG, 15 NOVEMBER 2026",
     "homeTeam": "K. Sp. Club Blankenberge A",
-    "homeScore": null,
+    "homeScore": "2",
     "awayTeam": "Avanti Stekene",
-    "awayScore": null
+    "awayScore": "1"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514942",
+    "date": "ZONDAG, 15 NOVEMBER 2026",
+    "homeTeam": "Olsa Brakel A",
+    "homeScore": "2",
+    "awayTeam": "K. SV Rumbeke",
+    "awayScore": "0"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514940",
     "date": "ZONDAG, 15 NOVEMBER 2026",
     "homeTeam": "K.V.K. Ieper",
-    "homeScore": null,
+    "homeScore": "1",
     "awayTeam": "KVE Drongen A",
-    "awayScore": null
+    "awayScore": "0"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514941",
     "date": "ZONDAG, 15 NOVEMBER 2026",
     "homeTeam": "F.C. Gullegem",
-    "homeScore": null,
-    "awayTeam": "Erpe-Mere United",
-    "awayScore": null
+    "homeScore": "2",
+    "awayTeam": "Erpe-Mere United A",
+    "awayScore": "1"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514944",
@@ -712,19 +776,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514946",
-    "date": "ZATERDAG, 21 NOVEMBER 2026",
-    "homeTeam": "SC City Pirates Antwerpen A",
-    "homeScore": null,
-    "awayTeam": "KCVV.Elewijt A",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514945",
     "date": "ZATERDAG, 21 NOVEMBER 2026",
     "homeTeam": "K. SV Rumbeke",
     "homeScore": null,
     "awayTeam": "F.C. Gullegem",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514946",
+    "date": "ZATERDAG, 21 NOVEMBER 2026",
+    "homeTeam": "SC City Pirates Antwerpen A",
+    "homeScore": null,
+    "awayTeam": "KCVV.Elewijt A",
     "awayScore": null
   },
   {
@@ -738,7 +802,7 @@
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514947",
     "date": "ZONDAG, 22 NOVEMBER 2026",
-    "homeTeam": "Erpe-Mere United",
+    "homeTeam": "Erpe-Mere United A",
     "homeScore": null,
     "awayTeam": "K.V.K. Ieper",
     "awayScore": null
@@ -784,19 +848,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514954",
-    "date": "ZONDAG, 29 NOVEMBER 2026",
-    "homeTeam": "KVV St-Denijs Sp A",
-    "homeScore": null,
-    "awayTeam": "Erpe-Mere United",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514953",
     "date": "ZONDAG, 29 NOVEMBER 2026",
     "homeTeam": "KFC Wambeek Ternat A",
     "homeScore": null,
     "awayTeam": "K. SV Rumbeke",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514954",
+    "date": "ZONDAG, 29 NOVEMBER 2026",
+    "homeTeam": "KVV St-Denijs Sp A",
+    "homeScore": null,
+    "awayTeam": "Erpe-Mere United A",
     "awayScore": null
   },
   {
@@ -874,7 +938,7 @@
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514963",
     "date": "ZONDAG, 6 DECEMBER 2026",
-    "homeTeam": "Erpe-Mere United",
+    "homeTeam": "Erpe-Mere United A",
     "homeScore": null,
     "awayTeam": "KFC Wambeek Ternat A",
     "awayScore": null
@@ -944,14 +1008,6 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514972",
-    "date": "ZONDAG, 13 DECEMBER 2026",
-    "homeTeam": "KVE Drongen A",
-    "homeScore": null,
-    "awayTeam": "Erpe-Mere United",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514974",
     "date": "ZONDAG, 13 DECEMBER 2026",
     "homeTeam": "F.C. Gullegem",
@@ -960,11 +1016,27 @@
     "awayScore": null
   },
   {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514972",
+    "date": "ZONDAG, 13 DECEMBER 2026",
+    "homeTeam": "KVE Drongen A",
+    "homeScore": null,
+    "awayTeam": "Erpe-Mere United A",
+    "awayScore": null
+  },
+  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514976",
     "date": "ZATERDAG, 9 JANUARI 2027",
     "homeTeam": "Zwevegem Sport",
     "homeScore": null,
     "awayTeam": "Avanti Stekene",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514978",
+    "date": "ZATERDAG, 9 JANUARI 2027",
+    "homeTeam": "Erpe-Mere United A",
+    "homeScore": null,
+    "awayTeam": "K. Sp. Club Blankenberge A",
     "awayScore": null
   },
   {
@@ -997,14 +1069,6 @@
     "homeTeam": "KVV St-Denijs Sp A",
     "homeScore": null,
     "awayTeam": "KVE Drongen A",
-    "awayScore": null
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514978",
-    "date": "ZONDAG, 10 JANUARI 2027",
-    "homeTeam": "Erpe-Mere United",
-    "homeScore": null,
-    "awayTeam": "K. Sp. Club Blankenberge A",
     "awayScore": null
   },
   {
@@ -1058,7 +1122,7 @@
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514986",
     "date": "ZONDAG, 17 JANUARI 2027",
-    "homeTeam": "Erpe-Mere United",
+    "homeTeam": "Erpe-Mere United A",
     "homeScore": null,
     "awayTeam": "Zwevegem Sport",
     "awayScore": null
@@ -1092,7 +1156,7 @@
     "date": "ZATERDAG, 23 JANUARI 2027",
     "homeTeam": "K. Berchem Sp. 2004 A",
     "homeScore": null,
-    "awayTeam": "Erpe-Mere United",
+    "awayTeam": "Erpe-Mere United A",
     "awayScore": null
   },
   {
@@ -1120,19 +1184,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514999",
-    "date": "ZONDAG, 24 JANUARI 2027",
-    "homeTeam": "K. Sp. Club Blankenberge A",
-    "homeScore": null,
-    "awayTeam": "K.W.S. Club Lauwe A",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7514996",
     "date": "ZONDAG, 24 JANUARI 2027",
     "homeTeam": "K.V.K. Ieper",
     "homeScore": null,
     "awayTeam": "SC City Pirates Antwerpen A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7514999",
+    "date": "ZONDAG, 24 JANUARI 2027",
+    "homeTeam": "K. Sp. Club Blankenberge A",
+    "homeScore": null,
+    "awayTeam": "K.W.S. Club Lauwe A",
     "awayScore": null
   },
   {
@@ -1176,6 +1240,14 @@
     "awayScore": null
   },
   {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7515007",
+    "date": "ZATERDAG, 30 JANUARI 2027",
+    "homeTeam": "KVE Drongen A",
+    "homeScore": null,
+    "awayTeam": "F.C. Gullegem",
+    "awayScore": null
+  },
+  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7515004",
     "date": "ZONDAG, 31 JANUARI 2027",
     "homeTeam": "KFC Wambeek Ternat A",
@@ -1186,7 +1258,7 @@
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7515003",
     "date": "ZONDAG, 31 JANUARI 2027",
-    "homeTeam": "Erpe-Mere United",
+    "homeTeam": "Erpe-Mere United A",
     "homeScore": null,
     "awayTeam": "Eendr Elene-Grotenberge A",
     "awayScore": null
@@ -1205,14 +1277,6 @@
     "homeTeam": "KVV St-Denijs Sp A",
     "homeScore": null,
     "awayTeam": "K.V.K. Ieper",
-    "awayScore": null
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7515007",
-    "date": "ZONDAG, 31 JANUARI 2027",
-    "homeTeam": "KVE Drongen A",
-    "homeScore": null,
-    "awayTeam": "F.C. Gullegem",
     "awayScore": null
   },
   {
@@ -1264,19 +1328,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7515015",
-    "date": "ZONDAG, 14 FEBRUARI 2027",
-    "homeTeam": "KCVV.Elewijt A",
-    "homeScore": null,
-    "awayTeam": "Erpe-Mere United",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7515012",
     "date": "ZONDAG, 14 FEBRUARI 2027",
     "homeTeam": "K.W.S. Club Lauwe A",
     "homeScore": null,
     "awayTeam": "SC City Pirates Antwerpen A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7515015",
+    "date": "ZONDAG, 14 FEBRUARI 2027",
+    "homeTeam": "KCVV.Elewijt A",
+    "homeScore": null,
+    "awayTeam": "Erpe-Mere United A",
     "awayScore": null
   },
   {
@@ -1322,7 +1386,7 @@
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7515019",
     "date": "ZONDAG, 21 FEBRUARI 2027",
-    "homeTeam": "Erpe-Mere United",
+    "homeTeam": "Erpe-Mere United A",
     "homeScore": null,
     "awayTeam": "F.C. Gullegem",
     "awayScore": null
@@ -1368,14 +1432,6 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7515026",
-    "date": "ZONDAG, 28 FEBRUARI 2027",
-    "homeTeam": "Avanti Stekene",
-    "homeScore": null,
-    "awayTeam": "Erpe-Mere United",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7515028",
     "date": "ZONDAG, 28 FEBRUARI 2027",
     "homeTeam": "K.W.S. Club Lauwe A",
@@ -1389,6 +1445,14 @@
     "homeTeam": "KVE Drongen A",
     "homeScore": null,
     "awayTeam": "SC City Pirates Antwerpen A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7515026",
+    "date": "ZONDAG, 28 FEBRUARI 2027",
+    "homeTeam": "Avanti Stekene",
+    "homeScore": null,
+    "awayTeam": "Erpe-Mere United A",
     "awayScore": null
   },
   {
@@ -1412,7 +1476,7 @@
     "date": "ZATERDAG, 6 MAART 2027",
     "homeTeam": "SC City Pirates Antwerpen A",
     "homeScore": null,
-    "awayTeam": "Erpe-Mere United",
+    "awayTeam": "Erpe-Mere United A",
     "awayScore": null
   },
   {
@@ -1480,14 +1544,6 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7515044",
-    "date": "ZONDAG, 14 MAART 2027",
-    "homeTeam": "F.C. Gullegem",
-    "homeScore": null,
-    "awayTeam": "K. Sp. Club Blankenberge A",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7515046",
     "date": "ZONDAG, 14 MAART 2027",
     "homeTeam": "Eendr Elene-Grotenberge A",
@@ -1496,9 +1552,17 @@
     "awayScore": null
   },
   {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7515044",
+    "date": "ZONDAG, 14 MAART 2027",
+    "homeTeam": "F.C. Gullegem",
+    "homeScore": null,
+    "awayTeam": "K. Sp. Club Blankenberge A",
+    "awayScore": null
+  },
+  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7515041",
     "date": "ZONDAG, 14 MAART 2027",
-    "homeTeam": "Erpe-Mere United",
+    "homeTeam": "Erpe-Mere United A",
     "homeScore": null,
     "awayTeam": "Olsa Brakel A",
     "awayScore": null
@@ -1560,14 +1624,6 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7515051",
-    "date": "ZONDAG, 21 MAART 2027",
-    "homeTeam": "K.V.K. Ieper",
-    "homeScore": null,
-    "awayTeam": "Erpe-Mere United",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7515054",
     "date": "ZONDAG, 21 MAART 2027",
     "homeTeam": "KVV St-Denijs Sp A",
@@ -1597,6 +1653,14 @@
     "homeTeam": "KFC Wambeek Ternat A",
     "homeScore": null,
     "awayTeam": "Avanti Stekene",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7515051",
+    "date": "ZONDAG, 21 MAART 2027",
+    "homeTeam": "K.V.K. Ieper",
+    "homeScore": null,
+    "awayTeam": "Erpe-Mere United A",
     "awayScore": null
   },
   {
@@ -1640,11 +1704,11 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7515057",
-    "date": "ZONDAG, 4 APRIL 2027",
-    "homeTeam": "Erpe-Mere United",
+    "url": "https://www.rbfa.be/nl/wedstrijd/7515058",
+    "date": "ZATERDAG, 3 APRIL 2027",
+    "homeTeam": "KVE Drongen A",
     "homeScore": null,
-    "awayTeam": "KVV St-Denijs Sp A",
+    "awayTeam": "K. SV Rumbeke",
     "awayScore": null
   },
   {
@@ -1656,11 +1720,11 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7515058",
+    "url": "https://www.rbfa.be/nl/wedstrijd/7515057",
     "date": "ZONDAG, 4 APRIL 2027",
-    "homeTeam": "KVE Drongen A",
+    "homeTeam": "Erpe-Mere United A",
     "homeScore": null,
-    "awayTeam": "K. SV Rumbeke",
+    "awayTeam": "KVV St-Denijs Sp A",
     "awayScore": null
   },
   {
@@ -1676,7 +1740,7 @@
     "date": "ZATERDAG, 10 APRIL 2027",
     "homeTeam": "K. SV Rumbeke",
     "homeScore": null,
-    "awayTeam": "Erpe-Mere United",
+    "awayTeam": "Erpe-Mere United A",
     "awayScore": null
   },
   {
@@ -1744,14 +1808,6 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7515074",
-    "date": "ZONDAG, 18 APRIL 2027",
-    "homeTeam": "Erpe-Mere United",
-    "homeScore": null,
-    "awayTeam": "K.W.S. Club Lauwe A",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7515075",
     "date": "ZONDAG, 18 APRIL 2027",
     "homeTeam": "KVE Drongen A",
@@ -1773,6 +1829,14 @@
     "homeTeam": "F.C. Gullegem",
     "homeScore": null,
     "awayTeam": "KCVV.Elewijt A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7515074",
+    "date": "ZONDAG, 18 APRIL 2027",
+    "homeTeam": "Erpe-Mere United A",
+    "homeScore": null,
+    "awayTeam": "K.W.S. Club Lauwe A",
     "awayScore": null
   },
   {
@@ -1840,14 +1904,6 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7515082",
-    "date": "ZONDAG, 25 APRIL 2027",
-    "homeTeam": "KFC Wambeek Ternat A",
-    "homeScore": null,
-    "awayTeam": "Erpe-Mere United",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7515084",
     "date": "ZONDAG, 25 APRIL 2027",
     "homeTeam": "Olsa Brakel A",
@@ -1856,67 +1912,11 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514912",
-    "date": "ZATERDAG, 24 OKTOBER 2026",
-    "homeTeam": "Zwevegem Sport",
-    "homeScore": "3",
-    "awayTeam": "SC City Pirates Antwerpen A",
-    "awayScore": "2"
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514913",
-    "date": "ZATERDAG, 24 OKTOBER 2026",
-    "homeTeam": "K. SV Rumbeke",
-    "homeScore": "5",
-    "awayTeam": "K. Berchem Sp. 2004 A",
-    "awayScore": "1"
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514915",
-    "date": "ZONDAG, 25 OKTOBER 2026",
+    "url": "https://www.rbfa.be/nl/wedstrijd/7515082",
+    "date": "ZONDAG, 25 APRIL 2027",
     "homeTeam": "KFC Wambeek Ternat A",
-    "homeScore": "0",
-    "awayTeam": "KVV St-Denijs Sp A",
-    "awayScore": "2"
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514916",
-    "date": "ZONDAG, 25 OKTOBER 2026",
-    "homeTeam": "K.W.S. Club Lauwe A",
-    "homeScore": "2",
-    "awayTeam": "Erpe-Mere United",
-    "awayScore": "1"
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514919",
-    "date": "ZONDAG, 25 OKTOBER 2026",
-    "homeTeam": "K. Sp. Club Blankenberge A",
-    "homeScore": "0",
-    "awayTeam": "K.V.K. Ieper",
-    "awayScore": "2"
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514914",
-    "date": "ZONDAG, 25 OKTOBER 2026",
-    "homeTeam": "Avanti Stekene",
-    "homeScore": "0",
-    "awayTeam": "Olsa Brakel A",
-    "awayScore": "1"
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514918",
-    "date": "ZONDAG, 25 OKTOBER 2026",
-    "homeTeam": "KVE Drongen A",
-    "homeScore": "0",
-    "awayTeam": "Eendr Elene-Grotenberge A",
-    "awayScore": "2"
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7514917",
-    "date": "ZONDAG, 25 OKTOBER 2026",
-    "homeTeam": "KCVV.Elewijt A",
-    "homeScore": "0",
-    "awayTeam": "F.C. Gullegem",
-    "awayScore": "2"
+    "homeScore": null,
+    "awayTeam": "Erpe-Mere United A",
+    "awayScore": null
   }
 ]

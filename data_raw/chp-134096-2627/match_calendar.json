@@ -240,20 +240,20 @@
     "awayScore": "3"
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510024",
-    "date": "ZONDAG, 20 SEPTEMBER 2026",
-    "homeTeam": "K. E. De Haan",
-    "homeScore": "3",
-    "awayTeam": "Dar. Brugge",
-    "awayScore": "1"
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510028",
     "date": "ZONDAG, 20 SEPTEMBER 2026",
     "homeTeam": "K.F.C. Eendracht Hooglede",
     "homeScore": "4",
     "awayTeam": "K. WS Houthulst A",
     "awayScore": "2"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510024",
+    "date": "ZONDAG, 20 SEPTEMBER 2026",
+    "homeTeam": "K. E. De Haan",
+    "homeScore": "3",
+    "awayTeam": "Dar. Brugge",
+    "awayScore": "1"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510032",
@@ -552,20 +552,20 @@
     "awayScore": "2"
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510070",
-    "date": "ZONDAG, 25 OKTOBER 2026",
-    "homeTeam": "KM Torhout B",
-    "homeScore": "1",
-    "awayTeam": "Jong Male K.V.V.",
-    "awayScore": "6"
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510073",
     "date": "ZONDAG, 25 OKTOBER 2026",
     "homeTeam": "K. SV Bredene A",
     "homeScore": "1",
     "awayTeam": "K. Exc. Zedelgem A",
     "awayScore": "3"
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510070",
+    "date": "ZONDAG, 25 OKTOBER 2026",
+    "homeTeam": "KM Torhout B",
+    "homeScore": "1",
+    "awayTeam": "Jong Male K.V.V.",
+    "awayScore": "6"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510072",
@@ -707,17 +707,17 @@
     "url": "https://www.rbfa.be/nl/wedstrijd/7510090",
     "date": "ZATERDAG, 14 NOVEMBER 2026",
     "homeTeam": "VV Koekelare A",
-    "homeScore": null,
+    "homeScore": "3",
     "awayTeam": "Dar. Brugge",
-    "awayScore": null
+    "awayScore": "0"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510092",
     "date": "ZATERDAG, 14 NOVEMBER 2026",
     "homeTeam": "K. Exc. Zedelgem A",
-    "homeScore": null,
+    "homeScore": "0",
     "awayTeam": "Jong Male K.V.V.",
-    "awayScore": null
+    "awayScore": "2"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510093",
@@ -731,41 +731,41 @@
     "url": "https://www.rbfa.be/nl/wedstrijd/7510094",
     "date": "ZATERDAG, 14 NOVEMBER 2026",
     "homeTeam": "VK Zerkegem A",
-    "homeScore": null,
+    "homeScore": "0",
     "awayTeam": "K. Dar. Ruddervoorde A",
-    "awayScore": null
+    "awayScore": "0"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510095",
     "date": "ZONDAG, 15 NOVEMBER 2026",
     "homeTeam": "K.F.C. Eendracht Hooglede",
-    "homeScore": null,
+    "homeScore": "1",
     "awayTeam": "K.V. Diksmuide Oostende B",
-    "awayScore": null
+    "awayScore": "2"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510096",
     "date": "ZONDAG, 15 NOVEMBER 2026",
     "homeTeam": "K. Dosko Sint-Kruis",
-    "homeScore": null,
+    "homeScore": "1",
     "awayTeam": "KM Torhout B",
-    "awayScore": null
+    "awayScore": "3"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510097",
     "date": "ZONDAG, 15 NOVEMBER 2026",
     "homeTeam": "K. SV Jabbeke A",
-    "homeScore": null,
+    "homeScore": "3",
     "awayTeam": "K. VC Wingene A",
-    "awayScore": null
+    "awayScore": "2"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510098",
     "date": "ZONDAG, 15 NOVEMBER 2026",
     "homeTeam": "K. WS Oudenburg",
-    "homeScore": null,
+    "homeScore": "4",
     "awayTeam": "K. E. De Haan",
-    "awayScore": null
+    "awayScore": "0"
   },
   {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510099",
@@ -808,14 +808,6 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510105",
-    "date": "ZONDAG, 22 NOVEMBER 2026",
-    "homeTeam": "Jong Male K.V.V.",
-    "homeScore": null,
-    "awayTeam": "K. SV Jabbeke A",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510103",
     "date": "ZONDAG, 22 NOVEMBER 2026",
     "homeTeam": "K. E. De Haan",
@@ -829,6 +821,14 @@
     "homeTeam": "KM Torhout B",
     "homeScore": null,
     "awayTeam": "K. Exc. Zedelgem A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510105",
+    "date": "ZONDAG, 22 NOVEMBER 2026",
+    "homeTeam": "Jong Male K.V.V.",
+    "homeScore": null,
+    "awayTeam": "K. SV Jabbeke A",
     "awayScore": null
   },
   {
@@ -912,6 +912,14 @@
     "awayScore": null
   },
   {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510122",
+    "date": "ZATERDAG, 5 DECEMBER 2026",
+    "homeTeam": "Jong Male K.V.V.",
+    "homeScore": null,
+    "awayTeam": "K. Dosko Sint-Kruis",
+    "awayScore": null
+  },
+  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510117",
     "date": "ZATERDAG, 5 DECEMBER 2026",
     "homeTeam": "K. VC Wingene A",
@@ -933,14 +941,6 @@
     "homeTeam": "Dar. Brugge",
     "homeScore": null,
     "awayTeam": "K.F.C. Eendracht Hooglede",
-    "awayScore": null
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510122",
-    "date": "ZONDAG, 6 DECEMBER 2026",
-    "homeTeam": "Jong Male K.V.V.",
-    "homeScore": null,
-    "awayTeam": "K. Dosko Sint-Kruis",
     "awayScore": null
   },
   {
@@ -1000,19 +1000,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510130",
-    "date": "ZONDAG, 13 DECEMBER 2026",
-    "homeTeam": "K.V. Diksmuide Oostende B",
-    "homeScore": null,
-    "awayTeam": "K. E. De Haan",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510131",
     "date": "ZONDAG, 13 DECEMBER 2026",
     "homeTeam": "K. WS Oudenburg",
     "homeScore": null,
     "awayTeam": "VK Zerkegem A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510130",
+    "date": "ZONDAG, 13 DECEMBER 2026",
+    "homeTeam": "K.V. Diksmuide Oostende B",
+    "homeScore": null,
+    "awayTeam": "K. E. De Haan",
     "awayScore": null
   },
   {
@@ -1160,19 +1160,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510151",
-    "date": "ZATERDAG, 23 JANUARI 2027",
-    "homeTeam": "K. WS Houthulst A",
-    "homeScore": null,
-    "awayTeam": "KM Torhout B",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510149",
     "date": "ZATERDAG, 23 JANUARI 2027",
     "homeTeam": "K. Exc. Zedelgem A",
     "homeScore": null,
     "awayTeam": "K. E. De Haan",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510151",
+    "date": "ZATERDAG, 23 JANUARI 2027",
+    "homeTeam": "K. WS Houthulst A",
+    "homeScore": null,
+    "awayTeam": "KM Torhout B",
     "awayScore": null
   },
   {
@@ -1432,19 +1432,19 @@
     "awayScore": null
   },
   {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510185",
+    "date": "ZATERDAG, 27 FEBRUARI 2027",
+    "homeTeam": "K. SV Jabbeke A",
+    "homeScore": null,
+    "awayTeam": "K.F.C. Eendracht Hooglede",
+    "awayScore": null
+  },
+  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510184",
     "date": "ZATERDAG, 27 FEBRUARI 2027",
     "homeTeam": "VK Zerkegem A",
     "homeScore": null,
     "awayTeam": "KM Torhout B",
-    "awayScore": null
-  },
-  {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510185",
-    "date": "ZONDAG, 28 FEBRUARI 2027",
-    "homeTeam": "K. SV Jabbeke A",
-    "homeScore": null,
-    "awayTeam": "K.F.C. Eendracht Hooglede",
     "awayScore": null
   },
   {
@@ -1512,19 +1512,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510195",
-    "date": "ZONDAG, 7 MAART 2027",
-    "homeTeam": "KM Torhout B",
-    "homeScore": null,
-    "awayTeam": "K. SV Bredene A",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510197",
     "date": "ZONDAG, 7 MAART 2027",
     "homeTeam": "K.F.C. Eendracht Hooglede",
     "homeScore": null,
     "awayTeam": "K. WS Oudenburg",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510195",
+    "date": "ZONDAG, 7 MAART 2027",
+    "homeTeam": "KM Torhout B",
+    "homeScore": null,
+    "awayTeam": "K. SV Bredene A",
     "awayScore": null
   },
   {
@@ -1664,19 +1664,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510219",
-    "date": "ZATERDAG, 3 APRIL 2027",
-    "homeTeam": "K.V. Diksmuide Oostende B",
-    "homeScore": null,
-    "awayTeam": "K. SV Bredene A",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510218",
     "date": "ZATERDAG, 3 APRIL 2027",
     "homeTeam": "K. E. De Haan",
     "homeScore": null,
     "awayTeam": "K. Dosko Sint-Kruis",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510219",
+    "date": "ZATERDAG, 3 APRIL 2027",
+    "homeTeam": "K.V. Diksmuide Oostende B",
+    "homeScore": null,
+    "awayTeam": "K. SV Bredene A",
     "awayScore": null
   },
   {
@@ -1808,14 +1808,6 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510237",
-    "date": "ZONDAG, 18 APRIL 2027",
-    "homeTeam": "K.F.C. Eendracht Hooglede",
-    "homeScore": null,
-    "awayTeam": "VV Koekelare A",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510236",
     "date": "ZONDAG, 18 APRIL 2027",
     "homeTeam": "K.V. Diksmuide Oostende B",
@@ -1829,6 +1821,14 @@
     "homeTeam": "K. WS Oudenburg",
     "homeScore": null,
     "awayTeam": "K. SV Jabbeke A",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510237",
+    "date": "ZONDAG, 18 APRIL 2027",
+    "homeTeam": "K.F.C. Eendracht Hooglede",
+    "homeScore": null,
+    "awayTeam": "VV Koekelare A",
     "awayScore": null
   },
   {
@@ -1872,19 +1872,19 @@
     "awayScore": null
   },
   {
-    "url": "https://www.rbfa.be/nl/wedstrijd/7510247",
-    "date": "ZONDAG, 25 APRIL 2027",
-    "homeTeam": "K. SV Jabbeke A",
-    "homeScore": null,
-    "awayTeam": "VK Zerkegem A",
-    "awayScore": null
-  },
-  {
     "url": "https://www.rbfa.be/nl/wedstrijd/7510241",
     "date": "ZONDAG, 25 APRIL 2027",
     "homeTeam": "Dar. Brugge",
     "homeScore": null,
     "awayTeam": "K. WS Oudenburg",
+    "awayScore": null
+  },
+  {
+    "url": "https://www.rbfa.be/nl/wedstrijd/7510247",
+    "date": "ZONDAG, 25 APRIL 2027",
+    "homeTeam": "K. SV Jabbeke A",
+    "homeScore": null,
+    "awayTeam": "VK Zerkegem A",
     "awayScore": null
   },
   {
